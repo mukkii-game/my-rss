@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>AimanaVo</title>
     <link>https://aimanavo.com/</link>
@@ -10,49 +10,56 @@
       <title>Sora 2が止まる9月24日、縦型動画のプロンプトはどこへ持っていくか。</title>
       <link>https://aimanavo.com/c/nanabpm/a/XQ8UGJrd42SDoQ</link>
       <guid isPermaLink="true">https://aimanavo.com/c/nanabpm/a/XQ8UGJrd42SDoQ</guid>
-      <description>9月24日でSora 2のAPIが止まります。OpenAIの廃止予定表には移行先の欄があるんですが、Sora 2の...</description>
+      <media:thumbnail url="https://static.aimanavo.com/ovfofu05te6oll4xgqypwjt5ifh6.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/ovfofu05te6oll4xgqypwjt5ifh6.webp" alt="Sora 2が止まる9月24日、縦型動画のプロンプトはどこへ持っていくか。" /&gt;&lt;/p&gt;9月24日でSora 2のAPIが止まります。OpenAIの廃止予定表には移行先の欄があるんですが、Sora 2の...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
     <item>
       <title>Jevを再現しようとしたモデル6本、設計はどこで割れたか。</title>
       <link>https://aimanavo.com/c/gennnn/a/HeQh_sALzSS3HQ</link>
       <guid isPermaLink="true">https://aimanavo.com/c/gennnn/a/HeQh_sALzSS3HQ</guid>
-      <description>新しいモデルが出たとき、たいていクローンは1本か2本、しかも同じ作り方で出てきます。Jevは違いました。公開から2...</description>
+      <media:thumbnail url="https://static.aimanavo.com/s1ewbngfkfo0vs1mudchd3pz1dkz.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/s1ewbngfkfo0vs1mudchd3pz1dkz.webp" alt="Jevを再現しようとしたモデル6本、設計はどこで割れたか。" /&gt;&lt;/p&gt;新しいモデルが出たとき、たいていクローンは1本か2本、しかも同じ作り方で出てきます。Jevは違いました。公開から2...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
     <item>
       <title>端材を撮ると、AIが作れる物を教えてくれた。</title>
       <link>https://aimanavo.com/c/sawdustlab/a/O7EOI0FEjokh-w</link>
       <guid isPermaLink="true">https://aimanavo.com/c/sawdustlab/a/O7EOI0FEjokh-w</guid>
-      <description>作業台の下のコンテナに、切れ端がたまっていく一方なんですよ。捨てるには惜しいのに、この長さで何が作れるのかが毎回思...</description>
+      <media:thumbnail url="https://static.aimanavo.com/fpfhsp7e41l5o7dbmgf1zc3qhjj3.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/fpfhsp7e41l5o7dbmgf1zc3qhjj3.webp" alt="端材を撮ると、AIが作れる物を教えてくれた。" /&gt;&lt;/p&gt;作業台の下のコンテナに、切れ端がたまっていく一方なんですよ。捨てるには惜しいのに、この長さで何が作れるのかが毎回思...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
     <item>
       <title>空いてる日を自分で数えなくても、旅程は組めるか。</title>
       <link>https://aimanavo.com/c/rinotrip/a/J6AuZnRtKZRmJw</link>
       <guid isPermaLink="true">https://aimanavo.com/c/rinotrip/a/J6AuZnRtKZRmJw</guid>
-      <description>「今週末どこか行きたい」で止まるとき、止まっているのは行き先じゃなくて日付のほうだったりします。カレンダーを開いて...</description>
+      <media:thumbnail url="https://static.aimanavo.com/v6cs6hp0v0pm2kwmtjxqc9spfs75.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/v6cs6hp0v0pm2kwmtjxqc9spfs75.webp" alt="空いてる日を自分で数えなくても、旅程は組めるか。" /&gt;&lt;/p&gt;「今週末どこか行きたい」で止まるとき、止まっているのは行き先じゃなくて日付のほうだったりします。カレンダーを開いて...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
     <item>
       <title>ElevenLabs Receptionは、日本の一人社長の電話番になるか。</title>
       <link>https://aimanavo.com/c/mihonoblog/a/xjG9wV4o_Don9w</link>
       <guid isPermaLink="true">https://aimanavo.com/c/mihonoblog/a/xjG9wV4o_Don9w</guid>
-      <description>「お世話になっております、ホームページ制作の件で」で始まる電話を、先週は1日3本切りました。しんどいのは通話の2分...</description>
+      <media:thumbnail url="https://static.aimanavo.com/ovvsexqpqdv2h2yqt31pfjlpfufl.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/ovvsexqpqdv2h2yqt31pfjlpfufl.webp" alt="ElevenLabs Receptionは、日本の一人社長の電話番になるか。" /&gt;&lt;/p&gt;「お世話になっております、ホームページ制作の件で」で始まる電話を、先週は1日3本切りました。しんどいのは通話の2分...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
     <item>
       <title>欲しい服の見た目を、言葉でAIに伝えられるか。</title>
       <link>https://aimanavo.com/c/closetnote/a/yS8KIETllbWlDw</link>
       <guid isPermaLink="true">https://aimanavo.com/c/closetnote/a/yS8KIETllbWlDw</guid>
-      <description>「きれいめの白ブラウス」で検索して、出てきた200件を上から眺めているうちに、自分が何を探していたのか分からなくな...</description>
+      <media:thumbnail url="https://static.aimanavo.com/s8hofure502bgj5ozyxdaevx7tvd.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/s8hofure502bgj5ozyxdaevx7tvd.webp" alt="欲しい服の見た目を、言葉でAIに伝えられるか。" /&gt;&lt;/p&gt;「きれいめの白ブラウス」で検索して、出てきた200件を上から眺めているうちに、自分が何を探していたのか分からなくな...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
     <item>
       <title>相手を待たせるAIと、英会話の練習はどう変わるか。</title>
       <link>https://aimanavo.com/c/emma_ldn/a/W4gC30UwiJC8XQ</link>
       <guid isPermaLink="true">https://aimanavo.com/c/emma_ldn/a/W4gC30UwiJC8XQ</guid>
-      <description>英語で話し始めて、単語が出てこなくて、言い直そうと息を吸った瞬間に相手が喋り出す。これ、人間の先生相手より気まずい...</description>
+      <media:thumbnail url="https://static.aimanavo.com/pzgdf9m1czg7ymh4e5rh2ul6v3lg.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/pzgdf9m1czg7ymh4e5rh2ul6v3lg.webp" alt="相手を待たせるAIと、英会話の練習はどう変わるか。" /&gt;&lt;/p&gt;英語で話し始めて、単語が出てこなくて、言い直そうと息を吸った瞬間に相手が喋り出す。これ、人間の先生相手より気まずい...</description>
       <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
   </channel>
