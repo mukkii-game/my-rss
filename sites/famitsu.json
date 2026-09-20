@@ -1,0 +1,15 @@
+{
+  "name": "ファミ通.com",
+  "url": "https://www.famitsu.com/category/new-article/page/1",
+  "description": "公開新着一覧のタイトル・リンク（非公式RSS、RSSHubの代替）",
+  "item_selector": "main [class*='ArticleList_list'] p a[href^='/article/']",
+  "title": {"selector": ":scope"},
+  "link": {"selector": ":scope", "attribute": "href"},
+  "fallback": {
+    "item_selector": "main [class*='ArticleList_list'] a[aria-label][href^='/article/']",
+    "title": {"selector": ":scope", "attribute": "aria-label"},
+    "link": {"selector": ":scope", "attribute": "href"}
+  },
+  "url_pattern": "^https://www\\.famitsu\\.com/article/[0-9]+/[0-9]+$",
+  "max_items": 100
+}

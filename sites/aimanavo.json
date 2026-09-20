@@ -1,0 +1,16 @@
+{
+  "name": "AimanaVo",
+  "url": "https://aimanavo.com/",
+  "description": "公開新着欄のタイトル・概要・リンク（非公式RSS）",
+  "item_selector": "article.tl-item",
+  "title": {"selector": ".tl-item__title a"},
+  "link": {"selector": ".tl-item__title a", "attribute": "href"},
+  "summary": {"selector": ".tl-item__lede"},
+  "fallback": {
+    "item_selector": ".top-block--timeline h3 a[href*='/a/']",
+    "title": {"selector": ":scope"},
+    "link": {"selector": ":scope", "attribute": "href"}
+  },
+  "url_pattern": "^https://aimanavo\\.com/c/[^/]+/a/[^/?#]+$",
+  "max_items": 100
+}

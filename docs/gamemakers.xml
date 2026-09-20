@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>GameMakers</title>
+    <link>https://gamemakers.jp/</link>
+    <description>公開記事一覧のタイトル・日付・リンク（非公式RSS）</description>
+    <language>ja</language>
+    <ttl>60</ttl>
+    <item>
+      <title>「東京ゲームショウ2026」最終日9/21（月・祝）は開催中止。台風25号接近のため</title>
+      <link>https://gamemakers.jp/article/2026_09_19_145500/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_19_145500/</guid>
+      <description />
+      <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ヴァンサバライク×オープンワールドRPG『マナアルケミー』試遊レポ。攻撃パターンを自作できる「魔法ビルド」など、戦闘に手応えを生む工夫も訊いた【TGS2026】</title>
+      <link>https://gamemakers.jp/article/2026_09_19_145447/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_19_145447/</guid>
+      <description />
+      <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゲーム開発関連ツールのリリース・アップデートまとめ【2026/9/19】</title>
+      <link>https://gamemakers.jp/article/2026_09_19_145551/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_19_145551/</guid>
+      <description />
+      <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『STRANGER THAN HEAVEN』の5つの時代の街と音に酔える。セガ／アトラスブースレポート【TGS2026】</title>
+      <link>https://gamemakers.jp/article/2026_09_18_145376/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_18_145376/</guid>
+      <description />
+      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【来週末開催！】ポートフォリオ添削や『スト6』キャラデザ講演も！トップアーティストの知見を学べる「Tokyo Anim Unite 2026」、9/26（土）・27（日）に開催</title>
+      <link>https://gamemakers.jp/article/2026_09_18_145352/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_18_145352/</guid>
+      <description />
+      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ユーザー動向や課金率などデータ分析手法を体系化。『ゲームを進化させるデータ分析完全ガイド』、翔泳社が販売中</title>
+      <link>https://gamemakers.jp/article/2026_09_18_145083/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_18_145083/</guid>
+      <description />
+      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『UN:Me』試遊＆体験型展示「不安回廊」レポート。ひとりの少女に宿る4つの魂。誰を消すかはプレイヤー自身が選択する【TGS2026】</title>
+      <link>https://gamemakers.jp/article/2026_09_18_145295/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_18_145295/</guid>
+      <description />
+      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>海外パブリッシャーの心をつかむ秘訣は？ジェトロのインディーゲーム支援事例も紹介されたセッションをレポート【TGS2026】</title>
+      <link>https://gamemakers.jp/article/2026_09_18_145320/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_18_145320/</guid>
+      <description />
+      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>20周年を迎えたROG、XBOXと再びタッグ。ポータブルゲーミングPC「ROG XBOX Ally X20」、10/16（金）に発売！</title>
+      <link>https://gamemakers.jp/article/2026_09_17_145142/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_17_145142/</guid>
+      <description />
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「ゲーム制作の早期教育を」CESA辻本会長が語る、官民連携で挑む次世代クリエイター支援【東京ゲームショウ2026】</title>
+      <link>https://gamemakers.jp/article/2026_09_17_145263/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_17_145263/</guid>
+      <description />
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>攻撃のたびにヒット音がランダムで変化。『Absolum』のWwiseによるサウンド実装事例、Audiokineticがブログで紹介</title>
+      <link>https://gamemakers.jp/article/2026_09_17_144969/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_17_144969/</guid>
+      <description />
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>25年前のFPSがベースの『Arma: Cold War Assault Remastered』、ゲームとエンジンのソースコードが公開</title>
+      <link>https://gamemakers.jp/article/2026_09_16_145133/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_16_145133/</guid>
+      <description />
+      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>キャラは1体あたり3万ポリゴン以内で運用、顔の法線は真正面に統一。コロプラ、スマホ/PC向けゲーム『異世界∞異世界』のモデル仕様をブログで解説</title>
+      <link>https://gamemakers.jp/article/2026_09_16_145061/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_16_145061/</guid>
+      <description />
+      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「TOKYO INDIE GAMES SUMMIT 2027」、3/27（土）・28（日）に開催決定。出展費は無料、11/15（日）まで募集中</title>
+      <link>https://gamemakers.jp/article/2026_09_15_145069/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_15_145069/</guid>
+      <description />
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>今年もEpic代表Tim Sweeney氏が登壇！「Unreal Fest Tokyo 2026」約30の講演情報が発表</title>
+      <link>https://gamemakers.jp/article/2026_09_15_145031/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_15_145031/</guid>
+      <description />
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Valve、VRヘッドセット「Steam Frame」を発売。1,059ドルから、開発者キットの申請も受付</title>
+      <link>https://gamemakers.jp/article/2026_09_15_145020/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_15_145020/</guid>
+      <description />
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3ds Max向けmocopi公式プラグインがオープンソースで公開。 MotionBuilderを介さず、モーションをリアルタイムで反映</title>
+      <link>https://gamemakers.jp/article/2026_09_14_144998/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_14_144998/</guid>
+      <description />
+      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robloxのゲームを単体アプリとして配信可能に。「Roblox Everywhere」がまもなく登場</title>
+      <link>https://gamemakers.jp/article/2026_09_14_144988/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_14_144988/</guid>
+      <description />
+      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ジョーカーなどの名悪役はなぜ魅力的なのか？キャラクター造形の指南書『悪役（ヴィラン）の条件 魅力的な悪役を創作するためのキーワード17』、9/17（木）に発売</title>
+      <link>https://gamemakers.jp/article/2026_09_14_144749/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_14_144749/</guid>
+      <description />
+      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>無料&amp;オープンソースの3D編集ツール「SuperSplat」、ver3.0がリリース。WebGPUベースで刷新、3D空間の一部を直接選択・ペイント可能に</title>
+      <link>https://gamemakers.jp/article/2026_09_13_144746/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_13_144746/</guid>
+      <description />
+      <pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゲーム開発関連ツールのリリース・アップデートまとめ【2026/9/12】</title>
+      <link>https://gamemakers.jp/article/2026_09_12_144915/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_12_144915/</guid>
+      <description />
+      <pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>49型ウルトラワイドのフラットモニターは世界初!? INNOCNの「E49M1R」、発売記念価格で約13.6万円</title>
+      <link>https://gamemakers.jp/article/2026_09_12_144806/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_12_144806/</guid>
+      <description />
+      <pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゲーム業界における国内最大規模のカンファレンス「CEDEC2027」、7/14（水）～16（金）に開催決定</title>
+      <link>https://gamemakers.jp/article/2026_09_11_144896/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_11_144896/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「Claude Code」「Codex」のUnity公式プラグインが提供中。CLIからのエディター操作やUI制作、レンダリング設定など約30種のスキルが用意</title>
+      <link>https://gamemakers.jp/article/2026_09_11_144767/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_11_144767/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「東京ゲームショウ2026」は過去最多の1,138社が出展。会場マップやステージプログラムなど最新情報が発表</title>
+      <link>https://gamemakers.jp/article/2026_09_11_144773/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_11_144773/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go言語で開発できるオープンソースの2Dゲームエンジン「Ebitengine」、ver2.10がリリース。macOS/LinuxアプリなどをGo単体でビルド可能に</title>
+      <link>https://gamemakers.jp/article/2026_09_11_144709/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_11_144709/</guid>
+      <description />
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゲーム開発向けツール・ミドルウェアが集う無料ビジネスイベント「GTMF 2026」、来場者登録の受付を開始。出展企業の第1弾も発表</title>
+      <link>https://gamemakers.jp/article/2026_09_10_144710/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_10_144710/</guid>
+      <description />
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『モンハンストーリーズ3』では「音の逆再生」でカウンター攻撃を演出。『モンハン』本編の戦闘BGMのアレンジ指針など、カプコンサウンドチームが楽曲制作秘話を公開</title>
+      <link>https://gamemakers.jp/article/2026_09_10_144595/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_10_144595/</guid>
+      <description />
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IGDA日本、インディーゲーム出展のノウハウも学べるセミナーを9/29（火）に開催。インディーゲームを扱う新SIGも発足へ</title>
+      <link>https://gamemakers.jp/article/2026_09_09_144625/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_09_144625/</guid>
+      <description />
+      <pubDate>Tue, 08 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Epic Gamesのマーケットプレイス「Fab」、9/22（火）までの期間限定で無料コンテンツを公開。石造りの廃村をイメージした環境アセットなど3製品</title>
+      <link>https://gamemakers.jp/article/2026_09_09_144592/</link>
+      <guid isPermaLink="true">https://gamemakers.jp/article/2026_09_09_144592/</guid>
+      <description />
+      <pubDate>Tue, 08 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+{
+  "name": "GameMakers",
+  "url": "https://gamemakers.jp/",
+  "description": "公開記事一覧のタイトル・日付・リンク（非公式RSS）",
+  "item_selector": ".l-home-article",
+  "title": {"selector": "a.l-home-article-inner"},
+  "link": {"selector": "a.l-home-article-inner", "attribute": "href"},
+  "date": {"selector": ".l-home-article-under-inner h8"},
+  "date_format": "%Y.%m.%d",
+  "timezone": "Asia/Tokyo",
+  "fallback": {
+    "item_selector": "a.l-home-article-inner[href*='/article/']",
+    "title": {"selector": ":scope"},
+    "link": {"selector": ":scope", "attribute": "href"}
+  },
+  "url_pattern": "^https://gamemakers\\.jp/article/[^/?#]+/$",
+  "max_items": 100
+}

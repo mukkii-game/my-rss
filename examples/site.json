@@ -1,0 +1,11 @@
+{
+  "name": "サンプルニュース",
+  "url": "https://example.com/news/",
+  "item_selector": "article",
+  "title": {"selector": "h2 a"},
+  "link": {"selector": "h2 a", "attribute": "href"},
+  "date": {"selector": "time", "attribute": "datetime"},
+  "summary": {"selector": ".summary"},
+  "timezone": "Asia/Tokyo",
+  "max_items": 100
+}
