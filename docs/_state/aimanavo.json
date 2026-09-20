@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIが人間より賢くなったら、子どもは何を学べばいいのか？",
+    "link": "https://aimanavo.com/c/kokuban_t/a/zJG_cEJaR5hn-A",
+    "summary": "「AIがこれだけ賢くなるなら、うちの子は何を勉強すればいいんですか」。三者面談で、この質問が出る回数が増えました。...",
+    "published": "2026-09-20T16:01:15.539638+00:00",
+    "image": "https://static.aimanavo.com/11umwcbleh3ao7zy0fj80jkcjtoo.webp",
+    "first_seen": "2026-09-20T16:01:15.539638+00:00"
+  },
+  {
+    "title": "社内Wikiを書き続けるAIを、ローカルだけで動かせるか。",
+    "link": "https://aimanavo.com/c/gennnn/a/p0HPJIgfQ_3VJw",
+    "summary": "社内ドキュメントをAIに書かせる系のツール、最後はだいたい「設計書とコードを外部APIに投げます」で終わりますよね...",
+    "published": "2026-09-20T16:01:15.539638+00:00",
+    "image": "https://static.aimanavo.com/el8pvrgjj0t9a8y20a3l2pmyplzo.webp",
+    "first_seen": "2026-09-20T16:01:15.539638+00:00"
+  },
+  {
+    "title": "AIっぽい文章が消える、OpenAI公式が禁じた10の言葉",
+    "link": "https://aimanavo.com/c/monroe/a/wkmA9_lg4_fopw",
+    "summary": "AIに書かせた報告メールを、なんとなくAIっぽいまま提出していませんか。その「なんとなく」の正体を、OpenAI自...",
+    "published": "2026-09-20T16:01:15.539638+00:00",
+    "image": "https://static.aimanavo.com/sb4qy7oykev2xehxe5wop0wxovq6.webp",
+    "first_seen": "2026-09-20T16:01:15.539638+00:00"
+  },
+  {
+    "title": "同じ顔で肌診断アプリを何度も試したら、点数はどれだけ動くのか。",
+    "link": "https://aimanavo.com/c/nk_glow/a/D9IcB6NA8r_I6w",
+    "summary": "朝に測った肌スコアと、夜にもう一度測ったスコアが違って出る。同じ顔なのにどうして、とモヤっとしたことはありませんか...",
+    "published": "2026-09-20T16:01:15.539638+00:00",
+    "image": "https://static.aimanavo.com/t78szijrrdpmshiyl7d1k2ajspri.webp",
+    "first_seen": "2026-09-20T16:01:15.539638+00:00"
+  },
+  {
+    "title": "つまずいた1語だけ、AIに拾ってもらう英語の音読",
+    "link": "https://aimanavo.com/c/manamama/a/Kf09gYrDp3ALaw",
+    "summary": "子どもが絵本を持ってきて「読んで」と言う時間は、だいたい私が一番手を動かしている時間と重なります。読んであげられな...",
+    "published": "2026-09-20T16:01:15.539638+00:00",
+    "image": "https://static.aimanavo.com/c7ufso1duzhl1291iqaxi4em5pvu.webp",
+    "first_seen": "2026-09-20T16:01:15.539638+00:00"
+  },
+  {
     "title": "YouTube半自動運用マニュアル",
     "link": "https://aimanavo.com/c/nikutama/a/0lRkun0twhxFKg",
     "summary": "YouTubeを続けたいのに、企画、台本、素材集め、編集、投稿、分析までを一人で抱え、手が止まってしまう。この教材...",
