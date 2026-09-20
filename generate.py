@@ -17,6 +17,8 @@ from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
+MEDIA_NS = 'http://search.yahoo.com/mrss/'
+ET.register_namespace('media', MEDIA_NS)
 
 
 def fetch(url):
@@ -78,6 +80,13 @@ def parse_date(value, config):
 def extract(html, config, base_url):
     soup = BeautifulSoup(html, 'html.parser')
     warnings = []
+    linked_images = {}
+    if config.get('image_from_link'):
+        for anchor in soup.select('a[href]'):
+            raw = field(anchor, config['image_from_link'])
+            image_url = canonical(urljoin(base_url, raw)) if raw else ''
+            if image_url:
+                linked_images.setdefault(canonical(urljoin(base_url, anchor['href'])), image_url)
     for attempt, selectors in enumerate([config, config.get('fallback', {})]):
         if not selectors.get('item_selector'):
             continue
@@ -92,8 +101,11 @@ def extract(html, config, base_url):
             date = parse_date(field(node, selectors.get('date')), config)
             if selectors.get('date') and not date:
                 missing_dates += 1
+            raw_image = field(node, selectors.get('image'))
+            image_url = (canonical(urljoin(base_url, raw_image)) if raw_image else '') or linked_images.get(link, '')
             items.setdefault(link, {'title': title, 'link': link,
-                'summary': field(node, selectors.get('summary'))[:500], 'published': date})
+                'summary': field(node, selectors.get('summary'))[:500], 'published': date,
+                'image': image_url})
         if items:
             if attempt:
                 warnings.append('Fallback selectors used; check site structure.')
@@ -112,6 +124,8 @@ def merge(old, new, now, limit):
         value['published'] = previous.get('published') or item.get('published') or value['first_seen']
         if not value.get('summary'):
             value['summary'] = previous.get('summary', '')
+        if not value.get('image'):
+            value['image'] = previous.get('image', '')
         known[item['link']] = value
     return sorted(known.values(), key=lambda x: x['published'], reverse=True)[:limit]
 
@@ -136,7 +150,12 @@ def rss_bytes(config, items):
         add(entry, 'link', item['link'])
         add(entry, 'guid', item['link'], isPermaLink='true')
         # Description is HTML in RSS: escape untrusted text before XML serialization.
-        add(entry, 'description', escape(item.get('summary', '')))
+        description = escape(item.get('summary', ''))
+        image_url = canonical(item.get('image', ''))
+        if image_url:
+            description = '<p><img src="' + escape(image_url, quote=True) + '" alt="' + escape(item['title'], quote=True) + '" /></p>' + description
+            ET.SubElement(entry, '{' + MEDIA_NS + '}thumbnail', url=clean_xml(image_url))
+        add(entry, 'description', description)
         add(entry, 'pubDate', format_datetime(datetime.fromisoformat(item['published'])))
     ET.indent(root)
     return ET.tostring(root, encoding='utf-8', xml_declaration=True)

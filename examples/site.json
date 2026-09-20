@@ -6,6 +6,7 @@
   "link": {"selector": "h2 a", "attribute": "href"},
   "date": {"selector": "time", "attribute": "datetime"},
   "summary": {"selector": ".summary"},
+  "image": {"selector": "img", "attribute": "src"},
   "timezone": "Asia/Tokyo",
   "max_items": 100
 }

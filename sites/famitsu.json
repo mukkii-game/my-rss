@@ -5,6 +5,7 @@
   "item_selector": "main [class*='ArticleList_list'] p a[href^='/article/']",
   "title": {"selector": ":scope"},
   "link": {"selector": ":scope", "attribute": "href"},
+  "image_from_link": {"selector": "img", "attribute": "src"},
   "fallback": {
     "item_selector": "main [class*='ArticleList_list'] a[aria-label][href^='/article/']",
     "title": {"selector": ":scope", "attribute": "aria-label"},

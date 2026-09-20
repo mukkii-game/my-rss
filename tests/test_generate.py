@@ -24,6 +24,29 @@ def test_directory():
 
 
 class GeneratorTests(unittest.TestCase):
+    def test_images_extraction_rendering_and_history(self):
+        c = self.config()
+        c['image'] = {'selector': 'img', 'attribute': 'data-src'}
+        html = '<article><h2>A &quot;B&quot;</h2><a href="/1">open</a><img data-src="/photo.jpg?a=1&amp;b=2"></article>'
+        items, _ = g.extract(html, c, c['url'])
+        self.assertEqual(items[0]['image'], 'https://example.com/photo.jpg?a=1&b=2')
+        merged = g.merge([], items, '2026-09-20T00:00:00+00:00', 100)
+        entry = ET.fromstring(g.rss_bytes(c, merged)).find('channel/item')
+        self.assertEqual(entry.find('{'+g.MEDIA_NS+'}thumbnail').get('url'), items[0]['image'])
+        self.assertIn('alt="A &quot;B&quot;"', entry.findtext('description'))
+        self.assertIn('a=1&amp;b=2', entry.findtext('description'))
+        items[0]['image'] = ''
+        self.assertEqual(g.merge(merged, items, '2026-09-21T00:00:00+00:00', 100)[0]['image'], merged[0]['image'])
+        bad, _ = g.extract(html.replace('/photo.jpg?a=1&amp;b=2', 'javascript:alert(1)'), c, c['url'])
+        self.assertEqual(bad[0]['image'], '')
+
+    def test_image_matched_by_article_url(self):
+        c = self.config()
+        c['image_from_link'] = {'selector': 'img', 'attribute': 'src'}
+        html = '<a href="/1"><img src="//cdn.example.com/photo.jpg"></a><article><h2>A</h2><a href="/1">open</a></article>'
+        items, _ = g.extract(html, c, c['url'])
+        self.assertEqual(items[0]['image'], 'https://cdn.example.com/photo.jpg')
+
     def config(self):
         return {'name': 'Test & news', 'url': 'https://example.com/news',
                 'item_selector': 'article', 'title': {'selector': 'h2'},

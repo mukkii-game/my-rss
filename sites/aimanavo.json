@@ -6,6 +6,8 @@
   "title": {"selector": ".tl-item__title a"},
   "link": {"selector": ".tl-item__title a", "attribute": "href"},
   "summary": {"selector": ".tl-item__lede"},
+  "image": {"selector": ".tl-item__thumb img", "attribute": "src"},
+  "image_from_link": {"selector": "img", "attribute": "src"},
   "fallback": {
     "item_selector": ".top-block--timeline h3 a[href*='/a/']",
     "title": {"selector": ":scope"},

@@ -6,6 +6,7 @@
   "title": {"selector": "a.l-home-article-inner"},
   "link": {"selector": "a.l-home-article-inner", "attribute": "href"},
   "date": {"selector": ".l-home-article-under-inner h8"},
+  "image": {"selector": ".mod-thumb-inner", "attribute": "data-src"},
   "date_format": "%Y.%m.%d",
   "timezone": "Asia/Tokyo",
   "fallback": {
