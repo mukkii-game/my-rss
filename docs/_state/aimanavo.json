@@ -1,5 +1,61 @@
 [
   {
+    "title": "Claude Slidesだけで、資料作成の副業案件は納品できるか？",
+    "link": "https://aimanavo.com/c/tatsuya_2nd/a/HR3RDN6Ggqy0wQ",
+    "summary": "資料作成の副業を受けたことがある人なら分かると思いますが、作業時間の半分くらいは中身ではなく体裁いじりに消えます。...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/rj4ws7zylwo11i41hmmoxe3yegx2.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
+    "title": "Pirate Faceは、消えたモデルをどこまで救えるのか？",
+    "link": "https://aimanavo.com/c/gennnn/a/LbY_1rYwPUJMGQ",
+    "summary": "ollama pull で落としたモデル、元のHugging Faceのrepoが明日消えたら、同じものをもう一度...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/dfw3me2d7o0ijp5ulll0fs0fhknk.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
+    "title": "8MBのCactus Needle 3に、ツール呼び出しをどこまで任せるか。",
+    "link": "https://aimanavo.com/c/morphox_ai/a/TXsuEMjnrmwRkw",
+    "summary": "function callingを使っているアプリには、たいてい「壊れたJSONが返ってきたらもう一度投げる」処理...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/01jytf84gisl6hd91hefsviohr0x.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
+    "title": "タブを開き直さずに終わるようになった作業5つ",
+    "link": "https://aimanavo.com/c/moe365/a/y79md3jGbQdGvg",
+    "summary": "下書きはNotionで書いて、体裁はCanvaで整えて、直したい箇所だけチャットに貼り直す。この行ったり来たりが、...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/f4dszbithi9w5s5gcji412qa9gil.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
+    "title": "声に出して解かせるAI家庭教師は、つまずいた子に効くのか？",
+    "link": "https://aimanavo.com/c/kokuban_t/a/u4AMv4JV99z0IQ",
+    "summary": "「答えをすぐには教えない家庭教師」と聞いて、うちの子には向かないかもしれない、と感じる保護者は多いと思います。その...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/5q14cg39xhj6jt8u4tq2ihfj55ao.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
+    "title": "AIが読む前提のプロフィール文、何を書けば伝わるか。",
+    "link": "https://aimanavo.com/c/mzk_diary/a/OvDqSgR4G3hI6Q",
+    "summary": "プロフィール文を何度書き直しても反応が変わらないとき、直すべき場所は写真でも文章の巧さでもないかもしれません。マッ...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/0civnj60jhljuc9vnhcjct9ftz03.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
+    "title": "同じ自撮り1枚で、韓国で先に流行ったAI写真を3つ作り分ける",
+    "link": "https://aimanavo.com/c/yuzuppi/a/MwYEpgC633pFHA",
+    "summary": "韓国のフィードで見た加工が日本に回ってくる頃には、向こうではもう次の型が走っています。ここ最近だけでもAI写真の型...",
+    "published": "2026-09-21T00:13:47.437936+00:00",
+    "image": "https://static.aimanavo.com/2lbbmaofbaiu1vcvscdrlpl9mbx5.webp",
+    "first_seen": "2026-09-21T00:13:47.437936+00:00"
+  },
+  {
     "title": "AIが人間より賢くなったら、子どもは何を学べばいいのか？",
     "link": "https://aimanavo.com/c/kokuban_t/a/zJG_cEJaR5hn-A",
     "summary": "「AIがこれだけ賢くなるなら、うちの子は何を勉強すればいいんですか」。三者面談で、この質問が出る回数が増えました。...",
