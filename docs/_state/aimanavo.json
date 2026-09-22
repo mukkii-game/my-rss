@@ -1,5 +1,13 @@
 [
   {
+    "title": "ChatGPTを「メモアプリ」にする技術：プロジェクト機能で通勤中のひらめきを逃さない仕組み",
+    "link": "https://aimanavo.com/c/nikutama/a/SFr9NZ0y5_Jm6A",
+    "summary": "「あ、これSNSのネタになるな」と思った瞬間、皆さんはどこにメモしていますか？私は通勤時代、この「思いつきの瞬間」...",
+    "published": "2026-09-22T04:49:50.843688+00:00",
+    "image": "https://static.aimanavo.com/vdwrift2ybr3cx5acta81re8ckvq.webp",
+    "first_seen": "2026-09-22T04:49:50.843688+00:00"
+  },
+  {
     "title": "Claude Codeの予備エンジンに、Grok 4.7を足すべきか",
     "link": "https://aimanavo.com/c/morphox_ai/a/fHNBUOt1ZgK--g",
     "summary": "Claude Codeがレート制限に引っかかって手が止まる、あの数十分。その退避先として、私はCodex CLIと...",
