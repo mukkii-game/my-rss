@@ -2,7 +2,7 @@
   {
     "id": "aimanavo",
     "name": "AimanaVo",
-    "checked_at": "2026-09-23T16:53:30.688253+00:00",
+    "checked_at": "2026-09-23T20:18:39.239302+00:00",
     "ok": true,
     "fetched": 7,
     "retained": 43,
@@ -12,7 +12,7 @@
   {
     "id": "famitsu",
     "name": "ファミ通.com",
-    "checked_at": "2026-09-23T16:53:30.688253+00:00",
+    "checked_at": "2026-09-23T20:18:39.239302+00:00",
     "ok": true,
     "fetched": 50,
     "retained": 100,
@@ -22,9 +22,11 @@
   {
     "id": "gamemakers",
     "name": "GameMakers",
-    "checked_at": "2026-09-23T16:53:30.688253+00:00",
-    "ok": false,
-    "error": "<urlopen error timed out>",
+    "checked_at": "2026-09-23T20:18:39.239302+00:00",
+    "ok": true,
+    "fetched": 30,
+    "retained": 35,
+    "warnings": [],
     "feed": "gamemakers.xml"
   }
 ]
