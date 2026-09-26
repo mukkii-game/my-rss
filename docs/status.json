@@ -2,17 +2,17 @@
   {
     "id": "aimanavo",
     "name": "AimanaVo",
-    "checked_at": "2026-09-26T06:08:56.108112+00:00",
+    "checked_at": "2026-09-26T11:19:28.538459+00:00",
     "ok": true,
     "fetched": 7,
-    "retained": 64,
+    "retained": 69,
     "warnings": [],
     "feed": "aimanavo.xml"
   },
   {
     "id": "famitsu",
     "name": "ファミ通.com",
-    "checked_at": "2026-09-26T06:08:56.108112+00:00",
+    "checked_at": "2026-09-26T11:19:28.538459+00:00",
     "ok": true,
     "fetched": 50,
     "retained": 100,
@@ -22,7 +22,7 @@
   {
     "id": "gamemakers",
     "name": "GameMakers",
-    "checked_at": "2026-09-26T06:08:56.108112+00:00",
+    "checked_at": "2026-09-26T11:19:28.538459+00:00",
     "ok": true,
     "fetched": 30,
     "retained": 44,
