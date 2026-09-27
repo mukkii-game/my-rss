@@ -1,5 +1,21 @@
 [
   {
+    "title": "MCPは本当に時代遅れか？本番で手放せない理由",
+    "link": "https://aimanavo.com/c/tsuyoshi_sre/a/mX_un9QCiHxeGg",
+    "summary": "MCPサーバーを入れたはいいけど、結局CLIで済ませている。そういう人は少なくないと思います。本番のAPIキーやD...",
+    "published": "2026-09-27T01:24:24.133074+00:00",
+    "image": "https://static.aimanavo.com/tp8scva4qyfsrbhzibocjijlw7z2.webp",
+    "first_seen": "2026-09-27T01:24:24.133074+00:00"
+  },
+  {
+    "title": "ChatGPTの画像流出、自分の写真は対象になるのか",
+    "link": "https://aimanavo.com/c/alert3am/a/e-4dhHiEUH25XA",
+    "summary": "証明写真をChatGPTに撮り直してもらったこと、子どもの写真を見せて質問したこと、届いた書類をそのままカメラで撮...",
+    "published": "2026-09-27T01:24:24.133074+00:00",
+    "image": "https://static.aimanavo.com/kl4fu400qvii0kecwsex9frkbm8x.webp",
+    "first_seen": "2026-09-27T01:24:24.133074+00:00"
+  },
+  {
     "title": "AIコーディングでテスト4倍、LinearはCIの何を削ったか",
     "link": "https://aimanavo.com/c/gennnn/a/GgujaWaezyy9-A",
     "summary": "AIコーディングでPRを出す速度は上がったのに、CIの緑待ちで全部まとめて止まっている。そんなボトルネック、身に覚...",
