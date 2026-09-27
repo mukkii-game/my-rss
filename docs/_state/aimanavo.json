@@ -1,5 +1,13 @@
 [
   {
+    "title": "中国のAIドラマ制作費、1400万円が100万円に落ちた理由",
+    "link": "https://aimanavo.com/c/tetsuo_postpro/a/OCo82dXiHYZYMw",
+    "summary": "中国のAIドラマは、実写なら60万元超（約1400万円）かかっていた1本を、3万〜5万元（約70万〜120万円）で...",
+    "published": "2026-09-27T08:04:59.181129+00:00",
+    "image": "https://static.aimanavo.com/dpqrmz9gm6rd3s8s41epyv98ou6h.webp",
+    "first_seen": "2026-09-27T08:04:59.181129+00:00"
+  },
+  {
     "title": "MCPは本当に時代遅れか？本番で手放せない理由",
     "link": "https://aimanavo.com/c/tsuyoshi_sre/a/mX_un9QCiHxeGg",
     "summary": "MCPサーバーを入れたはいいけど、結局CLIで済ませている。そういう人は少なくないと思います。本番のAPIキーやD...",
