@@ -1,5 +1,53 @@
 [
   {
+    "title": "HindsightでClaude Codeは前回の決定を覚えていられるか？",
+    "link": "https://aimanavo.com/c/gennnn/a/HuNfyt8hnKHvmQ",
+    "summary": "昨日Claude Codeと30分かけて決めた設計方針を、今朝の新しいセッションでまた一から説明していませんか？ ...",
+    "published": "2026-09-28T06:49:24.435935+00:00",
+    "image": "https://static.aimanavo.com/sv6szitiutr1kmy1ya9bkl9gfgc7.webp",
+    "first_seen": "2026-09-28T06:49:24.435935+00:00"
+  },
+  {
+    "title": "Ollayaで、判定AIを手元のPCだけで動かせるか。",
+    "link": "https://aimanavo.com/c/morphox_ai/a/_aDpWUoA0mgi1Q",
+    "summary": "問い合わせを「請求書」「返金」「その他」に分けるだけの処理に、毎回クラウドのAPIを呼んでいませんか？ Ollay...",
+    "published": "2026-09-28T06:49:24.435935+00:00",
+    "image": "https://static.aimanavo.com/t2a0tw9p3c1fs0tn1pujmpwexs35.webp",
+    "first_seen": "2026-09-28T06:49:24.435935+00:00"
+  },
+  {
+    "title": "声だけで献立と買い物メモが終わる、共働き夫婦の料理中の使い方",
+    "link": "https://aimanavo.com/c/hinata_gohan/a/ZDRdcN8Ijdq12w",
+    "summary": "フライパンを振りながら明日の夕飯を考え、手を拭いてはスマホを開く。共働きの平日、この往復に疲れていませんか？Cha...",
+    "published": "2026-09-28T06:49:24.435935+00:00",
+    "image": "https://static.aimanavo.com/eip3rlvck8lyx4c5dlwppskvfkk6.webp",
+    "first_seen": "2026-09-28T06:49:24.435935+00:00"
+  },
+  {
+    "title": "子ども向けAIアプリ3選、日本語で話せるのはどれか",
+    "link": "https://aimanavo.com/c/manamama/a/tNWN9aDQY88FYQ",
+    "summary": "「月ってなんでついてくるの？」を、夕飯の片付け中に何度も聞かれる日があります。子ども向けのAIアプリに答えてもらえ...",
+    "published": "2026-09-28T06:49:24.435935+00:00",
+    "image": "https://static.aimanavo.com/l78aenx0n1g4idgjn4zk7c835leo.webp",
+    "first_seen": "2026-09-28T06:49:24.435935+00:00"
+  },
+  {
+    "title": "AIに会話を学習させない設定、5つのアプリで一気に終わらせる方法",
+    "link": "https://aimanavo.com/c/alert3am/a/m_jHd7fSqjeLfQ",
+    "summary": "「有料プランだから、会話はAIの学習に使われていないはず」と思っていませんか？ 主要な5つのアプリの公式ヘルプを確...",
+    "published": "2026-09-28T06:49:24.435935+00:00",
+    "image": "https://static.aimanavo.com/lnmxbsndm9m590owu4nimm2jf8zr.webp",
+    "first_seen": "2026-09-28T06:49:24.435935+00:00"
+  },
+  {
+    "title": "AI向けのFAQ作りは、ココナラで副業になるか？",
+    "link": "https://aimanavo.com/c/tatsuya_2nd/a/yzI_0tjWBVecbQ",
+    "summary": "AIが答えるためのFAQ作りは、ココナラで副業になるのか。2026年9月28日時点で、ココナラ・ランサーズ・クラウ...",
+    "published": "2026-09-28T06:49:24.435935+00:00",
+    "image": "https://static.aimanavo.com/3h7c6p6rgdd462tl8n5hoqrxatqr.webp",
+    "first_seen": "2026-09-28T06:49:24.435935+00:00"
+  },
+  {
     "title": "AI時代のテストは誰の不安を消すためにあるのか？",
     "link": "https://aimanavo.com/c/mio_qa/a/pp0mgjaQ3dHjRA",
     "summary": "AIエージェントに実装を任せるようになってから、開発チームで「ユニットテストって、まだ書く意味あるの？」という声を...",
