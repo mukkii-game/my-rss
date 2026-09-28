@@ -57,8 +57,8 @@ jobs:
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Report extraction failures after publishing healthy feeds
+      - name: Report persistent extraction failures after publishing healthy feeds
         if: steps.generate.outcome == 'failure'
         run: |
-          echo 'One or more feeds failed. Check Generate feeds logs and the public status page.'
+          echo 'A feed failed at least 3 consecutive runs, or generation could not complete. Check Generate feeds logs and the public status page.'
           exit 1

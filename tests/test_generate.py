@@ -100,11 +100,25 @@ class GeneratorTests(unittest.TestCase):
                 self.assertEqual(g.build(sites, out), 0)
             previous = (out / 'a.xml').read_bytes()
             with patch.object(g, 'fetch', side_effect=[RuntimeError('HTTP 403'), (good, 'https://example.com')]):
-                self.assertEqual(g.build(sites, out), 1)
+                self.assertEqual(g.build(sites, out), 0)
             self.assertEqual((out / 'a.xml').read_bytes(), previous)
             status = json.loads((out / 'status.json').read_text(encoding='utf-8'))
             self.assertFalse(status[0]['ok'])
             self.assertTrue(status[1]['ok'])
+            self.assertEqual(status[0]['consecutive_failures'], 1)
+            for expected_count in (2, 3, 4):
+                with patch.object(g, 'fetch', side_effect=[RuntimeError('timeout'), (good, 'https://example.com')]):
+                    self.assertEqual(g.build(sites, out), int(expected_count >= 3))
+                status = json.loads((out / 'status.json').read_text(encoding='utf-8'))
+                self.assertEqual(status[0]['consecutive_failures'], expected_count)
+                self.assertEqual(status[1]['consecutive_failures'], 0)
+                self.assertEqual((out / 'a.xml').read_bytes(), previous)
+            with patch.object(g, 'fetch', return_value=(good, 'https://example.com')):
+                self.assertEqual(g.build(sites, out), 0)
+            with patch.object(g, 'fetch', side_effect=[RuntimeError('timeout'), (good, 'https://example.com')]):
+                self.assertEqual(g.build(sites, out), 0)
+            status = json.loads((out / 'status.json').read_text(encoding='utf-8'))
+            self.assertEqual(status[0]['consecutive_failures'], 1)
 
     def test_discovery_validates_xml(self):
         def fake(url):

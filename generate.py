@@ -205,6 +205,8 @@ def build(sites_dir, output):
     configs = sorted(sites_dir.glob('*.json'))
     if not configs:
         raise ValueError('No sites/*.json found')
+    previous_path = output / 'status.json'
+    previous_status = {s['id']: s for s in json.loads(previous_path.read_text(encoding='utf-8'))} if previous_path.exists() else {}
     status = []
     errors = 0
     now = datetime.now(timezone.utc).isoformat()
@@ -231,19 +233,24 @@ def build(sites_dir, output):
                 raise ValueError('max_items must be positive')
             atomic_write(rss_path, rss_bytes(config, items))
             write_json(state_path, items)
-            record.update(ok=True, fetched=len(fresh), retained=len(items), warnings=warnings)
+            record.update(ok=True, fetched=len(fresh), retained=len(items), warnings=warnings,
+                          consecutive_failures=0, last_success_at=now)
             print(f'{slug}: {len(fresh)} extracted / {len(items)} retained', flush=True)
         except Exception as error:
-            errors += 1
-            record.update(ok=False, error=str(error))
-            print(f'{slug}: ERROR: {error}', file=sys.stderr, flush=True)
+            previous = previous_status.get(slug, {})
+            failures = previous.get('consecutive_failures', 0) + 1
+            if failures >= 3:
+                errors += 1
+            record.update(ok=False, error=str(error), consecutive_failures=failures,
+                          last_success_at=previous.get('last_success_at') or (previous.get('checked_at') if previous.get('ok') else None))
+            print(f'{slug}: failure {failures}/3: {error}', file=sys.stderr, flush=True)
         record['feed'] = rss_path.name if rss_path.exists() else None
         status.append(record)
     write_json(output / 'status.json', status)
     rows = []
     for s in status:
         link = f'<a href="{escape(s["feed"])}">RSSを開く</a>' if s['feed'] else 'RSS未生成'
-        message = ('取得成功（' + str(s['fetched']) + '件）' + ('・要確認: ' + '; '.join(s['warnings']) if s['warnings'] else '')) if s['ok'] else '更新失敗・前回分を保持: ' + s['error']
+        message = ('取得成功（' + str(s['fetched']) + '件）' + ('・要確認: ' + '; '.join(s['warnings']) if s['warnings'] else '')) if s['ok'] else '連続' + str(s['consecutive_failures']) + '回取得失敗・次回再試行（3回以上で通知）: ' + s['error']
         rows.append(f'<li><h2>{escape(s["name"])}</h2>{link}<p>{escape(message)}</p></li>')
     page = '<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>My RSS</title><style>body{font:17px/1.7 system-ui;max-width:850px;margin:50px auto;padding:0 24px;background:#f5f7fb;color:#182235}li{background:white;padding:18px 28px;margin:20px 0;border-radius:12px}ul{padding:0;list-style:none}a{color:#1655bd}h2{margin-top:0}</style><h1>My RSS</h1><p>RSSリンクのアドレスをコピーし、Inoreaderへ登録してください。</p><p>最終実行（UTC）: ' + escape(now) + '</p><ul>' + ''.join(rows) + '</ul><p>各サイトの公開情報から作成した非公式RSSです。</p></html>'
     atomic_write(output / 'index.html', page.encode('utf-8'))
