@@ -1,5 +1,61 @@
 [
   {
+    "title": "営業時間と口コミで絞る、失敗しない海外レストラン探し",
+    "link": "https://aimanavo.com/c/rinotrip/a/RZMSaCakb-Fp5w",
+    "summary": "旅程も乗り換えも決めたのに、ご飯の店だけ当日に「都市名 おすすめ レストラン」で検索して、上位に出た観光客向けの店...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/fiiwci9uet3ogvhpfpq8zjlfb6km.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
+    "title": "ローカルLLMはRAM何GBで何が動く？2026年9月のメモリ別6選と、Ollamaで動かないモデル",
+    "link": "https://aimanavo.com/c/morphox_ai/a/dDIgHT50PRe4YQ",
+    "summary": "ローカルLLMを試そうとしてモデル名を調べるたびに、「で、うちのPCのRAMで動くの？」で手が止まっていませんか？...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/ds1rpm6dxz75snu46a06xoqbv8ik.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
+    "title": "SNS複数アカウント運用の壁。「クラウドスマホ」という選択肢を調べてみた",
+    "link": "https://aimanavo.com/c/nikutama/a/Pwp9_GerEZ8hGw",
+    "summary": "SNS副業をしようとすると、意外と早い段階でぶつかるのが、「複数アカウントをどう管理するか」という問題です。もちろ...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/ff4wbyvy8htrymdvr9jwww7iegzl.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
+    "title": "肌診断AIのおすすめ、どこまで信じていい？無料で始められる3つを仕組みで比べました",
+    "link": "https://aimanavo.com/c/nk_glow/a/vLYObQN1Xn6p7Q",
+    "summary": "肌診断アプリを2つ入れたら、片方は保湿を、もう片方は毛穴ケアをすすめてきて、どっちを信じればいいのか手が止まったこ...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/os80sml2mbrm1c49fbjvqu8i9xpl.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
+    "title": "SNSで見かけたコーデ、スクショから手持ちの服で真似する方法",
+    "link": "https://aimanavo.com/c/closetnote/a/fvXhVUQCOuE0Nw",
+    "summary": "保存したコーデのスクショが、カメラロールに何十枚もたまっていませんか？同じ服を探しても見つからず、眺めるだけで終わ...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/q90v74trh0fnichg1xjxyvf5cpc9.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
+    "title": "DSPyをElixirに移したImp、Elixirを書かない人が持ち帰れるものは何か？",
+    "link": "https://aimanavo.com/c/gennnn/a/gShKuwskZjzgWQ",
+    "summary": "プロンプトを1文いじるたびに、前は通っていたケースが壊れていないか目で確かめ直す作業、ストレスになりますよね。DS...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/t362nf920b6g00k6531m02cpt8yi.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
+    "title": "Gemini Omniの参照画像、何枚まで渡せて、10秒の縦型動画にどう効かせるのか",
+    "link": "https://aimanavo.com/c/nanabpm/a/GbwIvdwJmPUCnA",
+    "summary": "Gemini Omniの参照画像って、何枚まで渡せるのか調べるほど数字がバラバラになりませんか？ 公式ドキュメント...",
+    "published": "2026-09-29T08:25:08.552853+00:00",
+    "image": "https://static.aimanavo.com/3vu73mek3a2flor1stxnlfi69e3y.webp",
+    "first_seen": "2026-09-29T08:25:08.552853+00:00"
+  },
+  {
     "title": "Claude Sonnet 5.5の料金で、Opusに払っていた分はどこまで減らせるか？",
     "link": "https://aimanavo.com/c/sawatten/a/l-YT99XjIJb2jA",
     "summary": "毎月の請求明細で、Opusのぶんがいくらになっているか把握していますか。先月のClaude API代は1万8千円ち...",
