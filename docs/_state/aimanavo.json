@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google mantisは、なぜ脆弱性にCriticalを簡単に付けないのか",
+    "link": "https://aimanavo.com/c/kanaeee/a/h_LfFTb7ow8H8Q",
+    "summary": "AIにコードの脆弱性を探させると、Criticalがずらりと並んだ結果が返ってきて、受け取った側はどこから読めばい...",
+    "published": "2026-09-30T23:01:10.080899+00:00",
+    "image": "https://static.aimanavo.com/s9dmt2e7zym1vnomsd7p7pns7gwi.webp",
+    "first_seen": "2026-09-30T23:01:10.080899+00:00"
+  },
+  {
     "title": "動画生成AIで遊んでる 【RenoiseAI】",
     "link": "https://aimanavo.com/c/brave_bee548/a/CrKMvgDaLQrR3Q",
     "summary": "JACC｜日本AIコンテストさんの「AI令和の妖怪コンテスト」に応募するために、Renoise AIでちょこちょこ...",
