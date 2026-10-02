@@ -1,5 +1,37 @@
 [
   {
+    "title": "Cookieを拒否しても止まらなかった、AIチャット4つの話",
+    "link": "https://aimanavo.com/c/crumb_nope/a/37Pj3CKeFNSaNg",
+    "summary": "AIチャットのCookieバナーで「拒否」を押せば、会話の情報はどこにも出ていかない、と思っていませんか？ スペイ...",
+    "published": "2026-10-02T01:39:52.780124+00:00",
+    "image": "https://static.aimanavo.com/9zb2emy2yr0b70bjvn69302belvo.webp",
+    "first_seen": "2026-10-02T01:39:52.780124+00:00"
+  },
+  {
+    "title": "誰も説明できないAIのコードは、どこで防げるのか？",
+    "link": "https://aimanavo.com/c/nifuda/a/mncJwtO8F_3Lrg",
+    "summary": "作った人がいなくなったツールを引き継ぐと、動いてはいるのに、なぜその処理なのかを説明できる人がいない。そういう場面...",
+    "published": "2026-10-02T01:39:52.780124+00:00",
+    "image": "https://static.aimanavo.com/p85emljmuai7b5fabz8qihly19wn.webp",
+    "first_seen": "2026-10-02T01:39:52.780124+00:00"
+  },
+  {
+    "title": "RentAHumanの副業は、募集として成り立つのか？",
+    "link": "https://aimanavo.com/c/furuiya/a/SxgqVHplxTX0sQ",
+    "summary": "RentAHumanに登録した人は、公式サイトの表記で75万人を超えています。副業先として気になるのは、その人数に...",
+    "published": "2026-10-02T01:39:52.780124+00:00",
+    "image": "https://static.aimanavo.com/nnlyjfewd7gpbtfj80oea9vqpftd.webp",
+    "first_seen": "2026-10-02T01:39:52.780124+00:00"
+  },
+  {
+    "title": "【2026年版】Claude Code拡張5選、困りごとから逆引き",
+    "link": "https://aimanavo.com/c/spritesheet/a/s4ZA0xmNzqwKUA",
+    "summary": "Claude Codeの拡張を探して awesome-claude-code（スター約5.5万）を開くと、一覧が長...",
+    "published": "2026-10-02T01:39:52.780124+00:00",
+    "image": "https://static.aimanavo.com/8g4kq4z83hvci5xhosv9dq1pw5os.webp",
+    "first_seen": "2026-10-02T01:39:52.780124+00:00"
+  },
+  {
     "title": "AI動画コンテスト「布の記憶」応募のコンセプトを、Claudeと壁打ちして固めた記録",
     "link": "https://aimanavo.com/c/brave_bee548/a/xkpzBTLSqNhzMw",
     "summary": "※ 以下の記事はAimanaVoとClaude AIとの連携で直接作成したものです。 タイトルも下書き作成機能で...",
@@ -765,38 +797,6 @@
     "summary": "新しいモデルが出たとき、たいていクローンは1本か2本、しかも同じ作り方で出てきます。Jevは違いました。公開から2...",
     "published": "2026-09-20T06:00:20.057333+00:00",
     "image": "https://static.aimanavo.com/s1ewbngfkfo0vs1mudchd3pz1dkz.webp",
-    "first_seen": "2026-09-20T06:00:20.057333+00:00"
-  },
-  {
-    "title": "端材を撮ると、AIが作れる物を教えてくれた。",
-    "link": "https://aimanavo.com/c/sawdustlab/a/O7EOI0FEjokh-w",
-    "summary": "作業台の下のコンテナに、切れ端がたまっていく一方なんですよ。捨てるには惜しいのに、この長さで何が作れるのかが毎回思...",
-    "published": "2026-09-20T06:00:20.057333+00:00",
-    "image": "https://static.aimanavo.com/fpfhsp7e41l5o7dbmgf1zc3qhjj3.webp",
-    "first_seen": "2026-09-20T06:00:20.057333+00:00"
-  },
-  {
-    "title": "空いてる日を自分で数えなくても、旅程は組めるか。",
-    "link": "https://aimanavo.com/c/rinotrip/a/J6AuZnRtKZRmJw",
-    "summary": "「今週末どこか行きたい」で止まるとき、止まっているのは行き先じゃなくて日付のほうだったりします。カレンダーを開いて...",
-    "published": "2026-09-20T06:00:20.057333+00:00",
-    "image": "https://static.aimanavo.com/v6cs6hp0v0pm2kwmtjxqc9spfs75.webp",
-    "first_seen": "2026-09-20T06:00:20.057333+00:00"
-  },
-  {
-    "title": "ElevenLabs Receptionは、日本の一人社長の電話番になるか。",
-    "link": "https://aimanavo.com/c/mihonoblog/a/xjG9wV4o_Don9w",
-    "summary": "「お世話になっております、ホームページ制作の件で」で始まる電話を、先週は1日3本切りました。しんどいのは通話の2分...",
-    "published": "2026-09-20T06:00:20.057333+00:00",
-    "image": "https://static.aimanavo.com/ovvsexqpqdv2h2yqt31pfjlpfufl.webp",
-    "first_seen": "2026-09-20T06:00:20.057333+00:00"
-  },
-  {
-    "title": "欲しい服の見た目を、言葉でAIに伝えられるか。",
-    "link": "https://aimanavo.com/c/closetnote/a/yS8KIETllbWlDw",
-    "summary": "「きれいめの白ブラウス」で検索して、出てきた200件を上から眺めているうちに、自分が何を探していたのか分からなくな...",
-    "published": "2026-09-20T06:00:20.057333+00:00",
-    "image": "https://static.aimanavo.com/s8hofure502bgj5ozyxdaevx7tvd.webp",
     "first_seen": "2026-09-20T06:00:20.057333+00:00"
   }
 ]
