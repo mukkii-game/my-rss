@@ -1,5 +1,13 @@
 [
   {
+    "title": "原子力機構の不正アクセス、免許証と健康診断が揃うと何が起きる？",
+    "link": "https://aimanavo.com/c/alert3am/a/tyqp-2RiqreJPQ",
+    "summary": "原子力機構への不正アクセスと聞いて、原子炉が乗っ取られる場面を思い浮かべた人もいるかもしれません。発表されているの...",
+    "published": "2026-10-02T08:27:46.561951+00:00",
+    "image": "https://static.aimanavo.com/jx2lfhpdgsyw8zn2pjuz6m6cr75u.webp",
+    "first_seen": "2026-10-02T08:27:46.561951+00:00"
+  },
+  {
     "title": "Cookieを拒否しても止まらなかった、AIチャット4つの話",
     "link": "https://aimanavo.com/c/crumb_nope/a/37Pj3CKeFNSaNg",
     "summary": "AIチャットのCookieバナーで「拒否」を押せば、会話の情報はどこにも出ていかない、と思っていませんか？ スペイ...",
@@ -789,14 +797,6 @@
     "summary": "9月24日でSora 2のAPIが止まります。OpenAIの廃止予定表には移行先の欄があるんですが、Sora 2の...",
     "published": "2026-09-20T06:00:20.057333+00:00",
     "image": "https://static.aimanavo.com/ovfofu05te6oll4xgqypwjt5ifh6.webp",
-    "first_seen": "2026-09-20T06:00:20.057333+00:00"
-  },
-  {
-    "title": "Jevを再現しようとしたモデル6本、設計はどこで割れたか。",
-    "link": "https://aimanavo.com/c/gennnn/a/HeQh_sALzSS3HQ",
-    "summary": "新しいモデルが出たとき、たいていクローンは1本か2本、しかも同じ作り方で出てきます。Jevは違いました。公開から2...",
-    "published": "2026-09-20T06:00:20.057333+00:00",
-    "image": "https://static.aimanavo.com/s1ewbngfkfo0vs1mudchd3pz1dkz.webp",
     "first_seen": "2026-09-20T06:00:20.057333+00:00"
   }
 ]
