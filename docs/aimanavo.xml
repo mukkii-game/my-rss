@@ -7,6 +7,62 @@
     <language>ja</language>
     <ttl>60</ttl>
     <item>
+      <title>「コンテキストを圧縮中」とは何してる？掘り下げてみた</title>
+      <link>https://aimanavo.com/c/nikutama/a/qt-wAeCXdwCU4w</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/nikutama/a/qt-wAeCXdwCU4w</guid>
+      <media:thumbnail url="https://static.aimanavo.com/ryjreazcehbtm0cu3um6ocj0614x.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/ryjreazcehbtm0cu3um6ocj0614x.webp" alt="「コンテキストを圧縮中」とは何してる？掘り下げてみた" /&gt;&lt;/p&gt;私は普段、ChatGPTやCodexを使って、ちょっとしたWebアプリや便利ツールを作っています。専門的なプログラ...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magnitudeの2倍という主張は、自分の環境でも再現できるか。</title>
+      <link>https://aimanavo.com/c/murai72/a/hMT1BhZ8EuGFCA</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/murai72/a/hMT1BhZ8EuGFCA</guid>
+      <media:thumbnail url="https://static.aimanavo.com/54njyd71k6juovxz9detr2x0mpbx.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/54njyd71k6juovxz9detr2x0mpbx.webp" alt="Magnitudeの2倍という主張は、自分の環境でも再現できるか。" /&gt;&lt;/p&gt;「llama.cppの最大2倍速い」と聞いて、手元のマシンでも同じ数字が出るのか確かめたくなっていませんか？ ただ...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reladrawで、AIに描かせた構成図の配置を言葉で直せるか。</title>
+      <link>https://aimanavo.com/c/midori_09/a/UfL63EfGDLSX6A</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/midori_09/a/UfL63EfGDLSX6A</guid>
+      <media:thumbnail url="https://static.aimanavo.com/qbt97k1jvyghd4u4nazx3it6vwrg.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/qbt97k1jvyghd4u4nazx3it6vwrg.webp" alt="Reladrawで、AIに描かせた構成図の配置を言葉で直せるか。" /&gt;&lt;/p&gt;構成図は一度描いたら終わりではなく、レビューのたびに直すものですよね。AIに描かせた図に「DBをAPIの右へ」と頼...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX 3 Imageの枠指定で、日本語サムネの文字位置はどこまで揃うか。</title>
+      <link>https://aimanavo.com/c/sakipop/a/-mShKexyxuqnJA</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/sakipop/a/-mShKexyxuqnJA</guid>
+      <media:thumbnail url="https://static.aimanavo.com/5iwtnkwyfzvazcncc28d0nsm2rks.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/5iwtnkwyfzvazcncc28d0nsm2rks.webp" alt="FLUX 3 Imageの枠指定で、日本語サムネの文字位置はどこまで揃うか。" /&gt;&lt;/p&gt;特売の文字が枠からはみ出したら、その画像はもう貼れないんです。FLUX 3 Imageには文字や物の位置を座標の箱...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pi 1.0は、ツール4つだけでClaude Codeの仕事をどこまで代われるか。</title>
+      <link>https://aimanavo.com/c/kekesu/a/d66S1nMXR70Ngg</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/kekesu/a/d66S1nMXR70Ngg</guid>
+      <media:thumbnail url="https://static.aimanavo.com/ais1gqqczk4sgvymsajle51ai6am.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/ais1gqqczk4sgvymsajle51ai6am.webp" alt="Pi 1.0は、ツール4つだけでClaude Codeの仕事をどこまで代われるか。" /&gt;&lt;/p&gt;Claude Codeの確認ダイアログやサブエージェント、プランモードを前に「これ全部、毎回要るのかな」と思ったこ...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpusのかわりにSonnet 5.5で足りる、会社員の仕事5選</title>
+      <link>https://aimanavo.com/c/chika_s/a/UtgMtdCEoeQqxg</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/chika_s/a/UtgMtdCEoeQqxg</guid>
+      <media:thumbnail url="https://static.aimanavo.com/uc3y5odabq602i93r36jy50oq9h3.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/uc3y5odabq602i93r36jy50oq9h3.webp" alt="OpusのかわりにSonnet 5.5で足りる、会社員の仕事5選" /&gt;&lt;/p&gt;月3,000円ほど（20ドル）のClaude Proで、モデルを毎回Opusにしていませんか？ Opusのかわりに...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muse for Small Businessとは？経理と集客をどこまで任せるか</title>
+      <link>https://aimanavo.com/c/shige_dk/a/2jXSKcHS3efqng</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/shige_dk/a/2jXSKcHS3efqng</guid>
+      <media:thumbnail url="https://static.aimanavo.com/y73hvjhrwfuzj06hd93rkj9p00gg.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/y73hvjhrwfuzj06hd93rkj9p00gg.webp" alt="Muse for Small Businessとは？経理と集客をどこまで任せるか" /&gt;&lt;/p&gt;小さな会社だと、請求書も入金の確認もInstagramの投稿も、最後に目を通すのは結局ひとりなんですよね。Meta...</description>
+      <pubDate>Sat, 03 Oct 2026 12:29:48 +0000</pubDate>
+    </item>
+    <item>
       <title>原子力機構の不正アクセス、免許証と健康診断が揃うと何が起きる？</title>
       <link>https://aimanavo.com/c/alert3am/a/tyqp-2RiqreJPQ</link>
       <guid isPermaLink="true">https://aimanavo.com/c/alert3am/a/tyqp-2RiqreJPQ</guid>
@@ -749,62 +805,6 @@
       <media:thumbnail url="https://static.aimanavo.com/2lbbmaofbaiu1vcvscdrlpl9mbx5.webp" />
       <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/2lbbmaofbaiu1vcvscdrlpl9mbx5.webp" alt="同じ自撮り1枚で、韓国で先に流行ったAI写真を3つ作り分ける" /&gt;&lt;/p&gt;韓国のフィードで見た加工が日本に回ってくる頃には、向こうではもう次の型が走っています。ここ最近だけでもAI写真の型...</description>
       <pubDate>Mon, 21 Sep 2026 00:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが人間より賢くなったら、子どもは何を学べばいいのか？</title>
-      <link>https://aimanavo.com/c/kokuban_t/a/zJG_cEJaR5hn-A</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/kokuban_t/a/zJG_cEJaR5hn-A</guid>
-      <media:thumbnail url="https://static.aimanavo.com/11umwcbleh3ao7zy0fj80jkcjtoo.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/11umwcbleh3ao7zy0fj80jkcjtoo.webp" alt="AIが人間より賢くなったら、子どもは何を学べばいいのか？" /&gt;&lt;/p&gt;「AIがこれだけ賢くなるなら、うちの子は何を勉強すればいいんですか」。三者面談で、この質問が出る回数が増えました。...</description>
-      <pubDate>Sun, 20 Sep 2026 16:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>社内Wikiを書き続けるAIを、ローカルだけで動かせるか。</title>
-      <link>https://aimanavo.com/c/gennnn/a/p0HPJIgfQ_3VJw</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/gennnn/a/p0HPJIgfQ_3VJw</guid>
-      <media:thumbnail url="https://static.aimanavo.com/el8pvrgjj0t9a8y20a3l2pmyplzo.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/el8pvrgjj0t9a8y20a3l2pmyplzo.webp" alt="社内Wikiを書き続けるAIを、ローカルだけで動かせるか。" /&gt;&lt;/p&gt;社内ドキュメントをAIに書かせる系のツール、最後はだいたい「設計書とコードを外部APIに投げます」で終わりますよね...</description>
-      <pubDate>Sun, 20 Sep 2026 16:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIっぽい文章が消える、OpenAI公式が禁じた10の言葉</title>
-      <link>https://aimanavo.com/c/monroe/a/wkmA9_lg4_fopw</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/monroe/a/wkmA9_lg4_fopw</guid>
-      <media:thumbnail url="https://static.aimanavo.com/sb4qy7oykev2xehxe5wop0wxovq6.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/sb4qy7oykev2xehxe5wop0wxovq6.webp" alt="AIっぽい文章が消える、OpenAI公式が禁じた10の言葉" /&gt;&lt;/p&gt;AIに書かせた報告メールを、なんとなくAIっぽいまま提出していませんか。その「なんとなく」の正体を、OpenAI自...</description>
-      <pubDate>Sun, 20 Sep 2026 16:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>同じ顔で肌診断アプリを何度も試したら、点数はどれだけ動くのか。</title>
-      <link>https://aimanavo.com/c/nk_glow/a/D9IcB6NA8r_I6w</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/nk_glow/a/D9IcB6NA8r_I6w</guid>
-      <media:thumbnail url="https://static.aimanavo.com/t78szijrrdpmshiyl7d1k2ajspri.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/t78szijrrdpmshiyl7d1k2ajspri.webp" alt="同じ顔で肌診断アプリを何度も試したら、点数はどれだけ動くのか。" /&gt;&lt;/p&gt;朝に測った肌スコアと、夜にもう一度測ったスコアが違って出る。同じ顔なのにどうして、とモヤっとしたことはありませんか...</description>
-      <pubDate>Sun, 20 Sep 2026 16:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>つまずいた1語だけ、AIに拾ってもらう英語の音読</title>
-      <link>https://aimanavo.com/c/manamama/a/Kf09gYrDp3ALaw</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/manamama/a/Kf09gYrDp3ALaw</guid>
-      <media:thumbnail url="https://static.aimanavo.com/c7ufso1duzhl1291iqaxi4em5pvu.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/c7ufso1duzhl1291iqaxi4em5pvu.webp" alt="つまずいた1語だけ、AIに拾ってもらう英語の音読" /&gt;&lt;/p&gt;子どもが絵本を持ってきて「読んで」と言う時間は、だいたい私が一番手を動かしている時間と重なります。読んであげられな...</description>
-      <pubDate>Sun, 20 Sep 2026 16:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube半自動運用マニュアル</title>
-      <link>https://aimanavo.com/c/nikutama/a/0lRkun0twhxFKg</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/nikutama/a/0lRkun0twhxFKg</guid>
-      <media:thumbnail url="https://static.aimanavo.com/78970iuhj0d4tfo6d7xsl73i3l72.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/78970iuhj0d4tfo6d7xsl73i3l72.webp" alt="YouTube半自動運用マニュアル" /&gt;&lt;/p&gt;YouTubeを続けたいのに、企画、台本、素材集め、編集、投稿、分析までを一人で抱え、手が止まってしまう。この教材...</description>
-      <pubDate>Sun, 20 Sep 2026 11:17:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sora 2が止まる9月24日、縦型動画のプロンプトはどこへ持っていくか。</title>
-      <link>https://aimanavo.com/c/nanabpm/a/XQ8UGJrd42SDoQ</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/nanabpm/a/XQ8UGJrd42SDoQ</guid>
-      <media:thumbnail url="https://static.aimanavo.com/ovfofu05te6oll4xgqypwjt5ifh6.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/ovfofu05te6oll4xgqypwjt5ifh6.webp" alt="Sora 2が止まる9月24日、縦型動画のプロンプトはどこへ持っていくか。" /&gt;&lt;/p&gt;9月24日でSora 2のAPIが止まります。OpenAIの廃止予定表には移行先の欄があるんですが、Sora 2の...</description>
-      <pubDate>Sun, 20 Sep 2026 06:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
