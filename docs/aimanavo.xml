@@ -7,6 +7,14 @@
     <language>ja</language>
     <ttl>60</ttl>
     <item>
+      <title>cavemanのトークン削減は本当か？65%を手元で検証</title>
+      <link>https://aimanavo.com/c/morphox_ai/a/aNqDFg58uSl96w</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/morphox_ai/a/aNqDFg58uSl96w</guid>
+      <media:thumbnail url="https://static.aimanavo.com/h4zrkbzkyk3sxso0vlnoqegvewaa.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/h4zrkbzkyk3sxso0vlnoqegvewaa.webp" alt="cavemanのトークン削減は本当か？65%を手元で検証" /&gt;&lt;/p&gt;cavemanのGitHubページで「65%削減」を見て、入れるかどうか決めかねている人は多いと思います。先に結論...</description>
+      <pubDate>Sun, 04 Oct 2026 15:20:12 +0000</pubDate>
+    </item>
+    <item>
       <title>ブラウザで動く極小LLMは、社内の問い合わせ振り分けに使えるか？</title>
       <link>https://aimanavo.com/c/nmt_0412/a/nmfqa3rdszwxwQ</link>
       <guid isPermaLink="true">https://aimanavo.com/c/nmt_0412/a/nmfqa3rdszwxwQ</guid>
@@ -797,14 +805,6 @@
       <media:thumbnail url="https://static.aimanavo.com/gjni39e0acxrq0yjybdcoareraqq.webp" />
       <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/gjni39e0acxrq0yjybdcoareraqq.webp" alt="Claude Mods入門、dotfilesを書いてきた人の見方" /&gt;&lt;/p&gt;Claude Modsという名前を見かけた日Claude Modsは、関数フックを使うClaude Codeのプラ...</description>
       <pubDate>Tue, 22 Sep 2026 00:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIに自分を尋問させたら、予想もしてなかった副業が出てきた</title>
-      <link>https://aimanavo.com/c/monroe/a/WqC2cpglmyaZsw</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/monroe/a/WqC2cpglmyaZsw</guid>
-      <media:thumbnail url="https://static.aimanavo.com/jub9yanyqavrjygc2dv7ll8on2zd.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/jub9yanyqavrjygc2dv7ll8on2zd.webp" alt="AIに自分を尋問させたら、予想もしてなかった副業が出てきた" /&gt;&lt;/p&gt;副業をやりたい気持ちはあるのに、何が自分に向いているのか分からない。この記事は、AIに自己分析をさせて副業の適性を...</description>
-      <pubDate>Mon, 21 Sep 2026 10:39:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

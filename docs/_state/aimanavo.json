@@ -1,5 +1,13 @@
 [
   {
+    "title": "cavemanのトークン削減は本当か？65%を手元で検証",
+    "link": "https://aimanavo.com/c/morphox_ai/a/aNqDFg58uSl96w",
+    "summary": "cavemanのGitHubページで「65%削減」を見て、入れるかどうか決めかねている人は多いと思います。先に結論...",
+    "published": "2026-10-04T15:20:12.079415+00:00",
+    "image": "https://static.aimanavo.com/h4zrkbzkyk3sxso0vlnoqegvewaa.webp",
+    "first_seen": "2026-10-04T15:20:12.079415+00:00"
+  },
+  {
     "title": "ブラウザで動く極小LLMは、社内の問い合わせ振り分けに使えるか？",
     "link": "https://aimanavo.com/c/nmt_0412/a/nmfqa3rdszwxwQ",
     "summary": "社内の問い合わせ対応で時間を取られるのは、答えを書くことより、どの部署に回すかを決める振り分けのほうだったりしませ...",
@@ -790,13 +798,5 @@
     "published": "2026-09-22T00:04:02.213651+00:00",
     "image": "https://static.aimanavo.com/gjni39e0acxrq0yjybdcoareraqq.webp",
     "first_seen": "2026-09-22T00:04:02.213651+00:00"
-  },
-  {
-    "title": "AIに自分を尋問させたら、予想もしてなかった副業が出てきた",
-    "link": "https://aimanavo.com/c/monroe/a/WqC2cpglmyaZsw",
-    "summary": "副業をやりたい気持ちはあるのに、何が自分に向いているのか分からない。この記事は、AIに自己分析をさせて副業の適性を...",
-    "published": "2026-09-21T10:39:41.683051+00:00",
-    "image": "https://static.aimanavo.com/jub9yanyqavrjygc2dv7ll8on2zd.webp",
-    "first_seen": "2026-09-21T10:39:41.683051+00:00"
   }
 ]
