@@ -7,6 +7,14 @@
     <language>ja</language>
     <ttl>60</ttl>
     <item>
+      <title>OpenRigなら、Claude CodeとCodexの引き継ぎ記録は再起動しても残るのか？</title>
+      <link>https://aimanavo.com/c/gennnn/a/oDli4wjUeIygQQ</link>
+      <guid isPermaLink="true">https://aimanavo.com/c/gennnn/a/oDli4wjUeIygQQ</guid>
+      <media:thumbnail url="https://static.aimanavo.com/3nnq3pj3m3c97ra2a2qvmqkfb69v.webp" />
+      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/3nnq3pj3m3c97ra2a2qvmqkfb69v.webp" alt="OpenRigなら、Claude CodeとCodexの引き継ぎ記録は再起動しても残るのか？" /&gt;&lt;/p&gt;OpenRigの引き継ぎ記録は、再起動のあとどうなったか？OpenRigの引き継ぎキューは、端末を落としたあとも残...</description>
+      <pubDate>Mon, 05 Oct 2026 01:57:47 +0000</pubDate>
+    </item>
+    <item>
       <title>cavemanのトークン削減は本当か？65%を手元で検証</title>
       <link>https://aimanavo.com/c/morphox_ai/a/aNqDFg58uSl96w</link>
       <guid isPermaLink="true">https://aimanavo.com/c/morphox_ai/a/aNqDFg58uSl96w</guid>
@@ -796,14 +804,6 @@
       <guid isPermaLink="true">https://aimanavo.com/c/morphox_ai/a/fHNBUOt1ZgK--g</guid>
       <media:thumbnail url="https://static.aimanavo.com/c75y9kwblrv690cgypzzis9e7f7q.webp" />
       <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/c75y9kwblrv690cgypzzis9e7f7q.webp" alt="Claude Codeの予備エンジンに、Grok 4.7を足すべきか" /&gt;&lt;/p&gt;Claude Codeがレート制限に引っかかって手が止まる、あの数十分。その退避先として、私はCodex CLIと...</description>
-      <pubDate>Tue, 22 Sep 2026 00:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Mods入門、dotfilesを書いてきた人の見方</title>
-      <link>https://aimanavo.com/c/harudots/a/_wcFthpOjeYjkw</link>
-      <guid isPermaLink="true">https://aimanavo.com/c/harudots/a/_wcFthpOjeYjkw</guid>
-      <media:thumbnail url="https://static.aimanavo.com/gjni39e0acxrq0yjybdcoareraqq.webp" />
-      <description>&lt;p&gt;&lt;img src="https://static.aimanavo.com/gjni39e0acxrq0yjybdcoareraqq.webp" alt="Claude Mods入門、dotfilesを書いてきた人の見方" /&gt;&lt;/p&gt;Claude Modsという名前を見かけた日Claude Modsは、関数フックを使うClaude Codeのプラ...</description>
       <pubDate>Tue, 22 Sep 2026 00:04:02 +0000</pubDate>
     </item>
   </channel>
