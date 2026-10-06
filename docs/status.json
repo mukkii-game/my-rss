@@ -2,37 +2,37 @@
   {
     "id": "aimanavo",
     "name": "AimanaVo",
-    "checked_at": "2026-10-06T00:46:43.719223+00:00",
+    "checked_at": "2026-10-06T07:31:21.113750+00:00",
     "ok": true,
     "fetched": 7,
     "retained": 100,
     "warnings": [],
     "consecutive_failures": 0,
-    "last_success_at": "2026-10-06T00:46:43.719223+00:00",
+    "last_success_at": "2026-10-06T07:31:21.113750+00:00",
     "feed": "aimanavo.xml"
   },
   {
     "id": "famitsu",
     "name": "ファミ通.com",
-    "checked_at": "2026-10-06T00:46:43.719223+00:00",
+    "checked_at": "2026-10-06T07:31:21.113750+00:00",
     "ok": true,
     "fetched": 50,
     "retained": 100,
     "warnings": [],
     "consecutive_failures": 0,
-    "last_success_at": "2026-10-06T00:46:43.719223+00:00",
+    "last_success_at": "2026-10-06T07:31:21.113750+00:00",
     "feed": "famitsu.xml"
   },
   {
     "id": "gamemakers",
     "name": "GameMakers",
-    "checked_at": "2026-10-06T00:46:43.719223+00:00",
+    "checked_at": "2026-10-06T07:31:21.113750+00:00",
     "ok": true,
     "fetched": 30,
-    "retained": 65,
+    "retained": 67,
     "warnings": [],
     "consecutive_failures": 0,
-    "last_success_at": "2026-10-06T00:46:43.719223+00:00",
+    "last_success_at": "2026-10-06T07:31:21.113750+00:00",
     "feed": "gamemakers.xml"
   }
 ]
