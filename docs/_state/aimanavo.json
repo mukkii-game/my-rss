@@ -1,5 +1,13 @@
 [
   {
+    "title": "不正アクセスから自社サイトを守るのに、攻撃側のStrixを使えるか？",
+    "link": "https://aimanavo.com/c/alert3am/a/0EErnXPV7WghCg",
+    "summary": "2026年9月、オープンソースのAIツールを3つ組み合わせただけで、少なくとも27社が侵入され、うち2社からはカー...",
+    "published": "2026-10-09T00:19:57.642647+00:00",
+    "image": "https://static.aimanavo.com/ldlr2ix1pvqmuyoy7jtdujptr5f7.webp",
+    "first_seen": "2026-10-09T00:19:57.642647+00:00"
+  },
+  {
     "title": "最近の「スキル不要論」について考察してみた",
     "link": "https://aimanavo.com/c/nikutama/a/XmwhmbZLhunbEQ",
     "summary": "最近、AIエージェントの「スキルはもう必要ないのでは？」という話を見かけるようになりました。AIモデルがどんどん賢...",
@@ -789,14 +797,6 @@
     "summary": "コーディングエージェントに「セキュリティ的に危ないところを洗って」と投げると、それっぽい指摘が大量に返ってきます。...",
     "published": "2026-09-22T14:49:46.573673+00:00",
     "image": "https://static.aimanavo.com/s0frxjsklaxdje8363eeyoruh3ih.webp",
-    "first_seen": "2026-09-22T14:49:46.573673+00:00"
-  },
-  {
-    "title": "ChatGPT・生成AIを使った副業術：作業時間を10分の1に圧縮して月10万円を量産する実践プロンプト＆案件獲得法！教科書",
-    "link": "https://aimanavo.com/c/mamemameman7/a/z3wJoDtLC0d3oQ",
-    "summary": "会社員・副業未経験でも今日から稼げる。1日30分で圧倒的成果を生む「作業自動化」の決定版教科書。■ 想定読者: 生...",
-    "published": "2026-09-22T14:49:46.573673+00:00",
-    "image": "https://static.aimanavo.com/74z09bnw4b925cehv3qtkjflw2mm.webp",
     "first_seen": "2026-09-22T14:49:46.573673+00:00"
   }
 ]
