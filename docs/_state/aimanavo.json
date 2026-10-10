@@ -1,5 +1,13 @@
 [
   {
+    "title": "YOLOの次に考えたいこと。d1判断システムは「目」を持ち始めた",
+    "link": "https://aimanavo.com/c/mumima/a/yuFtPxgVYOuVgw",
+    "summary": "最近、私はYOLOとd1を組み合わせた判断システムを考えていました。d1は、Liquid AIが開発する判断型AI...",
+    "published": "2026-10-10T12:25:29.291827+00:00",
+    "image": "https://static.aimanavo.com/223x5gj2qo493z6rdpreq4t7z12t.webp",
+    "first_seen": "2026-10-10T12:25:29.291827+00:00"
+  },
+  {
     "title": "AIで海外ニュースを解説するnoteメンバーシップは何人から手元に残る？",
     "link": "https://aimanavo.com/c/tatsuya_2nd/a/MTTbuxaFRXYwsQ",
     "summary": "AIで海外ニュースを解説する副業のnoteメンバーシップを月500円で出すと、試算では8人でAIツール代を回収し、...",
@@ -789,14 +797,6 @@
     "summary": "とりあえず動かしてみようと言ってAIエージェントにクラウドの認証情報を渡す判断、心当たりのあるチームは少なくないは...",
     "published": "2026-09-23T16:53:30.688253+00:00",
     "image": "https://static.aimanavo.com/i40scxn0yb4vvgh2rgkcu63u2ips.webp",
-    "first_seen": "2026-09-23T16:53:30.688253+00:00"
-  },
-  {
-    "title": "見込み客リストを、Claudeと話しながら作れるか。",
-    "link": "https://aimanavo.com/c/closingmaster/a/xe6EUzDXVJyxIg",
-    "summary": "リスト作りに午前中を使い切って、架電を始めるのは夕方から。営業の現場でよくある時間配分ですが、消えた半日の中身はほ...",
-    "published": "2026-09-23T16:53:30.688253+00:00",
-    "image": "https://static.aimanavo.com/74vw13x5wen3l6g6fk974guzau2d.webp",
     "first_seen": "2026-09-23T16:53:30.688253+00:00"
   }
 ]
