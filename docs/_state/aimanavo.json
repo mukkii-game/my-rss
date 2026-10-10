@@ -1,5 +1,13 @@
 [
   {
+    "title": "ランサムウェア集団キリン(Qilin)中心人物の拘束は、アサヒ事件の逮捕ではない",
+    "link": "https://aimanavo.com/c/alert3am/a/XwwOeSR4ZkfZeg",
+    "summary": "10月上旬のニュースで「アサヒを攻撃したハッカーが日本で捕まった」と受け取った人は多いと思います。あなたもそうでし...",
+    "published": "2026-10-10T00:01:02.476473+00:00",
+    "image": "https://static.aimanavo.com/yjhvijrd0il5r8mx82dlmiks56cs.webp",
+    "first_seen": "2026-10-10T00:01:02.476473+00:00"
+  },
+  {
     "title": "不正アクセスから自社サイトを守るのに、攻撃側のStrixを使えるか？",
     "link": "https://aimanavo.com/c/alert3am/a/0EErnXPV7WghCg",
     "summary": "2026年9月、オープンソースのAIツールを3つ組み合わせただけで、少なくとも27社が侵入され、うち2社からはカー...",
@@ -790,13 +798,5 @@
     "published": "2026-09-23T11:29:49.859958+00:00",
     "image": "https://static.aimanavo.com/zp2udm7dww3wzbrhgmo5gqz2pbpj.webp",
     "first_seen": "2026-09-23T11:29:49.859958+00:00"
-  },
-  {
-    "title": "Cloudflareの監査Skillは、なぜ見つけた本人に採点させないのか。",
-    "link": "https://aimanavo.com/c/morphox_ai/a/HnpqT9symhlQKw",
-    "summary": "コーディングエージェントに「セキュリティ的に危ないところを洗って」と投げると、それっぽい指摘が大量に返ってきます。...",
-    "published": "2026-09-22T14:49:46.573673+00:00",
-    "image": "https://static.aimanavo.com/s0frxjsklaxdje8363eeyoruh3ih.webp",
-    "first_seen": "2026-09-22T14:49:46.573673+00:00"
   }
 ]
