@@ -1,5 +1,13 @@
 [
   {
+    "title": "GodotのiPhone/iPad版アプリ「Xogot」で、メッシュ生成・レベルデザイン機能が実装。今週のゲーム開発関連ツールまとめ",
+    "link": "https://gamemakers.jp/article/2026_10_10_146876/",
+    "summary": "",
+    "published": "2026-10-09T15:00:00+00:00",
+    "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/ed1ad82c465148a81805b6bcf17dfe7b.jpg",
+    "first_seen": "2026-10-10T05:46:15.671874+00:00"
+  },
+  {
     "title": "Unity CLIとPipelineパッケージを連携し、エディタをコマンドラインで操作。Unity公式が使用方法を解説",
     "link": "https://gamemakers.jp/article/2026_10_09_146809/",
     "summary": "",
