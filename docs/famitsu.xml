@@ -3,9 +3,409 @@
   <channel>
     <title>ファミ通.com</title>
     <link>https://www.famitsu.com/category/new-article/page/1</link>
-    <description>公開新着一覧のタイトル・リンク（非公式RSS、RSSHubの代替）</description>
+    <description>公開新着一覧のタイトル・リンク（非公式RSS、RSSHubの代替）。2026-10-11: ファミ通の部品名が「ArticleList_list」から「…-module-scss-module__ハッシュ__…」に変わったため、ハッシュに頼らない部分一致に変更</description>
     <language>ja</language>
     <ttl>60</ttl>
+    <item>
+      <title>『NARUTO』と『忍空』夢のコラボアニメ発表。岸本斉史・桐山光侍が完全監修、全4話で制作。さらに新作漫画『NARUTO-ナルト- SHADOW RISING』も執筆決定</title>
+      <link>https://www.famitsu.com/article/202610/90671</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90671</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90671/thumbnail_yNMc.jpg?x=960" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90671/thumbnail_yNMc.jpg?x=960" alt="『NARUTO』と『忍空』夢のコラボアニメ発表。岸本斉史・桐山光侍が完全監修、全4話で制作。さらに新作漫画『NARUTO-ナルト- SHADOW RISING』も執筆決定" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>GeForce RTX 5070 Ti搭載ゲーミングノートが7万円オフに。ゲーミングPCが最大9万円オフになる"オータムセール"が開催【マウスコンピューター】</title>
+      <link>https://www.famitsu.com/article/202610/90636</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90636</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90636/thumbnail_lfSK.jpg?x=360" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90636/thumbnail_lfSK.jpg?x=360" alt="GeForce RTX 5070 Ti搭載ゲーミングノートが7万円オフに。ゲーミングPCが最大9万円オフになる&amp;quot;オータムセール&amp;quot;が開催【マウスコンピューター】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『メタファー：リファンタジオ』が発売された日。国内外で数々の賞を受賞した、『ペルソナ』クリエイターが挑む新たな“王道ファンタジー”。【今日は何の日？】</title>
+      <link>https://www.famitsu.com/article/202610/90203</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90203</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90203/thumbnail_rDpA.jpg?x=360" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90203/thumbnail_rDpA.jpg?x=360" alt="『メタファー：リファンタジオ』が発売された日。国内外で数々の賞を受賞した、『ペルソナ』クリエイターが挑む新たな“王道ファンタジー”。【今日は何の日？】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newニンテンドー3DS/LLが発売された日。性能や機能が向上した派生バージョンのひとつ。『ゼノブレイド』といった専用タイトルも発売され話題に【今日は何の日？】</title>
+      <link>https://www.famitsu.com/article/202610/90202</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90202</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90202/thumbnail_hjOH.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90202/thumbnail_hjOH.jpg?x=480" alt="Newニンテンドー3DS/LLが発売された日。性能や機能が向上した派生バージョンのひとつ。『ゼノブレイド』といった専用タイトルも発売され話題に【今日は何の日？】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ブレイブリーデフォルト』が発売された日。“ブレイブ＆デフォルト”のシステムや林直孝氏によるシナリオ、Revo氏の音楽などすべてが高品質のRPG【今日は何の日？】</title>
+      <link>https://www.famitsu.com/article/202610/90201</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90201</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90201/thumbnail_bdcs.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90201/thumbnail_bdcs.jpg?x=480" alt="『ブレイブリーデフォルト』が発売された日。“ブレイブ＆デフォルト”のシステムや林直孝氏によるシナリオ、Revo氏の音楽などすべてが高品質のRPG【今日は何の日？】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>アニメ『ワンパンマン』3期2クールが2027年1月に放送決定。覚醒するガロウや窮地に陥るS級ヒーロー、新キャラのサイコスらを収めたPVが公開</title>
+      <link>https://www.famitsu.com/article/202610/90641</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90641</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90641/thumbnail_oUiX.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90641/thumbnail_oUiX.jpg?x=480" alt="アニメ『ワンパンマン』3期2クールが2027年1月に放送決定。覚醒するガロウや窮地に陥るS級ヒーロー、新キャラのサイコスらを収めたPVが公開" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ぽこ あ ポケモン＋エキスパンションパス』購入特典まとめ。Amazonはメタモン型ウッドコースター、楽天はサコッシュバッグ</title>
+      <link>https://www.famitsu.com/article/202610/90629</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90629</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90629/thumbnail_lgFv.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90629/thumbnail_lgFv.jpg?x=480" alt="『ぽこ あ ポケモン＋エキスパンションパス』購入特典まとめ。Amazonはメタモン型ウッドコースター、楽天はサコッシュバッグ" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【無料】『Out of Sight』テディベア視点で探索する脱出ホラーゲーム、PC版が期間限定で配布中。一人称視点と二人称視点を切り替えて進む</title>
+      <link>https://www.famitsu.com/article/202610/90651</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90651</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90651/thumbnail_bKht.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90651/thumbnail_bKht.jpg?x=480" alt="【無料】『Out of Sight』テディベア視点で探索する脱出ホラーゲーム、PC版が期間限定で配布中。一人称視点と二人称視点を切り替えて進む" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
+      <link>https://www.famitsu.com/article/202610/90628</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90628/thumbnail_RmUY.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90628/thumbnail_RmUY.jpg?x=480" alt="『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『戦刃アレスタ』Switch、PS5、PS4版が2027年3月18日に発売決定。新武装やキャラ切り替え機能を搭載した新モードを収録</title>
+      <link>https://www.famitsu.com/article/202610/90631</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90631/thumbnail_znBp.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90631/thumbnail_znBp.jpg?x=480" alt="『戦刃アレスタ』Switch、PS5、PS4版が2027年3月18日に発売決定。新武装やキャラ切り替え機能を搭載した新モードを収録" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90649/thumbnail_zZhL.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90649/thumbnail_zZhL.jpg?x=480" alt="映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>柴田亜美先生による大人気マンガの傑作選『ドキばぐ闇鍋編』11月4日発売で予約受付中！ 11月7日開催の“ファミ通40周年フェス”ではサイン会も</title>
+      <link>https://www.famitsu.com/article/202610/90558</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90558</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90558/thumbnail_dMIR.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90558/thumbnail_dMIR.jpg?x=480" alt="柴田亜美先生による大人気マンガの傑作選『ドキばぐ闇鍋編』11月4日発売で予約受付中！ 11月7日開催の“ファミ通40周年フェス”ではサイン会も" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>「ファミ通40周年フェス」ステージ＆サイン会の抽選申込は10月13日まで！ 桜井政博、緒方恵美、マヂカルラブリーら豪華ゲストが登場</title>
+      <link>https://www.famitsu.com/article/202610/90598</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90598</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90598/thumbnail_dERc.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90598/thumbnail_dERc.jpg?x=480" alt="「ファミ通40周年フェス」ステージ＆サイン会の抽選申込は10月13日まで！ 桜井政博、緒方恵美、マヂカルラブリーら豪華ゲストが登場" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RTX5060搭載ゲーミングノートが10万円引きで買える。ASUSビッグオータムセール開催中、PCとの同時購入で周辺機器が30％オフ</title>
+      <link>https://www.famitsu.com/article/202610/90587</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90587</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90587/thumbnail_MBsX.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90587/thumbnail_MBsX.jpg?x=480" alt="RTX5060搭載ゲーミングノートが10万円引きで買える。ASUSビッグオータムセール開催中、PCとの同時購入で周辺機器が30％オフ" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
+      <link>https://www.famitsu.com/article/202610/90621</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90621</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90621/thumbnail_Yvcc.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90621/thumbnail_Yvcc.jpg?x=480" alt="トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【P5R】『ペルソナ5 ザ・ロイヤル』とbeautiful peopleコラボの上下逆で着られるブルゾンって何なんだ。意味不明レベルの構造設計技術</title>
+      <link>https://www.famitsu.com/article/202610/90591</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90591</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90591/thumbnail_lqOR.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90591/thumbnail_lqOR.jpg?x=480" alt="【P5R】『ペルソナ5 ザ・ロイヤル』とbeautiful peopleコラボの上下逆で着られるブルゾンって何なんだ。意味不明レベルの構造設計技術" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作</title>
+      <link>https://www.famitsu.com/article/202610/90617</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90617</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90617/thumbnail_ktYR.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90617/thumbnail_ktYR.jpg?x=480" alt="ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ストリートファイター／ザ・ムービー』春麗役カリーナ・リャンはキャスティングから3ヵ月で撮影に臨んだ。伝説的ゲームキャラを演じる期待と重圧を語る【インタビュー】</title>
+      <link>https://www.famitsu.com/article/202610/85233</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/85233</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/85233/thumbnail_FLvB.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/85233/thumbnail_FLvB.jpg?x=480" alt="『ストリートファイター／ザ・ムービー』春麗役カリーナ・リャンはキャスティングから3ヵ月で撮影に臨んだ。伝説的ゲームキャラを演じる期待と重圧を語る【インタビュー】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>アニメ『ゾンビのあふれた世界で俺だけが襲われない』「抱かせろ」のシーンを収録したメインPVが公開。黒瀬時子役は伊藤りかこ、牧浦さやか役は三宅麻理恵</title>
+      <link>https://www.famitsu.com/article/202610/90557</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90557</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90557/thumbnail_cGSO.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90557/thumbnail_cGSO.jpg?x=480" alt="アニメ『ゾンビのあふれた世界で俺だけが襲われない』「抱かせろ」のシーンを収録したメインPVが公開。黒瀬時子役は伊藤りかこ、牧浦さやか役は三宅麻理恵" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『モンスターハンターアウトランダーズ』キャンペーンを実施。Amazonギフトカードそれぞれ5,000円ぶんを10名様に抽選でプレゼント</title>
+      <link>https://www.famitsu.com/article/202610/89339</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89339</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89339/thumbnail_SVPY.png?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89339/thumbnail_SVPY.png?x=480" alt="『モンスターハンターアウトランダーズ』キャンペーンを実施。Amazonギフトカードそれぞれ5,000円ぶんを10名様に抽選でプレゼント" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ソニックレーシング クロスワールド】『FF7リメイク』や『ペルソナ』シリーズとのコラボDLCパックがシーズン2で登場決定</title>
+      <link>https://www.famitsu.com/article/202610/90613</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90613</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90613/thumbnail_elqt.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90613/thumbnail_elqt.jpg?x=480" alt="【ソニックレーシング クロスワールド】『FF7リメイク』や『ペルソナ』シリーズとのコラボDLCパックがシーズン2で登場決定" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>RTX5060搭載ゲーミングPCが19万円台&amp;送料無料！ “限界チャレンジセール 超絶”がFRONTIER公式ECサイトで開催中。期間は10月16日15時まで</title>
+      <link>https://www.famitsu.com/article/202610/90563</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90563</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90563/thumbnail_Pijh.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90563/thumbnail_Pijh.jpg?x=480" alt="RTX5060搭載ゲーミングPCが19万円台&amp;amp;送料無料！ “限界チャレンジセール 超絶”がFRONTIER公式ECサイトで開催中。期間は10月16日15時まで" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『TOYCRAFTER』人型の人形を分解し繋ぎ合わせて自分だけの作品を完成させるホラーゲーム。Switch、PS5、Xbox版がPC版に続きリリース開始</title>
+      <link>https://www.famitsu.com/article/202610/90076</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90076</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90076/thumbnail_gGSH.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90076/thumbnail_gGSH.jpg?x=480" alt="『TOYCRAFTER』人型の人形を分解し繋ぎ合わせて自分だけの作品を完成させるホラーゲーム。Switch、PS5、Xbox版がPC版に続きリリース開始" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『覗怪』不気味さが増すプロローグムービーが公開。『STEINS;GATE』『CHAOS;HEAD』科学ADVシリーズスタッフが贈る最新“非”科学サスペンス</title>
+      <link>https://www.famitsu.com/article/202610/90600</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90600</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90600/thumbnail_gwev.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90600/thumbnail_gwev.jpg?x=480" alt="『覗怪』不気味さが増すプロローグムービーが公開。『STEINS;GATE』『CHAOS;HEAD』科学ADVシリーズスタッフが贈る最新“非”科学サスペンス" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『クレイジータクシー：ワールドツアー』新マップ“ブラジル”が発表。そして“ダイソー”が登場決定。カラフルな世界遺産の街並みや美しいビーチにも注目</title>
+      <link>https://www.famitsu.com/article/202610/90561</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90561</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90561/thumbnail_VKLp.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90561/thumbnail_VKLp.jpg?x=480" alt="『クレイジータクシー：ワールドツアー』新マップ“ブラジル”が発表。そして“ダイソー”が登場決定。カラフルな世界遺産の街並みや美しいビーチにも注目" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Kindleセール】『おにまい』『違国日記』『大長編ドラえもん』がポイント50%還元で実質半額！ 『間違った子を魔法少女にしてしまった』は13巻まで“各10円”の大特価</title>
+      <link>https://www.famitsu.com/article/202610/90562</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90562</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90562/thumbnail_PkVr.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90562/thumbnail_PkVr.jpg?x=480" alt="【Kindleセール】『おにまい』『違国日記』『大長編ドラえもん』がポイント50%還元で実質半額！ 『間違った子を魔法少女にしてしまった』は13巻まで“各10円”の大特価" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『グランド・セフト・オートV』が発売された日。刺激だらけで自由度が高い本編とオンラインに夢中。最新作『GTA6』もまもなく発売【今日は何の日？】</title>
+      <link>https://www.famitsu.com/article/202610/90281</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90281</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90281/thumbnail_uATr.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90281/thumbnail_uATr.jpg?x=480" alt="『グランド・セフト・オートV』が発売された日。刺激だらけで自由度が高い本編とオンラインに夢中。最新作『GTA6』もまもなく発売【今日は何の日？】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『くまのプーさん』ふわふわぬいぐるみやマスコットが当たる、100周年記念一番くじが本日（10/10）発売。フロッキーフィギュアはたくさん並べたいキュートさ</title>
+      <link>https://www.famitsu.com/article/202610/90584</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90584</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90584/thumbnail_XMXV.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90584/thumbnail_XMXV.jpg?x=480" alt="『くまのプーさん』ふわふわぬいぐるみやマスコットが当たる、100周年記念一番くじが本日（10/10）発売。フロッキーフィギュアはたくさん並べたいキュートさ" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『餓狼伝説 City of the Wolves』に『鉄拳8』“瞬撃の紫電”麗奈が新DLCキャラクターとして参戦決定！「餓えた狼の皆さん、やっと戦えますねぇ？」</title>
+      <link>https://www.famitsu.com/article/202610/90602</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90602</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90602/thumbnail_RUPE.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90602/thumbnail_RUPE.jpg?x=480" alt="『餓狼伝説 City of the Wolves』に『鉄拳8』“瞬撃の紫電”麗奈が新DLCキャラクターとして参戦決定！「餓えた狼の皆さん、やっと戦えますねぇ？」" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『リトルナイトメア3』1周年。開発会社を変えて悪夢のバトンを受け継いだ3作目。シリーズ初のふたり協力プレイが話題となった【今日は何の日？】</title>
+      <link>https://www.famitsu.com/article/202610/90103</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90103</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90103/thumbnail_KOzi.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90103/thumbnail_KOzi.jpg?x=480" alt="『リトルナイトメア3』1周年。開発会社を変えて悪夢のバトンを受け継いだ3作目。シリーズ初のふたり協力プレイが話題となった【今日は何の日？】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ポケモンレジェンズZA＋M次元ラッシュ』購入特典まとめ。AmazonはメガライチュウX/Yのウッドコースター、楽天は2連オーロラキーホルダー</title>
+      <link>https://www.famitsu.com/article/202610/89883</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89883</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89883/thumbnail_YsMW.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89883/thumbnail_YsMW.jpg?x=480" alt="『ポケモンレジェンズZA＋M次元ラッシュ』購入特典まとめ。AmazonはメガライチュウX/Yのウッドコースター、楽天は2連オーロラキーホルダー" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『星のカービィ』アダストリアコラボでシャツやパーカーなどが10月16日発売。店舗購入者限定でオリジナル立体シールが配布</title>
+      <link>https://www.famitsu.com/article/202610/90590</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90590</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90590/thumbnail_ZbiC.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90590/thumbnail_ZbiC.jpg?x=480" alt="『星のカービィ』アダストリアコラボでシャツやパーカーなどが10月16日発売。店舗購入者限定でオリジナル立体シールが配布" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Yakiniku!!!』最大4人プレイ対応の焼肉店経営シミュレーションが10月12日発売。2対2に分かれて客を奪い合う対戦モードも楽しめる</title>
+      <link>https://www.famitsu.com/article/202610/90582</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90582</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90582/thumbnail_nOXE.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90582/thumbnail_nOXE.jpg?x=480" alt="『Yakiniku!!!』最大4人プレイ対応の焼肉店経営シミュレーションが10月12日発売。2対2に分かれて客を奪い合う対戦モードも楽しめる" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>生還できなければ戦利品ロスト。脱出系アクションRPG『VAULTBREAKERS』Steam体験版が本日（10/9）配信開始</title>
+      <link>https://www.famitsu.com/article/202610/90571</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90571</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90571/thumbnail_mNod.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90571/thumbnail_mNod.jpg?x=480" alt="生還できなければ戦利品ロスト。脱出系アクションRPG『VAULTBREAKERS』Steam体験版が本日（10/9）配信開始" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ハングリー・ホラーズ』怪物に料理をふるまうデッキ構築型ゲーム。好物を見極められないと死が待ち受ける。正式版が10月13日発売</title>
+      <link>https://www.famitsu.com/article/202610/90057</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90057</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90057/thumbnail_SpdI.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90057/thumbnail_SpdI.jpg?x=480" alt="『ハングリー・ホラーズ』怪物に料理をふるまうデッキ構築型ゲーム。好物を見極められないと死が待ち受ける。正式版が10月13日発売" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Cyan Heart』“自撮り視点”ホラー探索パズルアドベンチャーがSteamで配信。少女のカメラに映る景色をもとに、不気味な施設の謎を解き明かす</title>
+      <link>https://www.famitsu.com/article/202610/90572</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90572</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90572/thumbnail_fFip.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90572/thumbnail_fFip.jpg?x=480" alt="『Cyan Heart』“自撮り視点”ホラー探索パズルアドベンチャーがSteamで配信。少女のカメラに映る景色をもとに、不気味な施設の謎を解き明かす" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazonの新型Kindleが登場。6インチモデルは本の表示が30％高速化、最軽量140gに。画面に触れずにページをめくれる純正リモコンも</title>
+      <link>https://www.famitsu.com/article/202610/90570</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90570</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90570/thumbnail_rkBy.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90570/thumbnail_rkBy.jpg?x=480" alt="Amazonの新型Kindleが登場。6インチモデルは本の表示が30％高速化、最軽量140gに。画面に触れずにページをめくれる純正リモコンも" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ポケミク】企画陣インタビュー。ポケミクライブをまるっと振り返り。史上初だからこそ、徹底的に作りきったライブ制作。会場内ゲームBGMの選曲意図など裏話をお届け</title>
+      <link>https://www.famitsu.com/article/202610/89531</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89531</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89531/thumbnail_FfYw.png?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89531/thumbnail_FfYw.png?x=480" alt="【ポケミク】企画陣インタビュー。ポケミクライブをまるっと振り返り。史上初だからこそ、徹底的に作りきったライブ制作。会場内ゲームBGMの選曲意図など裏話をお届け" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Farsight』眼科検診で見る“あの風景”に迷い込むサイコロジカルホラー。子供の視点ならではの不安や恐怖を描く。クローズドβテストが11月13日より開催</title>
+      <link>https://www.famitsu.com/article/202610/90569</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90569</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90569/thumbnail_MjDq.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90569/thumbnail_MjDq.jpg?x=480" alt="『Farsight』眼科検診で見る“あの風景”に迷い込むサイコロジカルホラー。子供の視点ならではの不安や恐怖を描く。クローズドβテストが11月13日より開催" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>映画『バイオハザード』本日（10/9）より日本公開。普通の配達人ブライアンの悪夢の一夜を描く。不穏な本編映像が解禁</title>
+      <link>https://www.famitsu.com/article/202610/90547</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90547</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90547/thumbnail_OKaP.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90547/thumbnail_OKaP.jpg?x=480" alt="映画『バイオハザード』本日（10/9）より日本公開。普通の配達人ブライアンの悪夢の一夜を描く。不穏な本編映像が解禁" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>11月7日開催「ファミ通40周年フェス」物販情報が解禁。全150種以上、35社を超えるゲームメーカーの「貴重なイラストを使用したグッズ」一部を先行公開。抽選申込も開始【2026年10月18日まで】</title>
+      <link>https://www.famitsu.com/article/202610/89520</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89520</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89520/thumbnail_nOsm.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89520/thumbnail_nOsm.jpg?x=480" alt="11月7日開催「ファミ通40周年フェス」物販情報が解禁。全150種以上、35社を超えるゲームメーカーの「貴重なイラストを使用したグッズ」一部を先行公開。抽選申込も開始【2026年10月18日まで】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月13日まで】</title>
+      <link>https://www.famitsu.com/article/202610/89516</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89516</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89516/thumbnail_yUuz.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89516/thumbnail_yUuz.jpg?x=480" alt="11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月13日まで】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>11月7日開催「ファミ通40周年フェス」の『スーパーダンガンロンパ2×2』ステージには緒方恵美さん、榊原昌平さん、小高和剛さんが出演！ 豪華ステージの抽選申込受付中【2026年10月13日まで】</title>
+      <link>https://www.famitsu.com/article/202610/89877</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89877</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89877/thumbnail_lAmm.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89877/thumbnail_lAmm.jpg?x=480" alt="11月7日開催「ファミ通40周年フェス」の『スーパーダンガンロンパ2×2』ステージには緒方恵美さん、榊原昌平さん、小高和剛さんが出演！ 豪華ステージの抽選申込受付中【2026年10月13日まで】" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ハロプロ】杉原明紗・長野桃羽・西村乙輝・相馬優芽の「ハロ通GAMES」が2026年10月14日21時よりプレミア公開。『リズム天国 ミラクルスターズ』をプレイ</title>
+      <link>https://www.famitsu.com/article/202610/90425</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90425</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90425/thumbnail_pvbR.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90425/thumbnail_pvbR.jpg?x=480" alt="【ハロプロ】杉原明紗・長野桃羽・西村乙輝・相馬優芽の「ハロ通GAMES」が2026年10月14日21時よりプレミア公開。『リズム天国 ミラクルスターズ』をプレイ" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Forza Horizon 6』PS5版の発売日が2026年から2027年1月27日に延期＆予約が開始。日本が舞台となるオープンワールドレースゲーム</title>
+      <link>https://www.famitsu.com/article/202610/90540</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90540</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90540/thumbnail_wonM.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90540/thumbnail_wonM.jpg?x=480" alt="『Forza Horizon 6』PS5版の発売日が2026年から2027年1月27日に延期＆予約が開始。日本が舞台となるオープンワールドレースゲーム" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>XRグラス“XREAL AURA”約23万円で国内販売へ。現実と仮想の融合を実現する次世代デバイス。仮想モニターでゲームやYouTubeを没入感たっぷりで味わえる</title>
+      <link>https://www.famitsu.com/article/202610/90551</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90551</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90551/thumbnail_wxUW.png?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90551/thumbnail_wxUW.png?x=480" alt="XRグラス“XREAL AURA”約23万円で国内販売へ。現実と仮想の融合を実現する次世代デバイス。仮想モニターでゲームやYouTubeを没入感たっぷりで味わえる" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>今井麻美さんの『FF11』プレイ企画第4弾をお届け。公式バラエティ番組“A.M.A.N.とLIVE！（アマンとライブ！）”第20回が10月17日に放送</title>
+      <link>https://www.famitsu.com/article/202610/90431</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90431</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90431/thumbnail_yCiG.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90431/thumbnail_yCiG.jpg?x=480" alt="今井麻美さんの『FF11』プレイ企画第4弾をお届け。公式バラエティ番組“A.M.A.N.とLIVE！（アマンとライブ！）”第20回が10月17日に放送" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『スーパーダンガンロンパ2』日向創＆狛枝凪斗のボクサーパンツ登場。オープニングテーマが流れるアクリルロゴなど新グッズが予約開始</title>
+      <link>https://www.famitsu.com/article/202610/90527</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90527</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90527/thumbnail_WmNy.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90527/thumbnail_WmNy.jpg?x=480" alt="『スーパーダンガンロンパ2』日向創＆狛枝凪斗のボクサーパンツ登場。オープニングテーマが流れるアクリルロゴなど新グッズが予約開始" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Permafrost』相棒犬との極寒サバイバルアクションがおもしろそう。最大4人プレイ可能な“寒さ”と戦うオープンワールドゲーム。本日（10/9）より早期アクセスが開始</title>
+      <link>https://www.famitsu.com/article/202610/90536</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90536</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90536/thumbnail_uJUQ.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90536/thumbnail_uJUQ.jpg?x=480" alt="『Permafrost』相棒犬との極寒サバイバルアクションがおもしろそう。最大4人プレイ可能な“寒さ”と戦うオープンワールドゲーム。本日（10/9）より早期アクセスが開始" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ホロライブ麻雀 -ホロじゃん-』発表。ホロライブタレント37名が参加するオンライン麻雀ゲーム。スマホ、PC向けに2026年配信予定</title>
+      <link>https://www.famitsu.com/article/202610/90534</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90534</guid>
+      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90534/thumbnail_vtve.jpg?x=480" />
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90534/thumbnail_vtve.jpg?x=480" alt="『ホロライブ麻雀 -ホロじゃん-』発表。ホロライブタレント37名が参加するオンライン麻雀ゲーム。スマホ、PC向けに2026年配信予定" /&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 02:48:43 +0000</pubDate>
+    </item>
     <item>
       <title>『キングダム ハーツ』シリーズ25周年を記念した特別映像が公開。ソラ、ドナルド、グーフィーといっしょに写真が撮れるフォトカードが当たるキャンペーンも開催</title>
       <link>https://www.famitsu.com/article/202610/90047</link>
@@ -405,406 +805,6 @@
       <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/87266/thumbnail_yJst.png?x=480" />
       <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/87266/thumbnail_yJst.png?x=480" alt="『サイレントヒル f』×『零』和ホラーゲーム対談。衣装コラボはJホラーの好敵手にして仲間の証、ユニフォーム交換!? 岡本 基氏×柴田 誠氏が今後のコラボの展望も語らう" /&gt;&lt;/p&gt;</description>
       <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>『刀剣乱舞 ICE BLADE』ブルーレイ・DVDが発売決定。トップスケーターたちの身体表現、声優陣による声の芝居が融合</title>
-      <link>https://www.famitsu.com/article/202610/89911</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89911</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89911/thumbnail_RejX.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89911/thumbnail_RejX.jpg?x=480" alt="『刀剣乱舞 ICE BLADE』ブルーレイ・DVDが発売決定。トップスケーターたちの身体表現、声優陣による声の芝居が融合" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>『Sengoku Dynasty』中世日本で難民たちを束ねる最高の“村”を築き上げろ。村長も用心棒もぜんぶやるワンオペ村興しシミュ、Steamオータムセールで半額の1799円に【とっておきインディー】</title>
-      <link>https://www.famitsu.com/article/202610/89904</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89904</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89904/thumbnail_zMQM.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89904/thumbnail_zMQM.jpg?x=480" alt="『Sengoku Dynasty』中世日本で難民たちを束ねる最高の“村”を築き上げろ。村長も用心棒もぜんぶやるワンオペ村興しシミュ、Steamオータムセールで半額の1799円に【とっておきインディー】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>『Japanese Ramen Simulator』新しい発売日はSteam審査が終わりしだい発表。発売延期の件について続報公開。クローズドβテストも新たに開催</title>
-      <link>https://www.famitsu.com/article/202610/89905</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89905</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/None/thumbnail_Qefk.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/None/thumbnail_Qefk.jpg?x=480" alt="『Japanese Ramen Simulator』新しい発売日はSteam審査が終わりしだい発表。発売延期の件について続報公開。クローズドβテストも新たに開催" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>RTX5060Ti搭載ゲーミングPCが21万円で買える！ “限界チャレンジセール”がFRONTIER公式ECサイトで開催中。期間は10月9日15時まで</title>
-      <link>https://www.famitsu.com/article/202610/89837</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89837</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89837/thumbnail_TvaG.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89837/thumbnail_TvaG.jpg?x=480" alt="RTX5060Ti搭載ゲーミングPCが21万円で買える！ “限界チャレンジセール”がFRONTIER公式ECサイトで開催中。期間は10月9日15時まで" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ガンダム】一番くじが本日（10/3）発売。アムロやシャア、シロッコ、コウ・ウラキの表情チャームが欲しすぎる</title>
-      <link>https://www.famitsu.com/article/202610/89734</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89734</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89734/thumbnail_UZyI.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89734/thumbnail_UZyI.jpg?x=480" alt="【ガンダム】一番くじが本日（10/3）発売。アムロやシャア、シロッコ、コウ・ウラキの表情チャームが欲しすぎる" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Kindleで半額】『こち亀』『テニプリ』『るろうに剣心』などジャンプの名作マンガがクーポンで50％オフ。10/4まで【集英社 秋マン】</title>
-      <link>https://www.famitsu.com/article/202610/89881</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89881</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89881/thumbnail_AZyH.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89881/thumbnail_AZyH.jpg?x=480" alt="【Kindleで半額】『こち亀』『テニプリ』『るろうに剣心』などジャンプの名作マンガがクーポンで50％オフ。10/4まで【集英社 秋マン】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Kindleセール】『うまるちゃん』全12巻が各50円で安い！ 『高木さん』『かのかり』『虚構推理』は50%ポイント還元で実質半額に</title>
-      <link>https://www.famitsu.com/article/202610/89836</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89836</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89836/thumbnail_auAd.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89836/thumbnail_auAd.jpg?x=480" alt="【Kindleセール】『うまるちゃん』全12巻が各50円で安い！ 『高木さん』『かのかり』『虚構推理』は50%ポイント還元で実質半額に" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>『日本事故物件監視協会4』が“制作中”と発表。実在する事故物件を監視し、朝まで耐え抜く異変探しホラーゲームシリーズ。詳細はまだ不明</title>
-      <link>https://www.famitsu.com/article/202610/89879</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89879</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89879/thumbnail_vlHn.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89879/thumbnail_vlHn.jpg?x=480" alt="『日本事故物件監視協会4』が“制作中”と発表。実在する事故物件を監視し、朝まで耐え抜く異変探しホラーゲームシリーズ。詳細はまだ不明" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 23:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>初代『ダライアス』お披露目から40周年。ド迫力の3画面筐体、お尻に響くボディソニック、水棲生物モチーフのボスなど、何もかもが個性的なシューティングだった【今日は何の日？】</title>
-      <link>https://www.famitsu.com/article/202610/89996</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89996</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89996/thumbnail_Lahy.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89996/thumbnail_Lahy.jpg?x=480" alt="初代『ダライアス』お披露目から40周年。ド迫力の3画面筐体、お尻に響くボディソニック、水棲生物モチーフのボスなど、何もかもが個性的なシューティングだった【今日は何の日？】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【幻想水滸伝I&amp;II】ファイナル展覧会が2027年5月より東京で開催決定。デュナン統一戦争にスポットを当てた新規展示やグッズも登場</title>
-      <link>https://www.famitsu.com/article/202610/90143</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90143</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90143/thumbnail_NHIY.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90143/thumbnail_NHIY.jpg?x=480" alt="【幻想水滸伝I&amp;amp;II】ファイナル展覧会が2027年5月より東京で開催決定。デュナン統一戦争にスポットを当てた新規展示やグッズも登場" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『アークナイツ：エンドフィールド』Steam版が10月15日に配信開始。アカウントのデータは全プラットフォームで共有可能</title>
-      <link>https://www.famitsu.com/article/202610/90216</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90216</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90216/thumbnail_IVVU.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90216/thumbnail_IVVU.jpg?x=480" alt="『アークナイツ：エンドフィールド』Steam版が10月15日に配信開始。アカウントのデータは全プラットフォームで共有可能" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『CoD: MW4』朝鮮半島モチーフの戦場“ハジン”、プレイヤーの拠点となる前哨基地など、脱出シューター系モード“DMZ”の詳細が公開</title>
-      <link>https://www.famitsu.com/article/202610/90188</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90188</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90188/thumbnail_Ewnk.jpeg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90188/thumbnail_Ewnk.jpeg?x=480" alt="『CoD: MW4』朝鮮半島モチーフの戦場“ハジン”、プレイヤーの拠点となる前哨基地など、脱出シューター系モード“DMZ”の詳細が公開" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ガンダム】ガルマ・ザビの肖像画がデカすぎる、約2メートルと圧倒的な存在感。11月5日発売の一番くじに登場</title>
-      <link>https://www.famitsu.com/article/202610/90206</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90206</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90206/thumbnail_bXWp.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90206/thumbnail_bXWp.jpg?x=480" alt="【ガンダム】ガルマ・ザビの肖像画がデカすぎる、約2メートルと圧倒的な存在感。11月5日発売の一番くじに登場" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『リリカルなのは』藤真拓哉氏がキャラデザを担当した『ディスディスディスカッション』体験版が配信。議論を通じて青春を描く群像劇アドベンチャー</title>
-      <link>https://www.famitsu.com/article/202610/90191</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90191</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90191/thumbnail_WRYY.jpeg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90191/thumbnail_WRYY.jpeg?x=480" alt="『リリカルなのは』藤真拓哉氏がキャラデザを担当した『ディスディスディスカッション』体験版が配信。議論を通じて青春を描く群像劇アドベンチャー" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ダークソウル』シリーズのSteam版が久々の半額セール。『エルデンリング ナイトレイン』にも登場するアルトリウスや無名の王の原産地に行こう</title>
-      <link>https://www.famitsu.com/article/202610/90195</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90195</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90195/thumbnail_Ngrv.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90195/thumbnail_Ngrv.jpg?x=480" alt="『ダークソウル』シリーズのSteam版が久々の半額セール。『エルデンリング ナイトレイン』にも登場するアルトリウスや無名の王の原産地に行こう" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ルルディ・アステリ』画面ごと回転する3D横スクシューティングの体験版が配信中。ぐるっと回して攻撃の隙間を狙って撃破</title>
-      <link>https://www.famitsu.com/article/202610/90194</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90194</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90194/thumbnail_OaaL.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90194/thumbnail_OaaL.jpg?x=480" alt="『ルルディ・アステリ』画面ごと回転する3D横スクシューティングの体験版が配信中。ぐるっと回して攻撃の隙間を狙って撃破" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>アニメ『SSSS.GRIDMAN』が本日（10/6）20時よりYouTubeにて毎週1話ずつ無料配信。12月4日から『ウルトラマン カードゲーム』とのコラボもスタート</title>
-      <link>https://www.famitsu.com/article/202610/90198</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90198</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90198/thumbnail_FWMH.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90198/thumbnail_FWMH.jpg?x=480" alt="アニメ『SSSS.GRIDMAN』が本日（10/6）20時よりYouTubeにて毎週1話ずつ無料配信。12月4日から『ウルトラマン カードゲーム』とのコラボもスタート" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ソニックの有田焼が全世界50体限定で登場。一筆一筆を重ねて世界最速の青を表現。1体100万円。10月9日より抽選販売</title>
-      <link>https://www.famitsu.com/article/202610/90081</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90081</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90081/thumbnail_Kcpo.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90081/thumbnail_Kcpo.jpg?x=480" alt="ソニックの有田焼が全世界50体限定で登場。一筆一筆を重ねて世界最速の青を表現。1体100万円。10月9日より抽選販売" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Amazonタイムセール】レッドブル24本セットが32%オフで安い。ロジクールトラックボールマウスは41%オフ、Razer左手デバイスは36%オフ</title>
-      <link>https://www.famitsu.com/article/202610/90146</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90146</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90146/thumbnail_GyXW.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90146/thumbnail_GyXW.jpg?x=480" alt="【Amazonタイムセール】レッドブル24本セットが32%オフで安い。ロジクールトラックボールマウスは41%オフ、Razer左手デバイスは36%オフ" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ヴァンサバ』デッキ構築型カードゲーム『Vampire Crawlers』スマホ版が10月12日発売。コンボを駆使してインフレ級のダメージを叩き込め</title>
-      <link>https://www.famitsu.com/article/202610/90148</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90148</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90148/thumbnail_JJQA.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90148/thumbnail_JJQA.jpg?x=480" alt="『ヴァンサバ』デッキ構築型カードゲーム『Vampire Crawlers』スマホ版が10月12日発売。コンボを駆使してインフレ級のダメージを叩き込め" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>11月7日開催「ファミ通40周年フェス」続報が公開。ルパン小島＆村下小粒といっしょに会場を回れる特別遠征支援プランを10月7日より販売</title>
-      <link>https://www.famitsu.com/article/202610/90130</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90130</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90130/thumbnail_SuRe.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90130/thumbnail_SuRe.jpg?x=480" alt="11月7日開催「ファミ通40周年フェス」続報が公開。ルパン小島＆村下小粒といっしょに会場を回れる特別遠征支援プランを10月7日より販売" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>映画『バイオハザード』はバイオファンの監督が「もし一般人がバイオ世界に入ったら」を完全映像化。家中漁る弾探し、強化されていく装備などゲーム“あるある”再現で思わずニヤリ</title>
-      <link>https://www.famitsu.com/article/202610/89429</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89429</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89429/thumbnail_XLSv.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89429/thumbnail_XLSv.jpg?x=480" alt="映画『バイオハザード』はバイオファンの監督が「もし一般人がバイオ世界に入ったら」を完全映像化。家中漁る弾探し、強化されていく装備などゲーム“あるある”再現で思わずニヤリ" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ドラゴンズドグマ 2：ダークアリズン』発売記念特集。いざ12種のダンジョンへ。極北の地ノルガンでできることをチェックしよう【先出し週刊ファミ通】</title>
-      <link>https://www.famitsu.com/article/202610/89697</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89697</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89697/thumbnail_ogaJ.png?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89697/thumbnail_ogaJ.png?x=480" alt="『ドラゴンズドグマ 2：ダークアリズン』発売記念特集。いざ12種のダンジョンへ。極北の地ノルガンでできることをチェックしよう【先出し週刊ファミ通】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>手描きアニメの3Dダンジョンクローラー『Greed &amp; Darkness』の体験版が配信中。リアルタイムアクションのバトルや明暗を使い分ける探索が展開</title>
-      <link>https://www.famitsu.com/article/202610/90166</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90166</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90166/thumbnail_FAqh.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90166/thumbnail_FAqh.jpg?x=480" alt="手描きアニメの3Dダンジョンクローラー『Greed &amp;amp; Darkness』の体験版が配信中。リアルタイムアクションのバトルや明暗を使い分ける探索が展開" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ガンズ・オブ・エスカトン』限られた弾丸とパリィで終末世界と化したアメリカを生き延びろ。西部劇ソウルライクFPSのデモ版がSteamで配信</title>
-      <link>https://www.famitsu.com/article/202610/90132</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90132</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90132/thumbnail_eGcw.jpeg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90132/thumbnail_eGcw.jpeg?x=480" alt="『ガンズ・オブ・エスカトン』限られた弾丸とパリィで終末世界と化したアメリカを生き延びろ。西部劇ソウルライクFPSのデモ版がSteamで配信" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに</title>
-      <link>https://www.famitsu.com/article/202610/90149</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90149</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90149/thumbnail_EvtH.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90149/thumbnail_EvtH.jpg?x=480" alt="『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『CLAWSTROPHOBIA』命がけのクレーンゲームで借金を返済。スキルの組み合わせでぶっ壊れスコアを叩き出すデッキ構築ローグライトのデモ版がSteamで配信</title>
-      <link>https://www.famitsu.com/article/202610/90121</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90121</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90121/thumbnail_Wpll.jpeg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90121/thumbnail_Wpll.jpeg?x=480" alt="『CLAWSTROPHOBIA』命がけのクレーンゲームで借金を返済。スキルの組み合わせでぶっ壊れスコアを叩き出すデッキ構築ローグライトのデモ版がSteamで配信" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『フロストパンク』Switch版が10月19日発売。極寒世界で地球最後の都市を運営するサバイバルゲーム。蒸気を動力源とした技術で寒さに立ち向かう</title>
-      <link>https://www.famitsu.com/article/202610/90131</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90131</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90131/thumbnail_CpqV.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90131/thumbnail_CpqV.jpg?x=480" alt="『フロストパンク』Switch版が10月19日発売。極寒世界で地球最後の都市を運営するサバイバルゲーム。蒸気を動力源とした技術で寒さに立ち向かう" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【映画『ストリートファイター／ザ・ムービー』公開記念】にじさんじ・葛葉さんが中山Dに映画制作の裏話や『スト6』の気になることを訊きまくる【先出し週刊ファミ通】</title>
-      <link>https://www.famitsu.com/article/202610/89615</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89615</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89615/thumbnail_wyXT.png?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89615/thumbnail_wyXT.png?x=480" alt="【映画『ストリートファイター／ザ・ムービー』公開記念】にじさんじ・葛葉さんが中山Dに映画制作の裏話や『スト6』の気になることを訊きまくる【先出し週刊ファミ通】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>「堅物上司&amp;へらへら部下」の公安バディ推理アドベンチャー『天使機構 執行部魂救済課』無料体験版が10月9日配信。幽霊が引き起こす事件の真相に迫る</title>
-      <link>https://www.famitsu.com/article/202610/90145</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90145</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90145/thumbnail_cpLc.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90145/thumbnail_cpLc.jpg?x=480" alt="「堅物上司&amp;amp;へらへら部下」の公安バディ推理アドベンチャー『天使機構 執行部魂救済課』無料体験版が10月9日配信。幽霊が引き起こす事件の真相に迫る" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『Japanese Ramen Simulator』10月9日17時より配信開始。注目のラーメンシミュレーターの新たな発売日が決定</title>
-      <link>https://www.famitsu.com/article/202610/90137</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90137</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90137/thumbnail_uuhF.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90137/thumbnail_uuhF.jpg?x=480" alt="『Japanese Ramen Simulator』10月9日17時より配信開始。注目のラーメンシミュレーターの新たな発売日が決定" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『湾岸ミッドナイト』新筐体、『バイオ RE:2』のガンシューティング、ペンライトで遊ぶ新作音ゲーが11月6日開幕の“アミューズメント エキスポ 2026”に登場</title>
-      <link>https://www.famitsu.com/article/202610/90124</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90124</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90124/thumbnail_OOmW.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90124/thumbnail_OOmW.jpg?x=480" alt="『湾岸ミッドナイト』新筐体、『バイオ RE:2』のガンシューティング、ペンライトで遊ぶ新作音ゲーが11月6日開幕の“アミューズメント エキスポ 2026”に登場" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>『トリッカル』1周年記念特集。人気投票結果や10月22日実装の使徒情報、開発陣インタビューを掲載。EPIDGames代表のお面プレゼントも！【先出し週刊ファミ通】</title>
-      <link>https://www.famitsu.com/article/202610/89796</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89796</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89796/thumbnail_AyiS.png?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89796/thumbnail_AyiS.png?x=480" alt="『トリッカル』1周年記念特集。人気投票結果や10月22日実装の使徒情報、開発陣インタビューを掲載。EPIDGames代表のお面プレゼントも！【先出し週刊ファミ通】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【DbD】『ニーア オートマタ』コラボでは2B、A2、エミールが登場。『NieR:Automata』コレクションは明日（10/7）リリース</title>
-      <link>https://www.famitsu.com/article/202610/90120</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90120</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90120/thumbnail_NDhc.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90120/thumbnail_NDhc.jpg?x=480" alt="【DbD】『ニーア オートマタ』コラボでは2B、A2、エミールが登場。『NieR:Automata』コレクションは明日（10/7）リリース" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>豆腐が半額。『スゴイツヨイトウフ』は留まるところを知らない豆腐愛炸裂アクション。Steam Switchともに275円（50％オフ）セール中【とっておきインディー】</title>
-      <link>https://www.famitsu.com/article/202610/90117</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90117</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90117/thumbnail_sYeQ.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90117/thumbnail_sYeQ.jpg?x=480" alt="豆腐が半額。『スゴイツヨイトウフ』は留まるところを知らない豆腐愛炸裂アクション。Steam Switchともに275円（50％オフ）セール中【とっておきインディー】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>【君臨する獣 “戦争×復讐×ケモノ”マンガ】『戦場のフーガ 鋼鉄のメロディ』第94.5話</title>
-      <link>https://www.famitsu.com/article/202610/90080</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90080</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90080/thumbnail_rPWy.png?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90080/thumbnail_rPWy.png?x=480" alt="【君臨する獣 “戦争×復讐×ケモノ”マンガ】『戦場のフーガ 鋼鉄のメロディ』第94.5話" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kindleで『やがて君になる』『黒岩メダカに私の可愛いが通じない』が50％ポイント還元。『暁のヨナ』全47巻も実質半額</title>
-      <link>https://www.famitsu.com/article/202610/89885</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89885</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89885/thumbnail_DAdt.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89885/thumbnail_DAdt.jpg?x=480" alt="Kindleで『やがて君になる』『黒岩メダカに私の可愛いが通じない』が50％ポイント還元。『暁のヨナ』全47巻も実質半額" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 15:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>『タクティクスオウガ』がスーパーファミコンで発売された日。僕にその手を汚せというのか。濃厚なシナリオと個性的なシステムが多くのファンを生んだ名作【今日は何の日？】</title>
-      <link>https://www.famitsu.com/article/202610/89633</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89633</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89633/thumbnail_TvBE.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89633/thumbnail_TvBE.jpg?x=480" alt="『タクティクスオウガ』がスーパーファミコンで発売された日。僕にその手を汚せというのか。濃厚なシナリオと個性的なシステムが多くのファンを生んだ名作【今日は何の日？】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゲームギアが発売された日。カラー液晶が魅力だったセガ初めての携帯型ゲーム機。『シャイニング・フォース外伝』『ラストバイブル』『魔導物語』シリーズなどが有名【今日は何の日？】</title>
-      <link>https://www.famitsu.com/article/202610/89632</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89632</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89632/thumbnail_oxcZ.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89632/thumbnail_oxcZ.jpg?x=480" alt="ゲームギアが発売された日。カラー液晶が魅力だったセガ初めての携帯型ゲーム機。『シャイニング・フォース外伝』『ラストバイブル』『魔導物語』シリーズなどが有名【今日は何の日？】" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Kindleセール】『ダンジョン飯』『氷菓』『ガヴドロ』『このすば』が半額で買える！ KADOKAWA作品がお得なセールが開催中</title>
-      <link>https://www.famitsu.com/article/202610/90074</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90074</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90074/thumbnail_KoOh.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90074/thumbnail_KoOh.jpg?x=480" alt="【Kindleセール】『ダンジョン飯』『氷菓』『ガヴドロ』『このすば』が半額で買える！ KADOKAWA作品がお得なセールが開催中" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『アイオン2』本日（10/5）22時より正式サービス開始。マップの広さはなんと前作の36倍。広大かつ美麗なファンタジー世界を冒険するMMORPG</title>
-      <link>https://www.famitsu.com/article/202610/90092</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90092</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90092/thumbnail_fGPM.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90092/thumbnail_fGPM.jpg?x=480" alt="『アイオン2』本日（10/5）22時より正式サービス開始。マップの広さはなんと前作の36倍。広大かつ美麗なファンタジー世界を冒険するMMORPG" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>シンジたちが東海道新幹線で修学旅行に！ 『エヴァ』とJR東海“推し旅”コラボが10月18日から実施。新幹線車内でオリジナルボイスドラマ“カンサイ旅行計画”が聴ける</title>
-      <link>https://www.famitsu.com/article/202610/90087</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90087</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90087/thumbnail_ZNfY.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90087/thumbnail_ZNfY.jpg?x=480" alt="シンジたちが東海道新幹線で修学旅行に！ 『エヴァ』とJR東海“推し旅”コラボが10月18日から実施。新幹線車内でオリジナルボイスドラマ“カンサイ旅行計画”が聴ける" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【太鼓の達人】『学マス』花海佑芽が歌うカオスな新曲『どんどこ×4 どんタスティック!!!』MV公開。かめりあが手掛けるドンダフルソング大作戦の第3弾</title>
-      <link>https://www.famitsu.com/article/202610/90088</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90088</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90088/thumbnail_OTnU.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90088/thumbnail_OTnU.jpg?x=480" alt="【太鼓の達人】『学マス』花海佑芽が歌うカオスな新曲『どんどこ×4 どんタスティック!!!』MV公開。かめりあが手掛けるドンダフルソング大作戦の第3弾" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ユア・デット・イズ・ペイド』膨れ上がる借金を“血”で返す、ダンジョンローグライト・オートバトラーが2027年発売。血さえあれば強化や復活も可能</title>
-      <link>https://www.famitsu.com/article/202610/90040</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90040</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90040/thumbnail_wLiD.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90040/thumbnail_wLiD.jpg?x=480" alt="『ユア・デット・イズ・ペイド』膨れ上がる借金を“血”で返す、ダンジョンローグライト・オートバトラーが2027年発売。血さえあれば強化や復活も可能" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ハンターハンター』クロロたち幻影旅団のフィギュアが当たる一番くじが2027年3月発売。クロロは「オレ達から貴方への鎮魂曲(レクイエム)です」のポーズでフィギュア化</title>
-      <link>https://www.famitsu.com/article/202610/90075</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90075</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90075/thumbnail_maki.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90075/thumbnail_maki.jpg?x=480" alt="『ハンターハンター』クロロたち幻影旅団のフィギュアが当たる一番くじが2027年3月発売。クロロは「オレ達から貴方への鎮魂曲(レクイエム)です」のポーズでフィギュア化" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『FF14』第四境界とコラボしたARG『エッダの鞄』発表、東京ファンフェス2026にて先行実施。実物の鞄を受け取り、スマホでクエストを受注して挑戦</title>
-      <link>https://www.famitsu.com/article/202610/90085</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90085</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90085/thumbnail_TNBa.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90085/thumbnail_TNBa.jpg?x=480" alt="『FF14』第四境界とコラボしたARG『エッダの鞄』発表、東京ファンフェス2026にて先行実施。実物の鞄を受け取り、スマホでクエストを受注して挑戦" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『MOLTYN』地球の力をすべて操るヒーローになれ！ 破壊と創造が楽しめるピクセル世界のサンドボックスゲーム無料体験版が10月6日22時より配信。日本語にも対応</title>
-      <link>https://www.famitsu.com/article/202610/90066</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90066</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90066/thumbnail_kJFU.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90066/thumbnail_kJFU.jpg?x=480" alt="『MOLTYN』地球の力をすべて操るヒーローになれ！ 破壊と創造が楽しめるピクセル世界のサンドボックスゲーム無料体験版が10月6日22時より配信。日本語にも対応" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>【コジ10】小島秀夫監督のラジオ番組『最高の10時にしよう』の復活放送が本日（10月5日）22時からYouTubeプレミア公開。最新作『PHYSINT』『OD』の話題も</title>
-      <link>https://www.famitsu.com/article/202610/90059</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90059</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/90059/thumbnail_WvFR.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/90059/thumbnail_WvFR.jpg?x=480" alt="【コジ10】小島秀夫監督のラジオ番組『最高の10時にしよう』の復活放送が本日（10月5日）22時からYouTubeプレミア公開。最新作『PHYSINT』『OD』の話題も" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『テュロック：オリジンズ』試遊レビュー。頭を空っぽにして、銃撃と近接で恐竜をブっ倒せ！ 最大3人での協力プレイも可能なTPSアクション。こいつら、ヤリすぎ</title>
-      <link>https://www.famitsu.com/article/202610/89240</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89240</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89240/thumbnail_dykp.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89240/thumbnail_dykp.jpg?x=480" alt="『テュロック：オリジンズ』試遊レビュー。頭を空っぽにして、銃撃と近接で恐竜をブっ倒せ！ 最大3人での協力プレイも可能なTPSアクション。こいつら、ヤリすぎ" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>『To LOVEる-とらぶる-ダークネス』が全話無料公開中。10月3日4時59分までの“今夜限定”キャンペーン。ダークネスな夜を過ごそう</title>
-      <link>https://www.famitsu.com/article/202610/89853</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89853</guid>
-      <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/89853/thumbnail_mzWc.jpg?x=480" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/89853/thumbnail_mzWc.jpg?x=480" alt="『To LOVEる-とらぶる-ダークネス』が全話無料公開中。10月3日4時59分までの“今夜限定”キャンペーン。ダークネスな夜を過ごそう" /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 00:46:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
