@@ -115,6 +115,31 @@ def extract(html, config, base_url):
     raise ValueError('0 articles extracted; previous RSS retained. Check selectors / access restrictions.')
 
 
+def structure_hint(html, base_url):
+    """0 件の時の手がかり。ページ本文は保存せず、目印を直すのに要る構造だけを短く残す。"""
+    soup = BeautifulSoup(html, 'html.parser')
+    title = soup.title.get_text(strip=True) if soup.title else ''
+    host = urlsplit(base_url).netloc
+    links = [a for a in soup.select('a[href]') if re.search(r'/article/', urljoin(base_url, a['href'])) and urlsplit(urljoin(base_url, a['href'])).netloc == host]
+    classes = {}
+    for node in soup.select('[class]'):
+        for c in node.get('class', []):
+            if re.search(r'(?i)article|list|card|item', c):
+                classes[c] = classes.get(c, 0) + 1
+    lines = [f'checked: {datetime.now(timezone.utc).isoformat()}', f'url: {base_url}', f'html_bytes: {len(html)}',
+             f'title: {title[:120]}', f'article_links: {len(links)}', 'classes (article/list/card/item):']
+    lines += [f'  {c}: {n}' for c, n in sorted(classes.items(), key=lambda x: -x[1])[:40]]
+    lines.append('first article links (ancestor classes):')
+    for a in links[:5]:
+        path = []
+        for parent in list(a.parents)[:4]:
+            if parent.name in (None, '[document]'):
+                break
+            path.append(parent.name + ('.' + '.'.join(parent.get('class', [])) if parent.get('class') else ''))
+        lines.append(f'  {a.get("href", "")[:80]} | aria-label={bool(a.get("aria-label"))} | {" < ".join(path)}')
+    return '\n'.join(lines) + '\n'
+
+
 def merge(old, new, now, limit):
     known = {i['link']: dict(i) for i in old}
     for item in new:
@@ -226,7 +251,14 @@ def build(sites_dir, output):
             if type(limit) is not int or limit < 1:
                 raise ValueError('max_items must be a positive integer')
             html, base = fetch(config['url'])
-            fresh, warnings = extract(html, config, base)
+            try:
+                fresh, warnings = extract(html, config, base)
+            except ValueError as error:
+                if str(error).startswith('0 articles'):
+                    debug = output.parent / 'debug'
+                    debug.mkdir(exist_ok=True)
+                    atomic_write(debug / (slug + '.txt'), structure_hint(html, base).encode('utf-8'))
+                raise
             old = json.loads(state_path.read_text(encoding='utf-8')) if state_path.exists() else []
             items = merge(old, fresh, now, limit)
             if not items:
@@ -239,7 +271,7 @@ def build(sites_dir, output):
         except Exception as error:
             previous = previous_status.get(slug, {})
             failures = previous.get('consecutive_failures', 0) + 1
-            if failures >= 3:
+            if failures == 3:  # 通知(実行の失敗)は 3 回目の 1 度だけ。以後は状況ページで見る
                 errors += 1
             record.update(ok=False, error=str(error), consecutive_failures=failures,
                           last_success_at=previous.get('last_success_at') or (previous.get('checked_at') if previous.get('ok') else None))
@@ -250,7 +282,7 @@ def build(sites_dir, output):
     rows = []
     for s in status:
         link = f'<a href="{escape(s["feed"])}">RSSを開く</a>' if s['feed'] else 'RSS未生成'
-        message = ('取得成功（' + str(s['fetched']) + '件）' + ('・要確認: ' + '; '.join(s['warnings']) if s['warnings'] else '')) if s['ok'] else '連続' + str(s['consecutive_failures']) + '回取得失敗・次回再試行（3回以上で通知）: ' + s['error']
+        message = ('取得成功（' + str(s['fetched']) + '件）' + ('・要確認: ' + '; '.join(s['warnings']) if s['warnings'] else '')) if s['ok'] else '連続' + str(s['consecutive_failures']) + '回取得失敗・次回再試行（3回目に1度だけ通知）: ' + s['error']
         rows.append(f'<li><h2>{escape(s["name"])}</h2>{link}<p>{escape(message)}</p></li>')
     page = '<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>My RSS</title><style>body{font:17px/1.7 system-ui;max-width:850px;margin:50px auto;padding:0 24px;background:#f5f7fb;color:#182235}li{background:white;padding:18px 28px;margin:20px 0;border-radius:12px}ul{padding:0;list-style:none}a{color:#1655bd}h2{margin-top:0}</style><h1>My RSS</h1><p>RSSリンクのアドレスをコピーし、Inoreaderへ登録してください。</p><p>最終実行（UTC）: ' + escape(now) + '</p><ul>' + ''.join(rows) + '</ul><p>各サイトの公開情報から作成した非公式RSSです。</p></html>'
     atomic_write(output / 'index.html', page.encode('utf-8'))

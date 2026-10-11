@@ -108,7 +108,7 @@ class GeneratorTests(unittest.TestCase):
             self.assertEqual(status[0]['consecutive_failures'], 1)
             for expected_count in (2, 3, 4):
                 with patch.object(g, 'fetch', side_effect=[RuntimeError('timeout'), (good, 'https://example.com')]):
-                    self.assertEqual(g.build(sites, out), int(expected_count >= 3))
+                    self.assertEqual(g.build(sites, out), int(expected_count == 3))
                 status = json.loads((out / 'status.json').read_text(encoding='utf-8'))
                 self.assertEqual(status[0]['consecutive_failures'], expected_count)
                 self.assertEqual(status[1]['consecutive_failures'], 0)
@@ -119,6 +119,20 @@ class GeneratorTests(unittest.TestCase):
                 self.assertEqual(g.build(sites, out), 0)
             status = json.loads((out / 'status.json').read_text(encoding='utf-8'))
             self.assertEqual(status[0]['consecutive_failures'], 1)
+
+    def test_zero_items_writes_structure_hint(self):
+        with test_directory() as d:
+            root = Path(d)
+            sites, out = root / 'sites', root / 'docs'
+            sites.mkdir()
+            (sites / 'a.json').write_text(json.dumps(self.config()), encoding='utf-8')
+            page = '<title>T</title><main><ul class="NewList_x"><li class="Card_y"><a href="/article/1/2" aria-label="t">t</a></li></ul></main>'
+            with patch.object(g, 'fetch', return_value=(page, 'https://example.com/')):
+                self.assertEqual(g.build(sites, out), 0)
+            hint = (root / 'debug' / 'a.txt').read_text(encoding='utf-8')
+            self.assertIn('article_links: 1', hint)
+            self.assertIn('NewList_x', hint)
+            self.assertNotIn('<li', hint)
 
     def test_discovery_validates_xml(self):
         def fake(url):
