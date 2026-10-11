@@ -1,0 +1,52 @@
+checked: 2026-10-11T02:47:45.336647+00:00
+url: https://www.famitsu.com/category/new-article/page/1
+html_bytes: 801394
+title: 新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com
+article_links: 193
+classes (article/list/card/item):
+  Category-module-scss-module__XJooIW__item: 58
+  SecondaryCardList-module-scss-module__GokPgW__listItem: 51
+  SecondaryCard-module-scss-module__Ao7cUG__card: 51
+  SecondaryCard-module-scss-module__Ao7cUG__media: 51
+  SecondaryCard-module-scss-module__Ao7cUG__body: 51
+  SecondaryCard-module-scss-module__Ao7cUG__categoryWrapper: 51
+  SecondaryCard-module-scss-module__Ao7cUG__mainStatusWrapper: 51
+  SecondaryCard-module-scss-module__Ao7cUG__title: 51
+  SecondaryCard-module-scss-module__Ao7cUG__lead: 51
+  SecondaryCard-module-scss-module__Ao7cUG__footer: 47
+  PrimaryCard-module-scss-module__Qc9oWa__cardContainer: 13
+  PrimaryCard-module-scss-module__Qc9oWa__cardInner: 13
+  PrimaryCard-module-scss-module__Qc9oWa__cardMedia: 13
+  PrimaryCard-module-scss-module__Qc9oWa__cardBody: 13
+  PrimaryCardInner-module-scss-module__MFcQNq__container: 13
+  PrimaryCardInner-module-scss-module__MFcQNq__cardStatus: 13
+  PrimaryCardInner-module-scss-module__MFcQNq__cardText: 13
+  PrimaryCardInner-module-scss-module__MFcQNq__cardTitle: 13
+  PrimaryCardInner-module-scss-module__MFcQNq__cardFooter: 13
+  GlobalNav-module-scss-module__3PBPJa__globalNavItem: 11
+  PrimaryCardList-module-scss-module__3y2Pkq__item: 10
+  AmazonCard-module-scss-module__LxOl7a__price: 10
+  CategoryArticleList-module-scss-module__rD1yVG__sideColumnSection: 7
+  FooterInfoItem-module-scss-module__KzbK1a__footerLink: 6
+  SecondaryCard-module-scss-module__Ao7cUG__adText: 5
+  PaginationItem-module-scss-module__yNPQIq__listItem: 5
+  ArticleRankingForSideColumn-module-scss-module__-U7kbW__list: 5
+  ArticleRankingCard-module-scss-module__BwC8pa__article: 5
+  ArticleRankingCard-module-scss-module__BwC8pa__rankNum: 5
+  ArticleRankingCard-module-scss-module__BwC8pa__titleWrapper: 5
+  ArticleRankingCard-module-scss-module__BwC8pa__title: 5
+  ArticleRankingCard-module-scss-module__BwC8pa__imageMediaWrapper: 5
+  PrimaryCardInner-module-scss-module__MFcQNq__adText: 5
+  AmazonRanking-module-scss-module__QA4PYa__listItem: 5
+  AmazonCard-module-scss-module__LxOl7a__card: 5
+  AmazonCard-module-scss-module__LxOl7a__side: 5
+  AmazonCard-module-scss-module__LxOl7a__inner: 5
+  AmazonCard-module-scss-module__LxOl7a__media: 5
+  AmazonCard-module-scss-module__LxOl7a__body: 5
+  AmazonCard-module-scss-module__LxOl7a__status: 5
+first article links (ancestor classes):
+  /article/202610/90203 | aria-label=True | div.PrimaryCard-module-scss-module__Qc9oWa__cardMedia.undefined < div.PrimaryCard-module-scss-module__Qc9oWa__cardInner < div.PrimaryCard-module-scss-module__Qc9oWa__cardContainer.undefined < li.ArticleList-module-scss-module__aEPNzW__first
+  /article/202610/90203 | aria-label=False | p.PrimaryCardInner-module-scss-module__MFcQNq__cardTitle.undefined.PrimaryCardInner-module-scss-module__MFcQNq__large < div.PrimaryCardInner-module-scss-module__MFcQNq__cardText < div.PrimaryCardInner-module-scss-module__MFcQNq__container.undefined < div.PrimaryCard-module-scss-module__Qc9oWa__cardBody.undefined.undefined
+  /article/202610/90202 | aria-label=True | div.PrimaryCard-module-scss-module__Qc9oWa__cardMedia.undefined < div.PrimaryCard-module-scss-module__Qc9oWa__cardInner < div.PrimaryCard-module-scss-module__Qc9oWa__cardContainer.undefined < li.ArticleList-module-scss-module__aEPNzW__left
+  /article/202610/90202 | aria-label=False | p.PrimaryCardInner-module-scss-module__MFcQNq__cardTitle.undefined < div.PrimaryCardInner-module-scss-module__MFcQNq__cardText < div.PrimaryCardInner-module-scss-module__MFcQNq__container.undefined < div.PrimaryCard-module-scss-module__Qc9oWa__cardBody.undefined.undefined
+  /article/202610/90201 | aria-label=True | div.PrimaryCard-module-scss-module__Qc9oWa__cardMedia.undefined < div.PrimaryCard-module-scss-module__Qc9oWa__cardInner < div.PrimaryCard-module-scss-module__Qc9oWa__cardContainer.undefined < li.ArticleList-module-scss-module__aEPNzW__right

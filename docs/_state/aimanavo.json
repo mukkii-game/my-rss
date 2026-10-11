@@ -1,5 +1,13 @@
 [
   {
+    "title": "パスワードを入れていないのに、なぜAIは下書きを直せるのか。AimanaVoのMCP連携を「許可画面」から読む",
+    "link": "https://aimanavo.com/c/mumima/a/htlf6Wo8gE_ejQ",
+    "summary": "AimanaVoを使い始めて2日目になる。初日は、ChatGPTのプラグインをAimanaVo連携としてカスタマイ...",
+    "published": "2026-10-11T02:47:43.989365+00:00",
+    "image": "https://aimanavo.com/images/default_cover.png",
+    "first_seen": "2026-10-11T02:47:43.989365+00:00"
+  },
+  {
     "title": "YOLOの次に考えたいこと。d1判断システムは「目」を持ち始めた",
     "link": "https://aimanavo.com/c/mumima/a/yuFtPxgVYOuVgw",
     "summary": "最近、私はYOLOとd1を組み合わせた判断システムを考えていました。d1は、Liquid AIが開発する判断型AI...",
@@ -789,14 +797,6 @@
     "summary": "すでに書いたコンテンツを、別の形でも届けたい！そう思って、販売中のBrain教材をもとに初のAmazon Kind...",
     "published": "2026-09-23T16:53:30.688253+00:00",
     "image": "https://static.aimanavo.com/ukej8m5cqqph8793n4fj2xigbthz.webp",
-    "first_seen": "2026-09-23T16:53:30.688253+00:00"
-  },
-  {
-    "title": "エージェントに鍵を渡した24時間で、請求は98万円になった。",
-    "link": "https://aimanavo.com/c/kai_pm/a/gYibas1S2edgcA",
-    "summary": "とりあえず動かしてみようと言ってAIエージェントにクラウドの認証情報を渡す判断、心当たりのあるチームは少なくないは...",
-    "published": "2026-09-23T16:53:30.688253+00:00",
-    "image": "https://static.aimanavo.com/i40scxn0yb4vvgh2rgkcu63u2ips.webp",
     "first_seen": "2026-09-23T16:53:30.688253+00:00"
   }
 ]
