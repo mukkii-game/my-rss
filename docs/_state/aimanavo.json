@@ -1,5 +1,61 @@
 [
   {
+    "title": "ココナラのプロンプト販売、評価がつく商品とつかない商品は何が違う？",
+    "link": "https://aimanavo.com/c/tatsuya_2nd/a/CGQvsLUFokWAYw",
+    "summary": "2026年10月12日にココナラで、プロンプト（AIへの指示文）を商品として渡す出品37件を調べると、23件は評価...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/5zdwacq3x3e21c3em9d1dp1xupga.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
+    "title": "Talorysで、月0円の自分専用AIアシスタントは作れるか？",
+    "link": "https://aimanavo.com/c/nobu1971/a/TE6n8I98VJFjOw",
+    "summary": "月額のAIサブスクを、これ以上増やしたくないと思っていませんか？ Talorysは自分のCloudflareアカウ...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/yo9tjmbitec85v0vqeinko1j57sq.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
+    "title": "自然言語で書くE2Eテストは、Playwrightの手書きより保守が楽か？",
+    "link": "https://aimanavo.com/c/hys_tt/a/7myW0JsTwVN2Pg",
+    "summary": "UIの文言を1つ変えただけで、E2Eテストが何本もロケータを見失って落ちる。そのたびにセレクタを直す作業に、時間を...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/zyauwc9bd7ym8g2ey1icu0jff7nb.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
+    "title": "Claude Haiku 5.5の料金、問い合わせ返信の月額はいくら下がる？",
+    "link": "https://aimanavo.com/c/mokure/a/AgcDH72VjZBJ8Q",
+    "summary": "「Haikuが安くなったらしいけど、うちだといくら変わるの？」と聞かれて、答えに詰まったことはないでしょうか。20...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/tkzyw62xgl5a3n9a1rl46mva5ml2.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
+    "title": "MXCでClaude Codeから.envは隠せるか？Macでの現状",
+    "link": "https://aimanavo.com/c/kaz_shiro/a/P6CNdlQe__fbZA",
+    "summary": "Microsoft Execution Containers（MXC）は、10月7日にSDKの1.0.0が出た。た...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/lzrht0on480npepaabi0aw7hauad.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
+    "title": "コーディングエージェントの6つの失敗、Claude Codeの設定で防げるのはどこまでか",
+    "link": "https://aimanavo.com/c/ryo_nightly/a/c7uIjUuX8O7qvQ",
+    "summary": "夜にClaude Codeを放置して、朝見たら確認待ちで止まっていた。そういう失敗は、設定でどこまで減らせるんでし...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/fodwsq0jlwykx1gc56jqazum8u3v.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
+    "title": "SynthID Detectorで分かること、分からないこと",
+    "link": "https://aimanavo.com/c/kotori1031/a/tjdFfYGa5b2uTg",
+    "summary": "補正やトリミングをした画像、AI判定にかけたらどう出るのか気になりませんか？ SynthID Detectorは、...",
+    "published": "2026-10-12T10:41:15.079275+00:00",
+    "image": "https://static.aimanavo.com/qhk1nzje4leex0p35ybh4vsmogdf.webp",
+    "first_seen": "2026-10-12T10:41:15.079275+00:00"
+  },
+  {
     "title": "パスワードを入れていないのに、なぜAIは下書きを直せるのか。AimanaVoのMCP連携を「許可画面」から読む",
     "link": "https://aimanavo.com/c/mumima/a/htlf6Wo8gE_ejQ",
     "summary": "AimanaVoを使い始めて2日目になる。初日は、ChatGPTのプラグインをAimanaVo連携としてカスタマイ...",
@@ -742,61 +798,5 @@
     "published": "2026-09-23T23:39:34.347683+00:00",
     "image": "https://static.aimanavo.com/uryswvbli6xa9f0gr8v25w680gdw.webp",
     "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "テレメトリを切ったClaude Codeは、AGENTS.mdを読んでいるか",
-    "link": "https://aimanavo.com/c/morphox_ai/a/VYVx9MIo8sl1ZQ",
-    "summary": "AGENTS.mdを置いたのに、Claude Codeがそこに書いたルールを守らない。テレメトリを切っている環境な...",
-    "published": "2026-09-23T23:39:34.347683+00:00",
-    "image": "https://static.aimanavo.com/ffxxg5efdqxl7xptmh66xw95yq6x.webp",
-    "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "自撮り動画の服、背景、天気だけをAIで差し替える方法",
-    "link": "https://aimanavo.com/c/nanabpm/a/Nj4749X-TRr7OA",
-    "summary": "動きも表情もベストな1本が撮れたのに、服がイマイチだった。背景に洗濯物が写ってた。そんな理由でボツにした自撮り動画...",
-    "published": "2026-09-23T23:39:34.347683+00:00",
-    "image": "https://static.aimanavo.com/oh8o7i9kt1rvahsa8bd5501qt6ag.webp",
-    "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "NY市はなぜ、中学生の生成AIを1年止めたのか。",
-    "link": "https://aimanavo.com/c/kokuban_t/a/sKFrL_4dRAKSrw",
-    "summary": "ニューヨーク市が、中学2年生までの子どもに生成AIを1年間使わせないと決めました。「日本もいずれそうなるのでは」と...",
-    "published": "2026-09-23T23:39:34.347683+00:00",
-    "image": "https://static.aimanavo.com/yvsd9dtqlt9gev9f43c3qykmviqa.webp",
-    "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "noteのURLひとつで作る、リール動画の下書き",
-    "link": "https://aimanavo.com/c/moe365/a/rUv9Z6o_KqjEfw",
-    "summary": "noteの記事は書き上げたのに、同じ内容をリールにする元気はもう残っていない。そんな週末、ありませんか。noteの...",
-    "published": "2026-09-23T23:39:34.347683+00:00",
-    "image": "https://static.aimanavo.com/7tlhgf2igo96wog6h5ui6s1c51xn.webp",
-    "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "Excelを開いたまま呼べる、Gemini Windows版のAlt+Space",
-    "link": "https://aimanavo.com/c/monroe/a/SJTvvmhh6B9Mxg",
-    "summary": "Excelの作業中にGeminiへ聞きたくなって、ブラウザを開いて、タブを探して、戻ってきたらどのセルを見ていたか...",
-    "published": "2026-09-23T23:39:34.347683+00:00",
-    "image": "https://static.aimanavo.com/zez3spucz8m5th6rlegtg9rhnj1a.webp",
-    "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "Grok Imagine 参照画像5枚、何を割り振ればいいのか",
-    "link": "https://aimanavo.com/c/promptpainter/a/bNV7cWkawIo0Jw",
-    "summary": "手元の写真を5枚まとめてGrok Imagineに渡したのに、狙った絵から遠ざかった経験はありませんか？参照画像は...",
-    "published": "2026-09-23T23:39:34.347683+00:00",
-    "image": "https://static.aimanavo.com/t7vfrktnemkznheqo7ee414zutzi.webp",
-    "first_seen": "2026-09-23T23:39:34.347683+00:00"
-  },
-  {
-    "title": "すでにある長文コンテンツをKindle本にするまで。「本」に再編集した記録",
-    "link": "https://aimanavo.com/c/nikutama/a/fzpT8RIO5XPVnQ",
-    "summary": "すでに書いたコンテンツを、別の形でも届けたい！そう思って、販売中のBrain教材をもとに初のAmazon Kind...",
-    "published": "2026-09-23T16:53:30.688253+00:00",
-    "image": "https://static.aimanavo.com/ukej8m5cqqph8793n4fj2xigbthz.webp",
-    "first_seen": "2026-09-23T16:53:30.688253+00:00"
   }
 ]
