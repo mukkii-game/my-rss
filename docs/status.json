@@ -2,35 +2,37 @@
   {
     "id": "aimanavo",
     "name": "AimanaVo",
-    "checked_at": "2026-10-11T22:51:03.715580+00:00",
+    "checked_at": "2026-10-12T02:21:02.978007+00:00",
     "ok": true,
     "fetched": 7,
     "retained": 100,
     "warnings": [],
     "consecutive_failures": 0,
-    "last_success_at": "2026-10-11T22:51:03.715580+00:00",
+    "last_success_at": "2026-10-12T02:21:02.978007+00:00",
     "feed": "aimanavo.xml"
   },
   {
     "id": "famitsu",
     "name": "ファミ通.com",
-    "checked_at": "2026-10-11T22:51:03.715580+00:00",
+    "checked_at": "2026-10-12T02:21:02.978007+00:00",
     "ok": true,
     "fetched": 50,
     "retained": 100,
     "warnings": [],
     "consecutive_failures": 0,
-    "last_success_at": "2026-10-11T22:51:03.715580+00:00",
+    "last_success_at": "2026-10-12T02:21:02.978007+00:00",
     "feed": "famitsu.xml"
   },
   {
     "id": "gamemakers",
     "name": "GameMakers",
-    "checked_at": "2026-10-11T22:51:03.715580+00:00",
-    "ok": false,
-    "error": "<urlopen error timed out>",
-    "consecutive_failures": 1,
-    "last_success_at": "2026-10-11T18:51:20.467939+00:00",
+    "checked_at": "2026-10-12T02:21:02.978007+00:00",
+    "ok": true,
+    "fetched": 30,
+    "retained": 84,
+    "warnings": [],
+    "consecutive_failures": 0,
+    "last_success_at": "2026-10-12T02:21:02.978007+00:00",
     "feed": "gamemakers.xml"
   }
 ]
