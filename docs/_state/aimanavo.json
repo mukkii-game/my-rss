@@ -1,5 +1,61 @@
 [
   {
+    "title": "bigarrow、AIエージェントが押してほしい場所を矢印で示すmacOSツール",
+    "link": "https://aimanavo.com/c/morphox_ai/a/gkShPo84_Y1Vtw",
+    "summary": "AIエージェントに作業を任せていると、「システム設定でAllowを押してください」と言われて手が止まることがありま...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/d6n2t8fvzgfw3xrvai910rtk4v5e.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
+    "title": "家計の数字を手元に置いたまま、AIに相談する方法",
+    "link": "https://aimanavo.com/c/alert3am/a/TfeoHNphP_61-g",
+    "summary": "家計簿の数字をAIに貼って「今月なんで赤字なの？」と聞きたいのに、カードの明細を丸ごと送るのは気が引けますよね。ク...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/imilz6t5kyae47xadyj9ub7ait8t.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
+    "title": "LFM2.5-24B-A2Bに手元の定型作業は任せられるのか？",
+    "link": "https://aimanavo.com/c/gennnn/a/nhfLxavvIbzA7w",
+    "summary": "メールの仕分けやダウンロードフォルダの整理を毎回クラウドのAIに投げるのって、中身を外に出すのが引っかかりますよね...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/w4jzxlgk1okmau0214x1j8z1g9t8.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
+    "title": "TV4の番組素材消失、AIエージェントが消したのは本当か？",
+    "link": "https://aimanavo.com/c/tetsuo_postpro/a/EB8UQLlA3Xha2A",
+    "summary": "「AIエージェントが番組の編集済みデータを丸ごと消した」という報道、編集室で働く人ほど背筋が冷えたと思います。ただ...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/tnweix5zolkf5mkv5zq0g92fvlgl.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
+    "title": "医師に伝わる受診前メモの書き方、AIには整理だけを頼みます",
+    "link": "https://aimanavo.com/c/greyharbor/a/gKKlLUA_tKfRJA",
+    "summary": "診察室で「いつからですか」と聞かれ、先週だったか先々週だったか思い出せずに詰まる。あの数十秒、もったいないですよね...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/e0fjx5vwb9qqqcwed500k2n1e2dk.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
+    "title": "Claudeの資料づくりは無料でどこまで？機能5選の線引き",
+    "link": "https://aimanavo.com/c/monroe/a/pfHqh9fjPEXKZw",
+    "summary": "Claudeで資料が作れると聞いても、無料のままでどこまで使えるのかは分かりにくいですよね。結論から言うと、無料プ...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/5sjlbryei4l2jkv52ixgpr275viq.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
+    "title": "棚の設計図と材料リストをAIで作る道具8選",
+    "link": "https://aimanavo.com/c/sawdustlab/a/CWonSX4fj1tRWg",
+    "summary": "棚を作ろうと決めても、図面を引いて材料リストを書き出すところで、週末の半日が消えていきませんか？ 木工の設計図と材...",
+    "published": "2026-10-15T23:39:51.188818+00:00",
+    "image": "https://static.aimanavo.com/2qbbzr1jqht7twzc2zn6pg3olebb.webp",
+    "first_seen": "2026-10-15T23:39:51.188818+00:00"
+  },
+  {
     "title": "副業の収入に波がある人の貯金の目安、家計の数字をAIに渡して決め直す",
     "link": "https://aimanavo.com/c/rinacut/a/OLhZLkTpuhCDNw",
     "summary": "副業の入金に波があると、貯金の目安が決まりません。過去12か月の入金と支出、年に数回のお金をAIに貼ると、目標額を...",
@@ -742,61 +798,5 @@
     "published": "2026-09-30T13:39:06.730684+00:00",
     "image": "https://static.aimanavo.com/9zdyccgixuhps39sx0kuve0f9bow.webp",
     "first_seen": "2026-09-30T13:39:06.730684+00:00"
-  },
-  {
-    "title": "タイムズカーの流出メールが届いたら、今日やることは何？",
-    "link": "https://aimanavo.com/c/alert3am/a/4bkk7FBc4naqzg",
-    "summary": "タイムズカーから個人情報流出のメールが届いて、自分が対象なのか分からず、何をすればいいかも決められないまま手が止ま...",
-    "published": "2026-09-30T00:23:57.991813+00:00",
-    "image": "https://static.aimanavo.com/mllvclgm159nt9dila5fzb82o3dl.webp",
-    "first_seen": "2026-09-30T00:23:57.991813+00:00"
-  },
-  {
-    "title": "GAFAMからAGNOへ、その地図は経営判断に使えるのか？",
-    "link": "https://aimanavo.com/c/hide_ceo/a/6s3JvTRAKRIfUg",
-    "summary": "生成AIの主役はGAFAM（Google、Apple、Meta、Amazon、Microsoft）からAGNO（A...",
-    "published": "2026-09-29T15:46:50.848858+00:00",
-    "image": "https://static.aimanavo.com/z7vjltybyyn5qreptlhwzi81o3ht.webp",
-    "first_seen": "2026-09-29T15:46:50.848858+00:00"
-  },
-  {
-    "title": "営業時間と口コミで絞る、失敗しない海外レストラン探し",
-    "link": "https://aimanavo.com/c/rinotrip/a/RZMSaCakb-Fp5w",
-    "summary": "旅程も乗り換えも決めたのに、ご飯の店だけ当日に「都市名 おすすめ レストラン」で検索して、上位に出た観光客向けの店...",
-    "published": "2026-09-29T08:25:08.552853+00:00",
-    "image": "https://static.aimanavo.com/fiiwci9uet3ogvhpfpq8zjlfb6km.webp",
-    "first_seen": "2026-09-29T08:25:08.552853+00:00"
-  },
-  {
-    "title": "ローカルLLMはRAM何GBで何が動く？2026年9月のメモリ別6選と、Ollamaで動かないモデル",
-    "link": "https://aimanavo.com/c/morphox_ai/a/dDIgHT50PRe4YQ",
-    "summary": "ローカルLLMを試そうとしてモデル名を調べるたびに、「で、うちのPCのRAMで動くの？」で手が止まっていませんか？...",
-    "published": "2026-09-29T08:25:08.552853+00:00",
-    "image": "https://static.aimanavo.com/ds1rpm6dxz75snu46a06xoqbv8ik.webp",
-    "first_seen": "2026-09-29T08:25:08.552853+00:00"
-  },
-  {
-    "title": "SNS複数アカウント運用の壁。「クラウドスマホ」という選択肢を調べてみた",
-    "link": "https://aimanavo.com/c/nikutama/a/Pwp9_GerEZ8hGw",
-    "summary": "SNS副業をしようとすると、意外と早い段階でぶつかるのが、「複数アカウントをどう管理するか」という問題です。もちろ...",
-    "published": "2026-09-29T08:25:08.552853+00:00",
-    "image": "https://static.aimanavo.com/ff4wbyvy8htrymdvr9jwww7iegzl.webp",
-    "first_seen": "2026-09-29T08:25:08.552853+00:00"
-  },
-  {
-    "title": "肌診断AIのおすすめ、どこまで信じていい？無料で始められる3つを仕組みで比べました",
-    "link": "https://aimanavo.com/c/nk_glow/a/vLYObQN1Xn6p7Q",
-    "summary": "肌診断アプリを2つ入れたら、片方は保湿を、もう片方は毛穴ケアをすすめてきて、どっちを信じればいいのか手が止まったこ...",
-    "published": "2026-09-29T08:25:08.552853+00:00",
-    "image": "https://static.aimanavo.com/os80sml2mbrm1c49fbjvqu8i9xpl.webp",
-    "first_seen": "2026-09-29T08:25:08.552853+00:00"
-  },
-  {
-    "title": "SNSで見かけたコーデ、スクショから手持ちの服で真似する方法",
-    "link": "https://aimanavo.com/c/closetnote/a/fvXhVUQCOuE0Nw",
-    "summary": "保存したコーデのスクショが、カメラロールに何十枚もたまっていませんか？同じ服を探しても見つからず、眺めるだけで終わ...",
-    "published": "2026-09-29T08:25:08.552853+00:00",
-    "image": "https://static.aimanavo.com/q90v74trh0fnichg1xjxyvf5cpc9.webp",
-    "first_seen": "2026-09-29T08:25:08.552853+00:00"
   }
 ]
