@@ -1,10 +1,306 @@
 [
   {
+    "title": "『Japanese Ramen Simulator』ロードマップが公開。バイトのキャラクリ、警備タレット、チャーハンの追加など盛りだくさんのアプデ計画",
+    "link": "https://www.famitsu.com/article/202610/91215",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91215/thumbnail_Fivc.jpg?x=960",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ガンズ・オブ・エスカトン』西部劇ソウルライクFPSの発売日が12/8に決定。怪異はびこる終末世界のアメリカをパリィと銃撃で生き抜け",
+    "link": "https://www.famitsu.com/article/202610/91179",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91179/thumbnail_RsbN.jpg?x=360",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『キル・ビル ザ・ホール・ブラッディー・アフェア』が2027年1月22日より2週間限定で公開。『キル・ビル』Vol.1＆2がひとつの物語になり甦る",
+    "link": "https://www.famitsu.com/article/202610/91046",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91046/thumbnail_xqcI.jpg?x=360",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "【無料】『Caravan SandWitch』Amazonプライム会員向けに12月17日まで配布中。SF世界をバンで旅して姉を探すアドベンチャー。戦闘も死も時間制限もなし",
+    "link": "https://www.famitsu.com/article/202610/91204",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91204/thumbnail_TZav.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『WAZATO』友だちの「ごめん、ミスった！」は本当か、妨害の言い訳か。協力ミニゲームに挑みながらスパイを探す4人パーティーゲーム",
+    "link": "https://www.famitsu.com/article/202610/91195",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91195/thumbnail_IgxI.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『崩落の国』崩れゆく世界を“降りていく”高難易度アクションが楽しめる体験版が配信。CygamesEdgeの第一弾",
+    "link": "https://www.famitsu.com/article/202610/91191",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91191/thumbnail_tfNP.jpeg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "かわいいおばけのお料理シム『みなと食堂 大はまぐりの幻』が12月配信。ローポリ風ながら“なめろう”も“だし巻き”も美味しそう。自宅で再現できる粋なレシピ付き",
+    "link": "https://www.famitsu.com/article/202610/91203",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91203/thumbnail_XJKy.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "実写版『ゴールデンカムイ』樺太追跡編が2027年1月24日よりWOWOWで独占放送、配信決定。ティザービジュアル、特報映像が公開",
+    "link": "https://www.famitsu.com/article/202610/91080",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91080/thumbnail_JEUT.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『崩落の国』は“イライラ山登り”ならぬ“ヒヤヒヤ崖下り”。人間らしい重みのある操作感が落下の恐怖を生む3Dアクション【試遊レビュー】",
+    "link": "https://www.famitsu.com/article/202610/89930",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/89930/thumbnail_zJDv.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "サイゲームスエッジが手掛ける『崩落の国』インタビュー。原案のタイトルは社内コンテスト向けにベテランスタッフがひとりで制作。10年以上温めていた企画を約3時間の凝縮されたゲーム体験に落とし込んだ方法とは？",
+    "link": "https://www.famitsu.com/article/202610/91146",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91146/thumbnail_EYtL.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『FF』生みの親・坂口博信氏が樋口勝久氏とRPGを語る。敵の行動も“死ぬ未来”も見える『エターナルアニマ』のバトルに、坂口氏「さすが樋口」",
+    "link": "https://www.famitsu.com/article/202610/87653",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/87653/thumbnail_KssM.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『バイオハザード』30周年展で『レクイエム』ヴィクター・ギデオンのヘッドギアを初公開。ニューエラコラボキャップなど全グッズ情報も解禁",
+    "link": "https://www.famitsu.com/article/202610/91183",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91183/thumbnail_sGgR.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "特殊性癖ラブコメアニメ『傷口と包帯』ティザーPV&メインキャスト解禁。理世：金元寿子さん、切谷：小林親弘さん【弱った男性フェチ＝ヨワラー】",
+    "link": "https://www.famitsu.com/article/202610/91189",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91189/thumbnail_aLLT.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『It Takes Two（イット テイクス トゥー）』Switch2版が発売。2021年GOTY受賞のふたり協力プレイ専用アクション。離婚しそうな夫婦が人形になって家の中を大冒険！",
+    "link": "https://www.famitsu.com/article/202610/91172",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91172/thumbnail_vTiG.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ポケモンレジェンズ Z-A』“カナリィぬい（全5種）”がグッズで登場。ポケモン絵画のアートマグネットなどミアレシティの世界観をイメージしたグッズシリーズ。ポケセンで10月29日発売",
+    "link": "https://www.famitsu.com/article/202610/91192",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91192/thumbnail_xVGh.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『PEAK』PS5、XBOX、Switch2版が10月22日発売。最大4人で助け合う協力登山ゲーム。全アップデート収録＆PC版とのクロスプレイにも対応",
+    "link": "https://www.famitsu.com/article/202610/91175",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91175/thumbnail_zIFE.png?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "Switch2版『バイオハザード RE:2』『RE:3』『RE:4』、リメイク3タイトルDL版が本日（10/16）発売。11/7まで1000円オフ！",
+    "link": "https://www.famitsu.com/article/202610/91169",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91169/thumbnail_NAgD.jpeg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ちいかわ』スーツケース＆ボストンバッグが15％オフ。ミニマグカップ入り付箋やペアキーホルダーもお買い得【Amazonプライム感謝祭】",
+    "link": "https://www.famitsu.com/article/202610/91165",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91165/thumbnail_TDDu.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『スト6』全プラットフォームで1996円（60％オフ）となる超お買い得セール中。映画『ストリートファイター』公開にあわせ最新作が遊びやすく",
+    "link": "https://www.famitsu.com/article/202610/91167",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91167/thumbnail_ICyM.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『インフェルノカフェ』人外メイドに自分を\"喰わせる\"ダークラブコメの無料体験版が配信。悪魔にゾンビにオオカミ娘、キュートな問題児たちと売上No.1を目指せ",
+    "link": "https://www.famitsu.com/article/202610/91161",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91161/thumbnail_DXpr.jpeg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『Fallout』ヌカ・コーラ ギフトセットやVault Boyのボブルヘッドなどが登場。池袋パルコで10月22日より特設コーナー開設",
+    "link": "https://www.famitsu.com/article/202610/91160",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91160/thumbnail_vphM.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『エターナルアニマ』物語では「過去改変」、バトルでは「未来改変」。『FF』シリーズや『クロノ・トリガー』に携わった樋口氏が挑む新たなRPGの形【インタビュー】",
+    "link": "https://www.famitsu.com/article/202610/90861",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/90861/thumbnail_LiZi.png?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『エターナルアニマ』敵の行動が先にわかるのに歯応え十分。「未来予測バトル」が楽しすぎる。ぬくもりあるグラフィック、見下ろし型で懐かしくも新しいRPG【先行レビュー】",
+    "link": "https://www.famitsu.com/article/202610/89508",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/89508/thumbnail_KvQc.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ジョジョ』ジョナサンとディオのオープンイヤー型イヤホンがShokzより発売。ジョナサンモデルは“波紋”のように音が体に響く骨伝導イヤホン",
+    "link": "https://www.famitsu.com/article/202610/91154",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91154/thumbnail_LfGq.jpeg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "白に覆われた終末世界を彷徨う探索RPG『白銀のユークロニア』無料体験版が配信開始。知略的バトルシステムと考察型ナラティブを取り入れたタイトル",
+    "link": "https://www.famitsu.com/article/202610/91041",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91041/thumbnail_Ofni.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ステラーコード』家庭用ゲーム機版が配信開始。宇宙から届いた謎の物体と暗号に挑むSFミステリーノベルアドベンチャー",
+    "link": "https://www.famitsu.com/article/202610/91155",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91155/thumbnail_FlZZ.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ポケポケ』新シリーズが10月末開幕、拡張パック追加サイクルが約4週→約6週に。“デュアルタイプ”カードの初登場、デッキコピー機能の追加など新情報解禁",
+    "link": "https://www.famitsu.com/article/202610/91157",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91157/thumbnail_oirU.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "音ゲー×ビジュアルノベル『Morpho Reverie』（モルフォ・レヴァリエ）体験版が配信開始。物語はAIと人間が芸術で対決するSFミステリー",
+    "link": "https://www.famitsu.com/article/202610/91033",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91033/thumbnail_EvES.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『勝利の女神 NIKKE』公式ファンブックが2027年2月10日に発売！ アンソロ漫画を始め指揮官必読のコンテンツが満載。ebtenDXパックの内容を見逃すな！",
+    "link": "https://www.famitsu.com/article/202610/89760",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/89760/thumbnail_PiAF.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "任天堂、Switch2／Switch本体の修理価格を11月16日に到着した修理品より改定。修理部品の価格高騰にともなって",
+    "link": "https://www.famitsu.com/article/202610/91152",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91152/thumbnail_QYOM.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "【ジョジョ】歴代の宿敵たちを落とし込んだアイテムがGUより12月11日発売。DIO、柱の男、石仮面、吉良吉影のネクタイ柄のカーディガンなど並ぶ",
+    "link": "https://www.famitsu.com/article/202610/91150",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91150/thumbnail_AYmD.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『名探偵プリキュア！』10月25日放送の第39話で『おジャ魔女どれみ』とコラボ。あんなやみくるたちが魔女見習い姿で登場【1999年つながり】",
+    "link": "https://www.famitsu.com/article/202610/91124",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91124/thumbnail_UbKr.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "ふたりの連携が生死を分ける協力ホラー『Beyond the Dark:ナイトウォッチ』がSwitch2向けに10月22日発売。情報を共有しながら迫りくる恐怖を乗り越えて脱出を目指す",
+    "link": "https://www.famitsu.com/article/202610/90961",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/90961/thumbnail_sYxb.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "GeForce RTX 5070 Ti搭載ゲーミングノートが7万円オフに。ゲーミングPCが最大9万円オフになる\"オータムセール\"が10月28日まで開催中【マウスコンピューター】",
+    "link": "https://www.famitsu.com/article/202610/91128",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/None/thumbnail_tKiA.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "新型Amazon Fire TV Stick 4Kが半額の5980円に。対応モニターのHDMIポートに挿すだけで4Kの高画質映像が楽しめる。旧モデルからリモコンもリニューアル【Amazonプライム感謝祭】",
+    "link": "https://www.famitsu.com/article/202610/91132",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/91132/thumbnail_FTDN.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『moon』が発売された日。…それもラブ…これもラブ。勇者に倒されたアニマルの魂を救う“アンチRPG”【今日は何の日？】",
+    "link": "https://www.famitsu.com/article/202610/90768",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/90768/thumbnail_TQlI.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
+    "title": "『ドラクエモンスターズ4』“オンライン共闘”など通信機能を使った遊びが登場！ 腕試しの場“闘技場”やローグライクな新コンテンツも【ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ】",
+    "link": "https://www.famitsu.com/article/202610/90414",
+    "summary": "",
+    "published": "2026-10-16T14:48:36.790159+00:00",
+    "image": "https://cimg.kgl-systems.io/camion/files/90414/thumbnail_sYrv.jpg?x=480",
+    "first_seen": "2026-10-16T14:48:36.790159+00:00"
+  },
+  {
     "title": "【Kindleで実質半額】『名探偵コナン』1～108巻が50％ポイント還元。『ミステリと言う勿れ』『五等分の花嫁』などがお得に読める",
     "link": "https://www.famitsu.com/article/202610/91136",
     "summary": "",
     "published": "2026-10-16T04:25:41.103882+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/91136/thumbnail_FBqF.jpg?x=960",
+    "image": "https://cimg.kgl-systems.io/camion/files/91136/thumbnail_FBqF.jpg?x=480",
     "first_seen": "2026-10-16T04:25:41.103882+00:00"
   },
   {
@@ -12,7 +308,7 @@
     "link": "https://www.famitsu.com/article/202610/90001",
     "summary": "",
     "published": "2026-10-15T23:39:51.188818+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90001/thumbnail_Yhqn.jpg?x=360",
+    "image": "https://cimg.kgl-systems.io/camion/files/90001/thumbnail_Yhqn.jpg?x=480",
     "first_seen": "2026-10-15T23:39:51.188818+00:00"
   },
   {
@@ -20,7 +316,7 @@
     "link": "https://www.famitsu.com/article/202610/91099",
     "summary": "",
     "published": "2026-10-15T23:39:51.188818+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/91099/thumbnail_JaQT.jpg?x=360",
+    "image": "https://cimg.kgl-systems.io/camion/files/91099/thumbnail_JaQT.jpg?x=480",
     "first_seen": "2026-10-15T23:39:51.188818+00:00"
   },
   {
@@ -502,301 +798,5 @@
     "published": "2026-10-14T22:16:04.422825+00:00",
     "image": "https://cimg.kgl-systems.io/camion/files/90926/thumbnail_TmZv.jpg?x=480",
     "first_seen": "2026-10-14T22:16:04.422825+00:00"
-  },
-  {
-    "title": "『トータルウォー：ショーグン2』外国人が作った日本の歴史シミュレーションはこんなにすごいのか！ 天下統一の苦悩を味わえる傑作が日本語ボイスを引っ提げて黒船来航",
-    "link": "https://www.famitsu.com/article/202610/90887",
-    "summary": "",
-    "published": "2026-10-14T22:16:04.422825+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90887/thumbnail_KtST.jpg?x=480",
-    "first_seen": "2026-10-14T22:16:04.422825+00:00"
-  },
-  {
-    "title": "『ゼルダの伝説 時のオカリナ』と40周年デザインのSwitch2 Proコントローラーがセットに。スタンド＆ポーチ付きでAmazonにて予約受付中",
-    "link": "https://www.famitsu.com/article/202610/90813",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90813/thumbnail_Mydf.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『ニエンタム オプス・ゼロ』シンデレラ、アーサー王伝説モチーフなどのミュージカル舞台を駆け抜けるランアクション型リズムゲームが本日（10/14）正式リリース",
-    "link": "https://www.famitsu.com/article/202610/90911",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90911/thumbnail_aMTW.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "【ベイブレードX】『コナン』の怪盗キッドをモチーフにしたベイが登場。コロコロ11月号の応募者全員有料サービスでゲット",
-    "link": "https://www.famitsu.com/article/202610/90921",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90921/thumbnail_tRAV.jpeg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "ハシゴでパズルを解きボスと戦う2Dアクション『Ladder Knight』のブラウザ体験版が公開中。2026年12月にSteam登場予定",
-    "link": "https://www.famitsu.com/article/202610/90916",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90916/thumbnail_PXRI.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "千葉RPG『魔界都市CHI-BA』Steam版が11月2日に発売。フナバシ、モバラ、カシワなど新たな街やイベントを追加した最新版に",
-    "link": "https://www.famitsu.com/article/202610/90903",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90903/thumbnail_wXkD.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『WAZATO － そのミス、ワザと？』ミニゲームのクリアーを目指す3人と、失敗を狙うスパイの4人用オンラインパーティーゲーム。近日中に発売",
-    "link": "https://www.famitsu.com/article/202610/90904",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90904/thumbnail_PxUt.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "オフィスチェアに座ったまま山頂を目指す物理アクション『椅子のゲーム』2026年11月発売予定。道中にセーブポイントはなく、大事故に遭ったら生まれ変わってやり直し",
-    "link": "https://www.famitsu.com/article/202610/90894",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90894/thumbnail_FeWA.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『ブリーチ 千年血戦篇』涅マユリを前面にデザインしたカーディガンがインパクト大。グラニフコラボ商品が10月20日より発売",
-    "link": "https://www.famitsu.com/article/202610/90901",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90901/thumbnail_wpAn.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "雑巾がけレース『ZOKIN RALLY』がアツい。砂ぼこりではなくガチほこりを巻き上げながら爆走し、お掃除もするブラウザゲーム",
-    "link": "https://www.famitsu.com/article/202610/90898",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90898/thumbnail_mOdq.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『ホワイトクロス ピュリファイ！』むっちむちケモノ系RPGの完結編DLCが10月30日発売。NPCをこっそり洗脳できる新システム搭載",
-    "link": "https://www.famitsu.com/article/202610/90892",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90892/thumbnail_cKdo.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『ガンダム』ゲーム40周年記念生配信が10月28日20時に配信。『ガンダム バトルオペレーション』シリーズや『ガンダム ローグオービット』などの情報を公開",
-    "link": "https://www.famitsu.com/article/202610/90900",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90900/thumbnail_PFdw.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『セブン・ナイツ・ゴースト2』JKギャル幽霊との同棲生活を描くハートフルホラー、体験版が配信開始。現役教師として誘惑に打ち勝ち、懲戒免職を免れろ",
-    "link": "https://www.famitsu.com/article/202610/90889",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90889/thumbnail_uXLV.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『チョコットランド』が2027年3月29日をもってサービス終了。2007年からハンゲで展開していた老舗MMORPGが20年の歴史に幕",
-    "link": "https://www.famitsu.com/article/202610/90893",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90893/thumbnail_hDaD.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "賞金10億円はスクエニの「本気」の意思表示。“令和の堀井雄二、中村光一”は生まれるか。齊藤陽介氏＆時田貴司氏に訊く、覚悟のゲームコンテスト",
-    "link": "https://www.famitsu.com/article/202610/90078",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90078/thumbnail_YOIN.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『1999 トコヨビル』特技のピッキングで空き巣に入り、同僚の弱みを握りながら共同生活を送るホラーADV。約2時間の体験版が本日（10/14）無料配信",
-    "link": "https://www.famitsu.com/article/202610/90820",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90820/thumbnail_RoxD.png?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "だし巻き卵を作るだけのゲーム『だし巻き』。火を入れ、油を引き、卵を焼いてはひたすらに巻くシンプルな内容だが地味にハマる",
-    "link": "https://www.famitsu.com/article/202610/90890",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90890/thumbnail_iWbc.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『プロセカ』ココスコラボが10月21日より開催。初音ミクらバーチャルシンガーや各ユニットをイメージしたコラボメニューが販売",
-    "link": "https://www.famitsu.com/article/202610/90886",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90886/thumbnail_djHh.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "【Amazonプライム感謝祭】レバレスアケコン“Victrix Pro KO”が44％オフ、ラピトリ対応キーボードは10800円で安い！ ゲーム周辺機器がセール中",
-    "link": "https://www.famitsu.com/article/202610/90822",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90822/thumbnail_mMko.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『ドラゴンレイド：アナザーワールド』本日（10/14）より日本で正式サービス開始。160種類以上のドラゴンを仲間にして冒険する位置情報RPG",
-    "link": "https://www.famitsu.com/article/202610/90807",
-    "summary": "",
-    "published": "2026-10-14T18:34:11.404029+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90807/thumbnail_xymd.jpg?x=480",
-    "first_seen": "2026-10-14T18:34:11.404029+00:00"
-  },
-  {
-    "title": "『モンスターファームアドバンス』『メタルスラッグアドバンス』『くるりんパラダイス』がゲームボーイアドバンス Nintendo Classicsに本日（10/14）追加",
-    "link": "https://www.famitsu.com/article/202610/90885",
-    "summary": "",
-    "published": "2026-10-14T13:40:25.716423+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90885/thumbnail_GwgI.jpg?x=480",
-    "first_seen": "2026-10-14T13:40:25.716423+00:00"
-  },
-  {
-    "title": "『デュープリズム』が発売された日。ひとつの世界に、ふたつのファンタジー。ルウとミント、ふたりの主人公が冒険をくり広げる3Dアクション【今日は何の日？】",
-    "link": "https://www.famitsu.com/article/202610/90346",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90346/thumbnail_isHO.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "ニンテンドーミュージアム「スーパーファミリーレストラン」メニュー公開！ フードやドリンク、スイーツなど、シェアしても楽しめるラインアップ",
-    "link": "https://www.famitsu.com/article/202610/90853",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90853/thumbnail_tAMT.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "ニンテンドーミュージアム「スーパーファミリーレストラン」内覧リポート。『ゼルダ』のリンク像や隠れピクミン、ニンテンドウ64の食器も！ 大皿料理を実食",
-    "link": "https://www.famitsu.com/article/202610/90876",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90876/thumbnail_cgUF.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "ニンテンドーミュージアムに『ゼルダの伝説』40周年ヒストリーボードが登場。歴代20作品を読み取ると、当時の自分の年齢やゲームシーン、音楽を振り返る",
-    "link": "https://www.famitsu.com/article/202610/90880",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90880/thumbnail_Rzcw.JPG?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "Amazonプライム感謝祭で『テイルズ オブ アライズ』『アイマス スターリットシーズン』が60%オフ！ Steamコードがお得に買えるセールが開催中",
-    "link": "https://www.famitsu.com/article/202610/90851",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90851/thumbnail_FDeg.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "最大6人のアライグマ協力“ゴミ漁り”アドベンチャー『Trash Day』本日（10/14）発売。物理演算ベースで巻き起こるハチャメチャ大冒険",
-    "link": "https://www.famitsu.com/article/202610/90833",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90833/thumbnail_bXTF.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "『Valor Mortis』怪物蔓延る架空のナポレオン戦争を戦う一人称視点のソウルライクアクション。蘇った兵士として人類を脅かす陰謀を解き明かす【本日発売】",
-    "link": "https://www.famitsu.com/article/202610/90806",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90806/thumbnail_zySe.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "映画『魔法使いの夜』が『まどマギ』とコラボ？ 鹿目まどからしきシルエットが映る予告映像が公開。明日（10/14）21時に詳細発表か",
-    "link": "https://www.famitsu.com/article/202610/90857",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90857/thumbnail_zZtO.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "Kindle Unlimited 3ヵ月無料キャンペーン中。『インベスターZ』『殺し屋１』『ポプテピピック』週刊ファミ通など500万冊以上が読み放題",
-    "link": "https://www.famitsu.com/article/202610/90745",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90745/thumbnail_MIHW.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "【10/16配信】声優・夏川椎菜が自分だけのドレスを仕立てるクラフトゲーム『ドレスメーカー』をプレイ #夏川ずっとゲ",
-    "link": "https://www.famitsu.com/article/202610/90267",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90267/thumbnail_MRLE.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "Switch向け「ニコニコ」のサービス提供が2027年3月31日をもって終了へ。「Switch2への対応予定がない」ことも明らかに",
-    "link": "https://www.famitsu.com/article/202610/90849",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90849/thumbnail_aGWq.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "『キャッスルヴァニア ベルモンドカース』発売記念特集で『悪魔城ドラキュラ』＆ベルモンド家40年の歴史に思いを馳せる【先出し週刊ファミ通】",
-    "link": "https://www.famitsu.com/article/202610/90217",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90217/thumbnail_lFOx.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "【10/19配信】声優・前島亜美さんが釣りアクションRPG『ぼくと釣り日記』をプレイ。ゲーム実況番組『月刊あみ通』を配信",
-    "link": "https://www.famitsu.com/article/202610/90430",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90430/thumbnail_qrIy.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "『Dyping』の目玉が監視してくれる作業用ホラーアドベンチャー『Dyping Working』が発表。目玉生誕の秘密に迫るストーリーも",
-    "link": "https://www.famitsu.com/article/202610/90842",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90842/thumbnail_kjIS.jpg?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "「リツイート直後のツイートを表示するやつ」後継サービスの機能がパワーアップ。対象の投稿が「直近30日以内 ⇒ 20年間すべて」に【afpos（アフポス）】",
-    "link": "https://www.famitsu.com/article/202610/90843",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90843/thumbnail_PJwg.png?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
-  },
-  {
-    "title": "【クトゥルフ神話TRPG】邪神総選挙2026の投票が開始。ニャルラトテップ、ハスター、シュブ＝ニグラスたちが111柱がエントリー。5位以内の邪神はグッズ化予定",
-    "link": "https://www.famitsu.com/article/202610/90836",
-    "summary": "",
-    "published": "2026-10-14T07:33:15.183008+00:00",
-    "image": "https://cimg.kgl-systems.io/camion/files/90836/thumbnail_eMyN.png?x=480",
-    "first_seen": "2026-10-14T07:33:15.183008+00:00"
   }
 ]
