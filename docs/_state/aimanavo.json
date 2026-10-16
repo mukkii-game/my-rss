@@ -1,5 +1,13 @@
 [
   {
+    "title": "続けるための仕掛けを作る実録 #3",
+    "link": "https://aimanavo.com/c/mumima/a/lGU68_AT72UFeg",
+    "summary": "AIは習慣形成コーチになれるのか前回、少し不思議なことがありました。私は「続かなかった」と思っていたのですが、AI...",
+    "published": "2026-10-16T04:25:41.103882+00:00",
+    "image": "https://static.aimanavo.com/aa3lhe4jdugcb2rdfi4im8gffmkk.webp",
+    "first_seen": "2026-10-16T04:25:41.103882+00:00"
+  },
+  {
     "title": "bigarrow、AIエージェントが押してほしい場所を矢印で示すmacOSツール",
     "link": "https://aimanavo.com/c/morphox_ai/a/gkShPo84_Y1Vtw",
     "summary": "AIエージェントに作業を任せていると、「システム設定でAllowを押してください」と言われて手が止まることがありま...",
@@ -789,14 +797,6 @@
     "summary": "JACC｜日本AIコンテストさんの「AI令和の妖怪コンテスト」に応募するために、Renoise AIでちょこちょこ...",
     "published": "2026-09-30T13:39:06.730684+00:00",
     "image": "https://static.aimanavo.com/folf3z3lr5bautpolbwnl9dsyw85.webp",
-    "first_seen": "2026-09-30T13:39:06.730684+00:00"
-  },
-  {
-    "title": "OpenAI dotsに、自分の仕事をどう自動化させるか？",
-    "link": "https://aimanavo.com/c/morphox_ai/a/8dV81CcPQw2_ig",
-    "summary": "AIに頼んだ作業、チャットを閉じたところで止まっていませんか？ 9月29日に発表されたOpenAI dotsは、会...",
-    "published": "2026-09-30T13:39:06.730684+00:00",
-    "image": "https://static.aimanavo.com/9zdyccgixuhps39sx0kuve0f9bow.webp",
     "first_seen": "2026-09-30T13:39:06.730684+00:00"
   }
 ]
