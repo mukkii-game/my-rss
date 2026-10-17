@@ -1,5 +1,29 @@
 [
   {
+    "title": "AIの絵が似てしまう問題は、プロンプトでどこまで崩せるのか？",
+    "link": "https://aimanavo.com/c/promptpainter/a/6oB7d0p0Jr4DAg",
+    "summary": "AIに絵を頼むと、出し直しても似た構図ばかり返ってきて、手詰まりになりませんか？ 「ペリカンが自転車に乗っている絵...",
+    "published": "2026-10-17T05:33:34.537099+00:00",
+    "image": "https://static.aimanavo.com/all0x65devlmyqe9ue672mlhpfyz.webp",
+    "first_seen": "2026-10-17T05:33:34.537099+00:00"
+  },
+  {
+    "title": "Claudeの利用上限、5人の会社はAI代を月いくらにするのか？",
+    "link": "https://aimanavo.com/c/hide_ceo/a/DZyqe2eYFJL1ww",
+    "summary": "社員のAI代、請求書が届いてから増え方に驚いていませんか？ Accenture、Uber、Teslaは今年、社員1...",
+    "published": "2026-10-17T05:33:34.537099+00:00",
+    "image": "https://static.aimanavo.com/3a49cvatzvsdmyv1qcfu63g1zcic.webp",
+    "first_seen": "2026-10-17T05:33:34.537099+00:00"
+  },
+  {
+    "title": "推しの歌声が本人かAIか、YouTube Musicの再生画面でどこまで分かる？",
+    "link": "https://aimanavo.com/c/akari_oshigoto/a/pyFf0iVY_7cRPQ",
+    "summary": "YouTube Musicが、生成AIが主に作った曲の再生画面にAIラベルを付け始めました（2026年10月14日...",
+    "published": "2026-10-17T05:33:34.537099+00:00",
+    "image": "https://static.aimanavo.com/dyxt752efdanig9ttyy3u2acetz0.webp",
+    "first_seen": "2026-10-17T05:33:34.537099+00:00"
+  },
+  {
     "title": "個人情報漏洩への対策、漏れた情報の種類別早見表",
     "link": "https://aimanavo.com/c/alert3am/a/HVbKqgmQeAmsIA",
     "summary": "個人情報が漏洩したというお知らせが届いた、あるいは使っているサービスの名前を漏洩のニュースで見た。そんなときの対策...",
@@ -774,29 +798,5 @@
     "published": "2026-10-02T01:39:52.780124+00:00",
     "image": "https://static.aimanavo.com/8g4kq4z83hvci5xhosv9dq1pw5os.webp",
     "first_seen": "2026-10-02T01:39:52.780124+00:00"
-  },
-  {
-    "title": "AI動画コンテスト「布の記憶」応募のコンセプトを、Claudeと壁打ちして固めた記録",
-    "link": "https://aimanavo.com/c/brave_bee548/a/xkpzBTLSqNhzMw",
-    "summary": "※ 以下の記事はAimanaVoとClaude AIとの連携で直接作成したものです。 タイトルも下書き作成機能で...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/717lqtsd77o4mmwb6rbouclqny21.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "Manus Cueに財布を渡す前に決める、副業で任せる3つと任せない3つ",
-    "link": "https://aimanavo.com/c/kaigai_ai_fukugy/a/d5OJK-AQTdp20A",
-    "summary": "副業の下調べやメールのやりとりを、財布ごとAIに預けられたら楽ですよね。9月28日に発表されたManus Cueは...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/fd1r1bx5qn2yp339xr6447kh5z32.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "Opus 5.5公式ガイドの文を、チャットで使える形に直す5選",
-    "link": "https://aimanavo.com/c/promptpainter/a/9sFWWsBoT8Rxvw",
-    "summary": "「AIっぽくない感じで」とClaudeにLP案を頼んだのに、別のありがちなデザインが返ってきたことはありませんか？...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/sjehhhomaeo7c90d0wokay5h7aq9.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
   }
 ]
