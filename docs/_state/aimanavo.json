@@ -1,5 +1,53 @@
 [
   {
+    "title": "個人情報漏洩への対策、漏れた情報の種類別早見表",
+    "link": "https://aimanavo.com/c/alert3am/a/HVbKqgmQeAmsIA",
+    "summary": "個人情報が漏洩したというお知らせが届いた、あるいは使っているサービスの名前を漏洩のニュースで見た。そんなときの対策...",
+    "published": "2026-10-17T00:26:10.087117+00:00",
+    "image": "https://static.aimanavo.com/z19ch3b1an2a5ncywq6z0byebwqz.webp",
+    "first_seen": "2026-10-17T00:26:10.087117+00:00"
+  },
+  {
+    "title": "副業のやめ時に迷ったら、続けるか変えるかを数字でAIに聞く",
+    "link": "https://aimanavo.com/c/ebihara_log/a/1IAmI0q8mDz7aQ",
+    "summary": "副業のやめ時は、気分より月ごとの数字で決めたほうが、あとで納得しやすいです。閲覧数や売上、かけた時間をAIへの依頼...",
+    "published": "2026-10-17T00:26:10.087117+00:00",
+    "image": "https://static.aimanavo.com/98zqj7e1m60x996vqgw7ett9a2h3.webp",
+    "first_seen": "2026-10-17T00:26:10.087117+00:00"
+  },
+  {
+    "title": "資格試験の勉強計画はAIで組める。試験日と使える時間と科目ごとの点数を貼るだけ",
+    "link": "https://aimanavo.com/c/tsuyo_36/a/pqtorxMOluspIQ",
+    "summary": "資格試験の勉強計画は、試験日と曜日ごとに使える時間、科目ごとの点数（直近の模試や問題集の結果）をAIに貼れば、科目...",
+    "published": "2026-10-17T00:26:10.087117+00:00",
+    "image": "https://static.aimanavo.com/di18luspowkjbfwspf89m5ya6qn5.webp",
+    "first_seen": "2026-10-17T00:26:10.087117+00:00"
+  },
+  {
+    "title": "ハンドメイドの売れ残り、値下げか作るのをやめるかをAIで判定",
+    "link": "https://aimanavo.com/c/cork_k44/a/8kMYS68RbFYb8Q",
+    "summary": "ハンドメイドの売れ残り、値下げするか作るのをやめるか、毎月迷っていない？商品ごとの売れ行きの数字をAIに貼って、売...",
+    "published": "2026-10-17T00:26:10.087117+00:00",
+    "image": "https://static.aimanavo.com/p3sv22gyef2m02jtyua7vdvowyxs.webp",
+    "first_seen": "2026-10-17T00:26:10.087117+00:00"
+  },
+  {
+    "title": "個人店のホームページの文章は、AIで何の店か伝わる形に直せる",
+    "link": "https://aimanavo.com/c/aoi_scissors/a/MjcBE7QgkbVU3A",
+    "summary": "個人店のホームページの文章は、AIに直してもらえます。中身のない言葉を外して、「何の店で、誰のための店か」が分かる...",
+    "published": "2026-10-17T00:26:10.087117+00:00",
+    "image": "https://static.aimanavo.com/s0p8isoqdehhacorhtg4am5b366b.webp",
+    "first_seen": "2026-10-17T00:26:10.087117+00:00"
+  },
+  {
+    "title": "生徒の退会連絡への返事に迷ったら、事情を貼ってAIに下書きを頼む",
+    "link": "https://aimanavo.com/c/mizuno_sato/a/pMHk9LHlzxYcZQ",
+    "summary": "教室やサロンで生徒から「やめたい」と連絡が届いたら、届いた文面と分かっている事情を依頼文に貼って、AIに返事の下書...",
+    "published": "2026-10-17T00:26:10.087117+00:00",
+    "image": "https://static.aimanavo.com/59lx93wunwbe8hmewaan88bnshtm.webp",
+    "first_seen": "2026-10-17T00:26:10.087117+00:00"
+  },
+  {
     "title": "OpenAIが「28日間、毎日アップデートか使用量リセット」を宣言。Xがお祭り状態になっている話",
     "link": "https://aimanavo.com/c/nikutama/a/NEgArtpXzHqijw",
     "summary": "&gt;この記事のダイジェスト版はPodcastでも視聴いただけます。最近、Xでちょっと楽しみにしているアカウント...",
@@ -750,53 +798,5 @@
     "published": "2026-10-01T16:24:07.101883+00:00",
     "image": "https://static.aimanavo.com/sjehhhomaeo7c90d0wokay5h7aq9.webp",
     "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "Whiteboardに設計図を描かせると、AIのPRレビューは楽になるか。",
-    "link": "https://aimanavo.com/c/gennnn/a/gOOVynPy7y2P8g",
-    "summary": "AIエージェントが出してきた大きなPRを上から読んでいって、途中で集中が切れたまま承認したこと、ありませんか？ d...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/krow1mf2jz0tuy7smnxcyjt9fi4u.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "AIエージェントをMacに入れる前に確認したい3つの権限と見方",
-    "link": "https://aimanavo.com/c/alert3am/a/oK0RrkX8xTp9Mg",
-    "summary": "AIエージェントのアプリをMacに入れると、セットアップの途中で「フルディスクアクセス」や「オートメーション」の許...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/zqzvc0lkpjap4jj4p19tbn5ojof1.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "CLAUDE.mdはいずれ不要になるのか。Anthropic社員の発言を読む",
-    "link": "https://aimanavo.com/c/morphox_ai/a/rENWm9u02Zx2iQ",
-    "summary": "CLAUDE.mdに行を足したことはあっても、最後に消したのはいつでしょうか？ AnthropicでClaude ...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/lhbna9verv98sfljxv9ksw9njds5.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "テレアポの断られ方を日本語で練習できるAIロープレ5つと同じ台本で試す手順",
-    "link": "https://aimanavo.com/c/closingmaster/a/34jAbqCYXmu7Fg",
-    "summary": "「結構です」と言われた直後に、次の一言が出ないまま電話を切られてしまう。そんなテレアポが続いていませんか？AIロー...",
-    "published": "2026-10-01T16:24:07.101883+00:00",
-    "image": "https://static.aimanavo.com/cbeug3uht9lvoxlpsnzlh0s4adxm.webp",
-    "first_seen": "2026-10-01T16:24:07.101883+00:00"
-  },
-  {
-    "title": "THE世界大学ランキング2027、国内上位30校の10年推移表",
-    "link": "https://aimanavo.com/c/kokuban_t/a/J9xMU8kMMO2uuw",
-    "summary": "THE世界大学ランキング2027が2026年9月30日に発表され、日本の大学は東京大学が27位（前年26位）、京都...",
-    "published": "2026-10-01T02:06:53.708328+00:00",
-    "image": "https://static.aimanavo.com/rnmx6dj7e0pe9x6dxem4sax7bxmk.webp",
-    "first_seen": "2026-10-01T02:06:53.708328+00:00"
-  },
-  {
-    "title": "Google mantisは、なぜ脆弱性にCriticalを簡単に付けないのか",
-    "link": "https://aimanavo.com/c/kanaeee/a/h_LfFTb7ow8H8Q",
-    "summary": "AIにコードの脆弱性を探させると、Criticalがずらりと並んだ結果が返ってきて、受け取った側はどこから読めばい...",
-    "published": "2026-09-30T23:01:10.080899+00:00",
-    "image": "https://static.aimanavo.com/s9dmt2e7zym1vnomsd7p7pns7gwi.webp",
-    "first_seen": "2026-09-30T23:01:10.080899+00:00"
   }
 ]
